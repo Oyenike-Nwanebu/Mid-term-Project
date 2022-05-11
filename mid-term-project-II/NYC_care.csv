@@ -616,7 +616,7 @@
 2,Dr Koutelos,40.620473,-74.023526,"8501 Fort Hamilton Pkwy, Brooklyn, NY 11209",Brooklyn,Bayridge,Home Health Care Service
 2,Sheepshead Bay Nursing Home,40.585259,-73.931675,"2840 Knapp St, Brooklyn, NY 11235",Brooklyn,Plum Beach,Home Health Care Service
 2,Bay Ridge Orthopedic Association Of Sheepshead Bay,40.607263,-73.942526,"2950 Avenue R, Brooklyn, NY 11229",Brooklyn,Sheepshead Bay,Home Health Care Service
-2,Brooklyn Hospital Labor & Delivery,40.69048,-73.977991,"Dekalb Ave, Brooklyn, NY 11201",Brooklyn,Clinton Hill,Home Health Care Service
+2,The Brooklyn Hospital Center,40.690104,-73.977933,"121 Dekalb Ave (at Ashland Pl.), Brooklyn, NY 11201",Brooklyn,Clinton Hill,Home Health Care Service
 2,Haym Salomon Home for Nursing & Rehabilitation,40.594879,-73.996339,"2340 Cropsey Ave (Bay 34th St), Brooklyn, NY 11214",Brooklyn,Bath Beach,Home Health Care Service
 2,CityMD Boerum Hill Urgent Care - Brooklyn,40.686162,-73.982184,"457 Atlantic Ave (Nevins Street), New York, NY 11217",New York,Boerum Hill,Home Health Care Service
 2,Park Slope Chiropractic,40.685317,-73.977528,"1 Hanson Pl, Brooklyn, NY 11243",Brooklyn,Fort Greene,Home Health Care Service
@@ -880,7 +880,7 @@
 3,Oral And Maxillofacial Surgery Dr Wolfersberger,40.626572,-74.019195,"655 76th St, Brooklyn, NY 11209",Brooklyn,Bayridge,Doctor's Office
 3,Family Smile Dental,40.598948,-73.937289,"3029 Avenue V (Ford Street & Coyle Street), Brooklyn, NY 11229",Brooklyn,Gerritsen,Doctor's Office
 3,Serenity Laser Dental,40.609559,-73.943267,"3065 Nostrand Ave, Brooklyn, NY 11229",Brooklyn,Sheepshead Bay,Doctor's Office
-3,The Brooklyn Hospital Center,40.690104,-73.977933,"121 Dekalb Ave (at Ashland Pl.), Brooklyn, NY 11201",Brooklyn,Clinton Hill,Doctor's Office
+3,Brooklyn Hospital Labor & Delivery,40.69048,-73.977991,"Dekalb Ave, Brooklyn, NY 11201",Brooklyn,Clinton Hill,Doctor's Office
 3,Your Optical,40.578577,-73.975983,"2849 W 8th St, Brooklyn, NY 11224",Brooklyn,Coney Island,Doctor's Office
 3,Weill Cornell Medicine,40.692482,-73.99168,"186 Joralemon St (Court Street), Brooklyn, NY 11201",Brooklyn,Boerum Hill,Doctor's Office
 3,Barclays Center - Modell's Vaccination Pop-Up,40.683746,-73.97764,"140 Flatbush Ave (Atlantic Avenue), Brooklyn, NY 11217",Brooklyn,Boerum Hill,Doctor's Office
@@ -1395,7 +1395,7 @@
 5,Kings County Hospital Center,40.656692,-73.943545,"451 Clarkson Ave, Brooklyn, NY 11203",Brooklyn,Rugby,Hospital
 5,Maimonides Medical Center,40.639533,-73.99836,"4802 10th Ave (at W 48th St.), Brooklyn, NY 11219",Brooklyn,Kensington,Hospital
 5,Tribeca Pediatrics,40.66021,-73.99499,"5TH Ave (23rd And 24th), Brooklyn, NY 11232",Brooklyn,South Brooklyn,Hospital
-5,SPEAR Physical Therapy,40.674465,-73.976145,"794 Union St, Brooklyn, NY 11215",Brooklyn,Park Slope,Hospital
+5,One Medical,40.674642,-73.976171,"794 Union St, Brooklyn, NY 11215",Brooklyn,Park Slope,Hospital
 5,Oda Health,40.697056,-73.956041,"517 Park Ave (Bedford Avenue), Brooklyn, NY 11205",Brooklyn,Clinton Hill,Hospital
 5,Interfaith Medical Center,40.678147,-73.937345,"1545 Atlantic Ave (Troy Ave), Brooklyn, NY 11213",Brooklyn,Bedford,Hospital
 5,Chai Urgent Care,40.698655,-73.956713,"735 Bedford Ave, Brooklyn, NY 11205",Brooklyn,Williamsburg,Hospital
@@ -1557,7 +1557,7 @@
 5,I'll Be Seeing You,40.552257,-74.191196,"262 Arden Ave (at Nedra Ln), Staten Island, NY 10312",Staten Island,Aspen Knolls,Hospital
 5,The Healthy Body,40.583442,-74.157161,"271 Kelly Blvd, Staten Island, NY 10314",Staten Island,New Springville,Hospital
 5,Clearview Vision Assco,40.584977,-74.1675,"2555 Richmond Ave, Staten Island, NY 10314",Staten Island,New Springville,Hospital
-5,Mount Sinai Faculty Practice Associates,40.789141,-73.954262,"5 E 98th St, New York, NY 10029",New York,Carnegie Hill,Hospital
+5,"Mount Sinai, Department Of Dermatology",40.789201,-73.954046,"5 E 98th St, New York, NY 10029",New York,Carnegie Hill,Hospital
 5,Betances Health Center,40.713731,-73.983612,"280 Henry St (Montgomery St.), New York, NY 10002",New York,Downtown,Hospital
 5,Medical Associates,40.709893,-74.005806,"156 William St (btwn Ann & Beekman St), New York, NY 10038",New York,City Hall,Hospital
 5,NYC Health Service,40.749653,-73.999694,"303 9th Ave (28th St.), New York, NY 10001",New York,Chelsea,Hospital
@@ -1666,7 +1666,7 @@
 6,Kings County Behavioral Health Center,40.656347,-73.946365,"New York, NY 11203",New York,Prospect,Hospital
 6,Quest Diagnostics,40.635191,-73.96368,"1416 Newkirk Ave, Brooklyn, NY 11226",Brooklyn,Ditmas Park West,Hospital
 6,Park Slope Dental,40.669385,-73.976645,"300 8th Ave (3rd. St), Brooklyn, NY 11215",Brooklyn,Park Slope,Hospital
-6,One Medical,40.674642,-73.976171,"794 Union St, Brooklyn, NY 11215",Brooklyn,Park Slope,Hospital
+6,SPEAR Physical Therapy,40.674465,-73.976145,"794 Union St, Brooklyn, NY 11215",Brooklyn,Park Slope,Hospital
 6,Amber Court Of Brooklyn,40.648957,-73.897925,"650 E 104th St, Brooklyn, NY 11236",Brooklyn,Canarsie,Hospital
 6,Spear Physical Therapy Brooklyn Williamsburg,40.719908,-73.960841,"71 N 7th St (btwn Wythe & Kent Avs), Brooklyn, NY 11249",Brooklyn,North Side,Hospital
 6,Neighborhood Natural Medicine,40.710225,-73.949523,"30 Maujer St, Brooklyn, NY 11206",Brooklyn,South Side,Hospital
@@ -1707,7 +1707,7 @@
 6,Spring Ob/Gyn,40.724108,-74.000738,"135 Spring St (Between Wooster and Greene Streets), New York, NY 10012",New York,Downtown,Hospital
 6,Milstein Hospital Building,40.841437,-73.943194,"177 Fort Washington Ave, New York, NY 10032",New York,Uptown,Hospital
 6,NewYork-Presbyterian Allen Hospital,40.873242,-73.913147,"5141 Broadway (220th St), New York, NY 10034",New York,Inwood,Hospital
-6,Davis Timicka Division of Plastic Surgery,40.841377,-73.94341,"161 Fort Washington Ave (5th Fl.), New York, NY 10032",New York,Uptown,Hospital
+6,Harlem VistaSite Eye Care,40.806101,-73.953953,"2204 Frederick Douglass Blvd, New York, NY 10026",New York,Central Harlem,Hospital
 6,Harlem Hospital Center,40.814409,-73.940059,"506 Malcolm X Blvd, New York, NY 10037",New York,Central Harlem,Hospital
 6,Sydenham Hospital,40.80514,-73.953567,"264 W 118th St, New York, NY 10026",New York,Central Harlem,Hospital
 6,"Iwamasa, Julia - Advantagecare Physicians Upper East Side Medical Office",40.78443,-73.948748,"215 E 95th St (Between 3rd and 2nd Ave.), New York, NY 10128",New York,Carnegie Hill,Hospital
@@ -1820,7 +1820,7 @@
 6,Eden 2 Institute,40.5528,-74.187304,"381 Carlton Blvd, Staten Island, NY 10312",Staten Island,Aspen Knolls,Hospital
 6,Sterling Optical,40.58281,-74.166058,"2655 Richmond Ave, Staten Island, NY 10314",Staten Island,New Springville,Hospital
 6,Farkas Benjamin Dr,40.590235,-74.164418,"89 Stephen Loop, Staten Island, NY 10314",Staten Island,New Springville,Hospital
-6,"Mount Sinai, Department Of Dermatology",40.789201,-73.954046,"5 E 98th St, New York, NY 10029",New York,Carnegie Hill,Hospital
+6,Mount Sinai Faculty Practice Associates,40.789141,-73.954262,"5 E 98th St, New York, NY 10029",New York,Carnegie Hill,Hospital
 6,Gouverneur Health,40.713015,-73.988166,"227 Madison St (btw Clinton & Jefferson St), New York, NY 10002",New York,Downtown,Hospital
 6,CP Advanced Imaging,40.716571,-73.99625,"155 Canal St, New York, NY 10013",New York,Chinatown,Hospital
 6,Manhattan Specialty Care,40.740528,-73.994006,"55 W 17th St, New York, NY 10011",New York,Chelsea,Hospital
@@ -1971,7 +1971,7 @@
 7,"Himani Goyal, MD",40.627622,-74.026077,"7901 4th Ave, Brooklyn, NY 11209",Brooklyn,Bayridge,Health and Medicine
 7,NewYork-Presbyterian Lower Manhattan Hospital,40.710132,-74.004943,"170 William St (at Gold St), New York, NY 10038",New York,City Hall,Health and Medicine
 7,Russ Berrie Medical Science Pavilion,40.840405,-73.939347,"1150 Saint Nicholas Ave (at W 168th St), New York, NY 10032",New York,Uptown,Health and Medicine
-7,Harlem VistaSite Eye Care,40.806101,-73.953953,"2204 Frederick Douglass Blvd, New York, NY 10026",New York,Central Harlem,Health and Medicine
+7,Davis Timicka Division of Plastic Surgery,40.841377,-73.94341,"161 Fort Washington Ave (5th Fl.), New York, NY 10032",New York,Uptown,Health and Medicine
 7,Hernandez Aurea - Central Harlam Health STN,40.81373,-73.937147,"2238 5th Ave (136th Street), New York, NY 10037",New York,Central Harlem,Health and Medicine
 7,GVS @ Lincoln Medical Center,40.817533,-73.924083,"234 E 149th St (btwn Park & Morris Ave), Bronx, NY 10451",Bronx,Patterson Houses,Health and Medicine
 7,Upper East Veterinary Center,40.784239,-73.951887,"1435 Lexington Ave (at E. 94th), New York, NY 10128",New York,Carnegie Hill,Health and Medicine
@@ -2425,7 +2425,7 @@
 9,Family Care Center,40.88083,-73.881331,"3444 Kossuth Ave (Gunhill Road & 210th Street), Bronx, NY 10467",Bronx,Norwood,Nursing Home
 9,Jacobi Medical Center Maternity,40.857339,-73.847501,"1400 Pelham Pkwy S (Eastchester Rd & Morris Park Ave), Bronx, NY 10461",Bronx,Pelham Parkway,Nursing Home
 9,A Dental,40.847359,-73.857467,"960 Morris Park Ave, Bronx, NY 10462",Bronx,Van Nest,Nursing Home
-9,"Ralph H Capalbo Jr, MD PC",40.825883,-73.821034,"3757 E Tremont Ave, Bronx, NY 10465",Bronx,Schuvilerville,Nursing Home
+9,Earl Christopher DVM Middletown Animal Clinic,40.843669,-73.830859,"2968 Middletown Rd, Bronx, NY 10461",Bronx,Unionport,Nursing Home
 9,Medalliance Medical Health Services,40.858341,-73.883869,"625 E Fordham Rd (Arthur Ave), Bronx, NY 10458",Bronx,Belmont,Nursing Home
 9,Essen Medical Associates,40.845846,-73.921524,"1550 Dr Martin L King Jr Blvd, New York, NY 10452",New York,Morris Heights,Nursing Home
 9,Russ Berrie Medical Science Pavilion,40.840405,-73.939347,"1150 Saint Nicholas Ave (at W 168th St), New York, NY 10032",New York,Uptown,Nursing Home
@@ -2690,10 +2690,10 @@
 10,Montefiore Hospital Clinic Building,40.880993,-73.881293,"3444 Kossuth Ave (East Gun Hill Rd), Bronx, NY 10467",Bronx,Norwood,Nursing Home
 10,Motion Sports Medicine,40.852918,-73.838763,"1250 Waters Pl, Bronx, NY 10461",Bronx,Westchester,Nursing Home
 10,Montefiore Medical Center Jack D. Weiler Hospital Emergency Department,40.849057,-73.846063,"Albert Einstein Hospital (1825 Eastchester Rd), Bronx, NY 10461",Bronx,Westchester,Nursing Home
-10,Earl Christopher DVM Middletown Animal Clinic,40.843669,-73.830859,"2968 Middletown Rd, Bronx, NY 10461",Bronx,Unionport,Nursing Home
+10,"Ralph H Capalbo Jr, MD PC",40.825883,-73.821034,"3757 E Tremont Ave, Bronx, NY 10465",Bronx,Schuvilerville,Nursing Home
 10,Mosholu Optical,40.882346,-73.881212,"3490 Jerome Ave (Gun Hill Road), Bronx, NY 10467",Bronx,Norwood,Nursing Home
 10,Healthway Medical Care Pc,40.850201,-73.893546,"552 E 180th St, Bronx, NY 10457",Bronx,East Tremont,Nursing Home
-10,Hasan Mahfujul,40.857824,-73.901579,"108 E 183rd St, Bronx, NY 10453",Bronx,Fordham,Nursing Home
+10,Substance Treatment & Research,40.841072,-73.940115,"600 W 168th St, New York, NY 10032",New York,Uptown,Nursing Home
 10,Bronx Medical & Dental Plaza,40.84648,-73.885049,"817 E 180th St, Bronx, NY 10460",Bronx,East Tremont,Nursing Home
 10,Luis E Guerrero,40.830401,-73.865773,"1216 Beach Ave, Bronx, NY 10472",Bronx,Parkchester,Nursing Home
 10,Bronx Lebanon - Fulton Division,40.831428,-73.902953,"1276 Fulton Ave (E 169th St), Bronx, NY 10456",Bronx,Morrisania,Nursing Home
@@ -2841,7 +2841,7 @@
 10,"Arelys Santana, DDS - D and S DENTAL",40.750126,-73.876547,"3717 90th St, Jackson Heights, NY 11372",Jackson Heights,Elmhurst,Nursing Home
 10,Urological Diagnostic Offices PC,40.780051,-73.775129,"2383 Bell Blvd, Bayside, NY 11360",Bayside,Bay Terrace,Nursing Home
 10,Drs. Levitt and Ganci DDS,40.780706,-73.801681,"16034 Willets Point Blvd (Francis Lewis Boulevard), Whitestone, NY 11357",Whitestone,Whitestone,Nursing Home
-10,Mostel Harold,40.59627,-73.753931,"238 Beach 20th St, Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Nursing Home
+10,Silver Star Urgent Care,40.596055,-73.753923,"228 Beach 20th St, Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Nursing Home
 10,Queens Long Island Medical,40.598774,-73.763549,"2915 Far Rockaway Blvd, Far Rockaway, NY 11691",Far Rockaway,Bayswater,Nursing Home
 10,Rockaway Beach Veterinary Services,40.586459,-73.815868,"9202 Rockaway Beach Blvd, Rockaway Beach, NY 11693",Rockaway Beach,Holland,Nursing Home
 10,Belle Harbor Manor,40.577524,-73.845051,"209 Beach 125th St, Rockaway Park, NY 11694",Rockaway Park,Rockaway Beach,Nursing Home
@@ -2960,7 +2960,7 @@
 11,Pourrat Monahemi,40.825242,-73.820423,"3795 E Tremont Ave, Bronx, NY 10465",Bronx,Schuvilerville,Veterinarian
 11,University Nursing Home,40.864838,-73.901929,"2505 Grand Ave, Bronx, NY 10468",Bronx,Fordham,Veterinarian
 11,Zappala Cirino PhD,40.868871,-73.917054,"5030 Broadway, New York, NY 10034",New York,Inwood,Veterinarian
-11,Substance Treatment & Research,40.841072,-73.940115,"600 W 168th St, New York, NY 10032",New York,Uptown,Veterinarian
+11,Hasan Mahfujul,40.857824,-73.901579,"108 E 183rd St, Bronx, NY 10453",Bronx,Fordham,Veterinarian
 11,"Mount Sinai Doctors-Inwood, Urgent Care",40.868983,-73.916883,"5030 Broadway, New York, NY 10034",New York,Inwood,Veterinarian
 11,Bronx Rhio,40.85949,-73.868766,"2275 Olinville Ave, Bronx, NY 10467",Bronx,Bronxdale,Veterinarian
 11,Herbert Irving Pavilion,40.840842,-73.943215,"161 Fort Washington Ave (at W 165th Street), New York, NY 10032",New York,Uptown,Veterinarian
@@ -3124,7 +3124,7 @@
 11,Zuckerman Research Center,40.765216,-73.956835,"410 E 69th St, New York, NY 10021",New York,Lenox Hill,Veterinarian
 11,Silver Daniel Dr,40.670383,-73.708648,"100 N Central Ave, Valley Stream, NY 11580",Valley Stream,Central Valley Stream,Veterinarian
 11,Perfect Teeth Dental,40.724559,-73.866133,"8811 63rd Dr, Rego Park, NY 11374",Rego Park,LeFrak City,Veterinarian
-11,A Heel Pain Center,40.581958,-73.838031,"11412 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Veterinarian
+11,Shape Watchers,40.581958,-73.838031,"11404 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Veterinarian
 11,North Shore University Hospital,40.601455,-73.763989,"821 Bay 25th St, Far Rockaway, NY 11691",Far Rockaway,Bayswater,Veterinarian
 11,Goldberg Dental of Vly Stream,40.668774,-73.712692,"417 W Merrick Rd (N Waldinger St.), Valley Stream, NY 11580",Valley Stream,Rosedale,Veterinarian
 11,Hunter Vision Center,40.756921,-73.828708,"4157 Main St (Sanford Ave & Main St), Flushing, NY 11355",Flushing,Flushing,Veterinarian
@@ -3384,7 +3384,7 @@
 12,CityMD Mott Haven Urgent Care - Bronx,40.806869,-73.916901,"571 E 138th St, Bronx, NY 10454",Bronx,Mill Brook Houses,Dentist
 12,Northern Boulevard Footcare,40.765184,-73.815768,"14945 Northern Blvd (149th Street), Flushing, NY 11354",Flushing,Flushing,Dentist
 12,Cazazian Abram DDS PC,40.76232,-73.772155,"4203 212th St, Bayside, NY 11361",Bayside,Bayside,Dentist
-12,Silver Star Urgent Care,40.596055,-73.753923,"228 Beach 20th St, Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Dentist
+12,Mostel Harold,40.59627,-73.753931,"238 Beach 20th St, Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Dentist
 12,North Shore University Hospital,40.601455,-73.763989,"821 Bay 25th St, Far Rockaway, NY 11691",Far Rockaway,Bayswater,Dentist
 12,Smile Saver II,40.587095,-73.814193,"9008 Rockaway Beach Blvd, Rockaway Beach, NY 11693",Rockaway Beach,Seaside,Dentist
 12,Community Pain Medicine,40.769032,-73.827744,"14021 32nd Ave, Flushing, NY 11354",Flushing,Down Town Flushing,Dentist
@@ -3397,7 +3397,7 @@
 12,X Collado Dental Center,40.679902,-73.860443,"10105 77th St, Ozone Park, NY 11416",Ozone Park,City Line,Dentist
 12,Ear Nose & Throat,40.665375,-73.708525,"76 S Central Ave, Valley Stream, NY 11580",Valley Stream,Rosedale,Dentist
 12,Novel MD,40.724742,-73.854965,"9830 67th Ave, Rego Park, NY 11374",Rego Park,Forest Hills,Dentist
-12,Shape Watchers,40.581958,-73.838031,"11404 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Dentist
+12,A Heel Pain Center,40.581958,-73.838031,"11412 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Dentist
 12,Queens Long Island Medical,40.598774,-73.763549,"2915 Far Rockaway Blvd, Far Rockaway, NY 11691",Far Rockaway,Bayswater,Dentist
 12,Queens Long Island Dental Care,40.661622,-73.709926,"260 W Sunrise Hwy, Valley Stream, NY 11581",Valley Stream,Rosedale,Dentist
 12,All Bright Dental PC,40.74865,-73.709333,"26309 Union Tpke, Glen Oaks, NY 11004",Glen Oaks,Glen Oaks,Dentist
@@ -3452,7 +3452,7 @@
 12,CareOne at Trinitas Regional Medical Center,40.658779,-74.214587,"225 Williamson St, Elizabeth, NJ 07202",Elizabeth,Mravlag Manor,Dentist
 12,University Hospital of Brooklyn,40.65509,-73.945009,"470 Clarkson Ave (E 37th St), Brooklyn, NY 11203",Brooklyn,Prospect,Dentist
 12,Franco's Optical Inc.,40.681662,-73.879782,"391 Arlington Ave, Brooklyn, NY 11208",Brooklyn,Cypres Hills,Dentist
-12,Peak Physical Therapy,40.617685,-73.943534,"3131 Kings Hwy, Brooklyn, NY 11234",Brooklyn,Manhattan Terrace,Dentist
+12,Mount Sinai Doctors Midwood,40.617795,-73.943451,"3131 Kings Hwy, Brooklyn, NY 11234",Brooklyn,Manhattan Terrace,Dentist
 12,Anna N Krol Physician PC,40.718716,-73.812501,"15028 Union Tpke, Flushing, NY 11367",Flushing,Kew Gardens Hills,Dentist
 12,3 D Dental,40.74877,-73.816803,"4805 Kissena Blvd, Flushing, NY 11355",Flushing,Queensboro Hills,Dentist
 12,"Shafizadeh Farshad, MD",40.7549,-73.817061,"14601 45th Ave, Flushing, NY 11355",Flushing,Flushing,Dentist
@@ -3657,7 +3657,6 @@
 13,Elmhurst Hospital Center,40.745082,-73.885837,"7901 Broadway (at 78th St.), Elmhurst, NY 11373",Elmhurst,Elmhurst,General Surgeon
 13,Pastore Raymond W DDS,40.773705,-73.775569,"21305 32nd Ave, Bayside, NY 11361",Bayside,Bay Terrace,General Surgeon
 13,Bayside Pediatrics PC,40.762034,-73.771932,"4223 212th St, Bayside, NY 11361",Bayside,Bayside,General Surgeon
-13,Podiatrist,40.595894,-73.753874,"224 Beach 20th St, Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,General Surgeon
 13,North Shore Lij Health System,40.601672,-73.76391,"821 Bay 25th St, Far Rockaway, NY 11691",Far Rockaway,Bayswater,General Surgeon
 13,Empire Medical of Rockaway Beach,40.587323,-73.813679,"8820 Rockaway Beach Blvd (88th street), Rockaway Beach, NY 11693",Queens,Seaside,General Surgeon
 13,Charles B Wang Community Health Care,40.761519,-73.830358,"13626 37th Ave (37th Avenue & Main St), Flushing, NY 11354",Flushing,Down Town Flushing,General Surgeon
@@ -3722,7 +3721,7 @@
 13,Home Care,40.6314,-74.118689,"117 Caroline St, Staten Island, NY 10310",Staten Island,West New Brighton,General Surgeon
 13,St Mary's Hospital Of Brooklyn,40.672917,-73.927291,"1480 Prospect Pl, Brooklyn, NY 11213",Brooklyn,Weeksville,General Surgeon
 13,Grega Renato C,40.678344,-73.86854,"1098 Liberty Ave, Brooklyn, NY 11208",Brooklyn,City Line,General Surgeon
-13,Mount Sinai Doctors Midwood,40.617795,-73.943451,"3131 Kings Hwy, Brooklyn, NY 11234",Brooklyn,Manhattan Terrace,General Surgeon
+13,Peak Physical Therapy,40.617685,-73.943534,"3131 Kings Hwy, Brooklyn, NY 11234",Brooklyn,Manhattan Terrace,General Surgeon
 13,"Sheryl Varnai, DDS",40.719472,-73.812441,"15005 Union Tpke, Flushing, NY 11367",Flushing,Kew Gardens Hills,General Surgeon
 13,Community First Medical,40.71417,-73.781315,"87-16 Avon St, New York, NY 11432",New York,Hillside,General Surgeon
 13,TJH Medical Services PC,40.75506,-73.817111,"14601 45th Ave (Burling St.), Flushing, NY 11355",Flushing,Flushing,General Surgeon
@@ -3908,7 +3907,7 @@
 14,NY Lasergroup,40.694389,-73.827602,"11915 Atlantic Ave, Richmond Hill, NY 11418",Richmond Hill,Richmond Hill,Health and Medicine
 14,Grega Renato C,40.678344,-73.86854,"1098 Liberty Ave, Brooklyn, NY 11208",Brooklyn,City Line,Health and Medicine
 14,M & S Dental Supply Co,40.686596,-73.83718,"10530 101st Ave, Ozone Park, NY 11416",Ozone Park,Richmond Hill,Health and Medicine
-14,Albert Jen,40.760879,-73.830073,"13620 38th Ave, Flushing, NY 11354",Flushing,Down Town Flushing,Health and Medicine
+14,Montefiore Medical Center,40.760879,-73.830073,"13620 38th Ave, Flushing, NY 11354",Flushing,Down Town Flushing,Health and Medicine
 14,Chon Youngmi,40.763408,-73.828241,"3616 Union St, Flushing, NY 11354",Flushing,Down Town Flushing,Health and Medicine
 14,Lenny Ramirez Dpm,40.773005,-73.794681,"169 18 26TH Ave, Flushing, NY 11358",Flushing,Auburndale,Health and Medicine
 14,Bell Dental Care,40.763021,-73.769127,"21435 42nd Ave, Bayside, NY 11361",Bayside,Bayside,Health and Medicine
@@ -3932,6 +3931,7 @@
 14,Metropolitan Hospital Center,40.784861,-73.944743,"1901 1st Ave (btwn E 97th & E 99th St), New York, NY 10029",New York,Carnegie Hills,Health and Medicine
 14,Cho Orthodontics,40.773449,-73.774992,"3206 Bell Blvd, Bayside, NY 11361",Bayside,Bayside,Health and Medicine
 14,Gary B Feldman DPM-Flushing,40.771446,-73.802971,"16101 29th Ave, Flushing, NY 11358",Flushing,Auburndale,Health and Medicine
+14,Podiatrist,40.595894,-73.753874,"224 Beach 20th St, Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Health and Medicine
 14,Supportive Living Program,40.594889,-73.75532,"2031 Seagirt Blvd, Far Rockaway, NY 11691",Far Rockaway,Wave Crest,Health and Medicine
 14,Rock Pharmacy & Surgical,40.587325,-73.813592,"8818 Rockaway Beach Blvd, Rockaway Beach, NY 11693",Rockaway Beach,Hammels,Health and Medicine
 14,Gloria's Manor Home For Adults,40.577581,-73.8387,"140 Beach 119th St, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Health and Medicine
@@ -4023,7 +4023,7 @@
 14,Brooklyn Hospital Labor & Delivery,40.69048,-73.977991,"Dekalb Ave, Brooklyn, NY 11201",Brooklyn,Clinton Hill,Health and Medicine
 14,Victory Internal Medicine PC,40.611517,-74.140955,"2315 Victory Blvd, Staten Island, NY 10314",Staten Island,Meiers Corners,Health and Medicine
 14,University Physicians Group,40.613814,-74.111853,"1460 Victory Blvd, Staten Island, NY 10301",Staten Island,Castleton Corners,Health and Medicine
-14,Dr Qin's Acupuncture Office,40.5885,-73.939372,"3901 Nostrand Ave, Brooklyn, NY 11235",Brooklyn,Plum Beach,Health and Medicine
+14,Sea Isle Owners,40.5885,-73.939372,"3901 Nostrand Ave, Brooklyn, NY 11235",Brooklyn,Plum Beach,Health and Medicine
 14,Best Medical,40.610662,-73.958377,"1599 E 15th St, Brooklyn, NY 11230",Brooklyn,Manhattan Terrace,Health and Medicine
 14,Advantagecare Physicians,40.710904,-73.856207,"9610 Metropolitan Ave, Forest Hills, NY 11375",Forest Hills,Parkside,Health and Medicine
 14,MacCia John DVM,40.522531,-74.23973,"4915 Arthur Kill Rd, Staten Island, NY 10309",Staten Island,Harbor Terrace,Health and Medicine
@@ -4178,7 +4178,7 @@
 15,Amicable World,40.666211,-73.851804,"8217 153rd Ave, Howard Beach, NY 11414",Howard Beach,Lidenwood,Doctor's Office
 15,"Wang Wen Y MD Wang, Wen, Yi, MD",40.700008,-73.833431,"11614 Myrtle Ave, New York, NY 11418",New York,Richmond Hill,Doctor's Office
 15,Eye World Optical Of Of Ozone Park,40.680583,-73.842501,"9602 Liberty Ave, Ozone Park, NY 11417",Ozone Park,Woodhaven,Doctor's Office
-15,Montefiore Medical Center,40.760879,-73.830073,"13620 38th Ave, Flushing, NY 11354",Flushing,Down Town Flushing,Doctor's Office
+15,Albert Jen,40.760879,-73.830073,"13620 38th Ave, Flushing, NY 11354",Flushing,Down Town Flushing,Doctor's Office
 15,Han-Mi Optical Center,40.762033,-73.827144,"3717 Union St, Flushing, NY 11354",Flushing,Down Town Flushing,Doctor's Office
 15,Cho Orthodontics,40.773449,-73.774992,"3206 Bell Blvd, Bayside, NY 11361",Bayside,Bayside,Doctor's Office
 15,"Frank Valdinoto, DDS",40.788655,-73.727972,"12 Bond St, Great Neck, NY 11021",Great Neck,East Garden City,Doctor's Office
@@ -4228,7 +4228,7 @@
 15,Edward Levine,40.61378,-74.101572,"1374 Clove Rd, Staten Island, NY 10301",Staten Island,Fox Hills,Doctor's Office
 15,Ballal Hebri DDS,40.556462,-74.168581,"3371 Richmond Ave, Staten Island, NY 10312",Staten Island,Greenridge,Doctor's Office
 15,Ballal Hebri DDS,40.556462,-74.168581,"3371 Richmond Ave, Staten Island, NY 10312",Staten Island,Greenridge,Doctor's Office
-15,Michael A. Schirripa,40.526933,-74.167876,"4855 Hylan Blvd, Staten Island, NY 10312",Staten Island,Huguenot,Doctor's Office
+15,North Shore Staten Island University Hospital,40.526933,-74.167876,"4855 Hylan Blvd, Staten Island, NY 10312",Staten Island,Huguenot,Doctor's Office
 15,Amboy Pediatrics,40.509381,-74.26779,"321 State St, Perth Amboy, NJ 08861",Perth Amboy,Downtown,Doctor's Office
 15,Brook Island Medical Associates Ny State Disability,40.634579,-74.109148,"800 Castleton Ave, Staten Island, NY 10310",Staten Island,West New Brighton,Doctor's Office
 15,Staten Island Mental Health Society,40.635219,-74.103641,"669 Castleton Ave, Staten Island, NY 10301",Staten Island,New Brighton,Doctor's Office
@@ -4265,7 +4265,7 @@
 15,Bay Ridge Orthopedic Association Of Sheepshead Bay,40.607263,-73.942526,"2950 Avenue R, Brooklyn, NY 11229",Brooklyn,Sheepshead Bay,Doctor's Office
 15,CityMD Auburndale Urgent Care - Queens,40.757579,-73.790209,"191-20 Northern Blvd, New York, NY 11358",New York,Bayside,Doctor's Office
 15,Queens Adult Care Center,40.74108,-73.88416,"8008 45th Ave, Elmhurst, NY 11373",Elmhurst,Elmhurst,Doctor's Office
-15,"Segal, Shimon, Md - Lincoln Medical & Mental Health",40.817533,-73.924083,"234 E 149th St, Bronx, NY 10451",Bronx,Patterson Houses,Doctor's Office
+15,Francisco E Bautista Vitie MD,40.81748,-73.924037,"234 E 149th St, Bronx, NY 10451",Bronx,Patterson Houses,Doctor's Office
 15,Morgan Stanley Children's Hospital,40.839697,-73.941596,"3959 Broadway (at W 165th St), New York, NY 10032",New York,Uptown,Doctor's Office
 15,Healthway Medical Care Pc,40.850201,-73.893546,"552 E 180th St, Bronx, NY 10457",Bronx,East Tremont,Doctor's Office
 15,FDNY EMS Station 26,40.830627,-73.900561,"1264 Boston Rd, Bronx, NY 10456",Bronx,Morrisania,Doctor's Office
@@ -4274,7 +4274,7 @@
 15,Reihani Ghazal One Medical New York,40.765616,-73.96406,"171 E 65th St, New York, NY 10065",New York,Lenox Hill,Doctor's Office
 15,Bond Vet - East Village,40.732918,-73.981096,"282 1st Ave, New York, NY 10009",New York,Midtown,Doctor's Office
 15,Joan H. & Preston Robert Tisch Center at Essex Crossing,40.717237,-73.985582,"171 Delancey St, New York, NY 10002",New York,Downtown,Doctor's Office
-15,Onsite Dental,40.74717,-73.98391,"160 Madison Ave (Suite 31), New York, NY 10016",New York,East Side,Doctor's Office
+15,Mount Sinai Beth Israel,40.73283,-73.981713,"10 Nathan D Perlman Pl (btwn E 15th & E 16th St), New York, NY 10003",New York,East Village,Doctor's Office
 15,North Brooklyn Dental Care,40.73103,-73.954076,"169 Kent St, Brooklyn, NY 11222",Brooklyn,Greenpoint,Doctor's Office
 15,Kimmel Pavilion,40.743043,-73.972793,"424 E 34th St (1st Avenue), New York, NY 10016",New York,East Side,Doctor's Office
 15,Weill Cornell Medical Associates,40.716823,-74.006823,"40 Worth St (btwn Church & W Broadway), New York, NY 10013",New York,City Hall Area,Doctor's Office
@@ -4284,7 +4284,7 @@
 15,NYU Langone Medical Center Cobble Hill,40.689942,-73.997862,"339 Hicks St, Brooklyn, NY 11201",Brooklyn,Brooklyn Heights,Doctor's Office
 15,Roccaro Gregory DVM,40.591508,-74.100645,"1564 Richmond Rd, Staten Island, NY 10304",Staten Island,Dongan Hills,Doctor's Office
 15,Mccarthy John D Do,40.586671,-74.104101,"1776 Richmond Rd (Seaver avenue), Staten Island, NY 10306",Staten Island,Dongan Hills,Doctor's Office
-15,Sea Isle Owners,40.5885,-73.939372,"3901 Nostrand Ave, Brooklyn, NY 11235",Brooklyn,Plum Beach,Doctor's Office
+15,Dr Qin's Acupuncture Office,40.5885,-73.939372,"3901 Nostrand Ave, Brooklyn, NY 11235",Brooklyn,Plum Beach,Doctor's Office
 15,Eschen Albert H Optometrist,40.600401,-73.943352,"2821 Avenue U, Brooklyn, NY 11229",Brooklyn,Sheepshead Bay,Doctor's Office
 15,Gil Dechavez DDS - G Smile Dental,40.735859,-73.875453,"8812 55th Ave, Elmhurst, NY 11373",Elmhurst,Elmhurst,Doctor's Office
 15,A Call Away Footcare,40.571189,-74.110854,"347 New Dorp Ln, Staten Island, NY 10306",Staten Island,New Dorp,Doctor's Office
@@ -4496,7 +4496,7 @@
 16,Sayed Gus,40.592974,-74.163211,"2222 Richmond Ave, Staten Island, NY 10314",Staten Island,New Springville,Dentist
 16,University Hospice-Addeo Hospice Residence,40.581486,-74.131308,"78 Meisner Ave, Staten Island, NY 10306",Staten Island,Egbertville,Dentist
 16,Life Works,40.54348,-74.144448,"3932 Hylan Blvd, Staten Island, NY 10308",Staten Island,Great Kills,Dentist
-16,North Shore Staten Island University Hospital,40.526933,-74.167876,"4855 Hylan Blvd, Staten Island, NY 10312",Staten Island,Huguenot,Dentist
+16,Women's Health Care Specialist,40.526933,-74.167876,"4855 Hylan Blvd, Staten Island, NY 10312",Staten Island,Huguenot,Dentist
 16,Service Behavioral,40.518858,-74.260305,"693 Harbortown Blvd, Perth Amboy, NJ 08861",Perth Amboy,Harbor Terrace,Dentist
 16,Dr. Michele Menichella Chiropractic Office,40.63437,-74.110839,"323 Oakland Ave, Staten Island, NY 10310",Staten Island,West New Brighton,Dentist
 16,St Joseph Medical Center,40.62482,-74.074802,"700 Bay St, Staten Island, NY 10304",Staten Island,St. George,Dentist
@@ -4535,7 +4535,7 @@
 16,NewYork-Presbyterian Medical Group Queens - Electrophysiology,40.74733,-73.824983,"5645 Main St, Flushing, NY 11355",Flushing,Queensboro Hills,Dentist
 16,NewYork-Presbyterian Medical Group Queens Pediatric Care,40.743932,-73.777374,"19815 Horace Harding Expy (Francis Lewis Boulevard), Fresh Meadows, NY 11365",Fresh Meadows,Fresh Meadows,Dentist
 16,Manhattan Psychiatric Center,40.789095,-73.92965,"1 Wards Is, New York, NY 10035",New York,Spanish Harlem,Dentist
-16,Francisco E Bautista Vitie MD,40.81748,-73.924037,"234 E 149th St, Bronx, NY 10451",Bronx,Patterson Houses,Dentist
+16,"Segal, Shimon, Md - Lincoln Medical & Mental Health",40.817533,-73.924083,"234 E 149th St, Bronx, NY 10451",Bronx,Patterson Houses,Dentist
 16,Edward S. Harkness Eye Institute,40.840266,-73.942536,"635 W 165th St (at Fort Washington Ave), New York, NY 10032",New York,Uptown,Dentist
 16,Fort Tryon Center for Rehabilitation and Nursing,40.857009,-73.93451,"801 W 190th St, New York, NY 10040",New York,Fort George,Dentist
 16,Rejuve Face & Body Spa,40.866615,-73.918589,"264 Sherman Ave, New York, NY 10034",New York,Inwood,Dentist
@@ -4544,7 +4544,7 @@
 16,Bellevue Hospital Center,40.739475,-73.975453,"462 1st Ave (btwn E 26th & E 28th St), New York, NY 10016",New York,Bellevue,Dentist
 16,Mount Sinai Beth Israel,40.73283,-73.981713,"10 Nathan D Perlman Pl (btwn E 15th & E 16th St), New York, NY 10003",New York,East Village,Dentist
 16,West 11th Street Pediatrics: Ferrier Genevieve MD,40.734895,-73.996797,"46 W 11th St (btwn 5th & 6th), New York, NY 10011",New York,Downtown,Dentist
-16,Mount Sinai Beth Israel,40.73283,-73.981713,"10 Nathan D Perlman Pl (btwn E 15th & E 16th St), New York, NY 10003",New York,East Village,Dentist
+16,Onsite Dental,40.74717,-73.98391,"160 Madison Ave (Suite 31), New York, NY 10016",New York,East Side,Dentist
 16,Special Dental Suites,40.765173,-73.952421,"525 E 68th St (York Avenue), New York, NY 10065",New York,Roosevelt Island,Dentist
 16,Neurosurgery at Mount Sinai Queens,40.768224,-73.924968,"2510 30th Ave, Long Island City, NY 11102",Long Island City,Astoria,Dentist
 16,Mount Sinai Doctors - Delancey Street,40.719039,-73.988752,"104 Delancey St (Ludlow Street), New York, NY 10002",New York,Chinatown,Dentist
@@ -4608,7 +4608,7 @@
 17,Affinity Health,40.837864,-73.841546,"1379 Commerce Ave, Bronx, NY 10461",Bronx,Unionport,Doctor's Office
 17,Montefiore Medical Center,40.880007,-73.879724,"111 E 210th St, Bronx, NY 10467",Bronx,Norwood,Doctor's Office
 17,Pjg Management Services,40.86061,-73.927074,"3 Sickles St, New York, NY 10040",New York,Fort George,Doctor's Office
-17,Yai,40.839094,-73.836557,"3060 E Tremont Ave, Bronx, NY 10461",Bronx,Schuylerville,Doctor's Office
+17,Dr Biagiotti's Office,40.83859,-73.835139,"Tremont Ave (Duddley Ave), Bronx, NY 10461",Bronx,Unionport,Doctor's Office
 17,Earl Christopher DVM Middletown Animal Clinic,40.843669,-73.830859,"2968 Middletown Rd, Bronx, NY 10461",Bronx,Unionport,Doctor's Office
 17,Affinity Health,40.837864,-73.841546,"1379 Commerce Ave, Bronx, NY 10461",Bronx,Unionport,Doctor's Office
 17,Detect Lab,40.823586,-73.820034,"3860 E Tremont Ave, Bronx, NY 10465",Bronx,Throgs Neck,Doctor's Office
@@ -4622,7 +4622,7 @@
 17,Flatiron Pediatrics,40.740257,-73.988057,"27 E 22nd St, New York, NY 10010",New York,Chelsea,Doctor's Office
 17,Anna Dunevsky,40.60875,-73.959392,"1660 E 14th St, Brooklyn, NY 11229",Brooklyn,Gravesend,Doctor's Office
 17,Bayside Medical,40.585674,-73.952408,"1616 Voorhies Ave, Brooklyn, NY 11235",Brooklyn,Little Odessa,Doctor's Office
-17,"Chiu, Gregorio Dr - Advantagecare Physicians Kings Highway Medical Office",40.604736,-73.942386,"3245 Nostrand Ave (at Avenue S), Brooklyn, NY 11229",Brooklyn,Sheepshead Bay,Doctor's Office
+17,"Michael Yuryev, DO - Primary Care Doctor | Family Doctor | Brooklyn, NY",40.603227,-73.952473,"2409 Ocean Ave (Ave T and Ave S), Brooklyn, NY 11229",Brooklyn,Sheepshead Bay,Doctor's Office
 17,PM Pediatrics,40.626691,-73.965224,"1273 Coney Island Ave (Avenue I And Avenue J), Brooklyn, NY 11230",Brooklyn,Fiske Terrace,Doctor's Office
 17,University Hospital of Brooklyn,40.65509,-73.945009,"470 Clarkson Ave (E 37th St), Brooklyn, NY 11203",Brooklyn,Prospect,Doctor's Office
 17,Prospect Park Animal Clinic,40.666686,-73.975408,"105 Prospect Park W (5th Street), Brooklyn, NY 11215",Brooklyn,Park Slope,Doctor's Office
@@ -4660,7 +4660,6 @@
 17,BMS Family Health Center,40.665919,-73.900476,"360 Snediker Ave, Brooklyn, NY 11207",Brooklyn,Brownsville,Doctor's Office
 17,Four Seasons Nursing & Rehabilitation Center,40.642782,-73.899176,"1555 Rockaway Pkwy, Brooklyn, NY 11236",Brooklyn,Canarsie,Doctor's Office
 17,SmileAlign Orthodontics: Dr. Ted Wohl,40.609146,-73.95466,"1680 E 19th St (Quentin Road), Brooklyn, NY 11229",Brooklyn,Gravesend,Doctor's Office
-17,NYC Health+Hospitals Covid Testing Site,40.642454,-73.991982,"4002 Fort Hamilton Pkwy, New York, NY 11218",New York,Kensington,Doctor's Office
 17,Multispecialty Center of Nostrand,40.628194,-73.947378,"2306 Nostrand Ave, Brooklyn, NY 11210",Brooklyn,Flatbush,Doctor's Office
 17,Betances Health Center,40.713731,-73.983612,"280 Henry St (Montgomery St.), New York, NY 10002",New York,Downtown,Doctor's Office
 17,VA Medical Center,40.736876,-73.977444,"423 E 23rd St (at 1st Ave), New York, NY 10010",New York,Bellevue,Doctor's Office
@@ -4768,7 +4767,7 @@
 17,Mccarthy John D Do,40.586671,-74.104101,"1776 Richmond Rd (Seaver avenue), Staten Island, NY 10306",Staten Island,Dongan Hills,Doctor's Office
 17,Weight Watchers,40.540256,-74.17058,"Richmond Ave, Staten Island, NY 10312",Staten Island,Annadale,Doctor's Office
 17,Michael A. Schirripa,40.526933,-74.167876,"4855 Hylan Blvd, Staten Island, NY 10312",Staten Island,Huguenot,Doctor's Office
-17,Women's Health Care Specialist,40.526933,-74.167876,"4855 Hylan Blvd, Staten Island, NY 10312",Staten Island,Huguenot,Doctor's Office
+17,Michael A. Schirripa,40.526933,-74.167876,"4855 Hylan Blvd, Staten Island, NY 10312",Staten Island,Huguenot,Doctor's Office
 17,CVS MinuteClinic,40.5538,-74.1929,"260 Arden Ave, Staten Island, NY 10312",Staten Island,Aspen Knolls,Doctor's Office
 17,Always Home Care,40.510322,-74.268702,"167 New Brunswick Ave, Perth Amboy, NJ 08861",Perth Amboy,Harbor Terrace,Doctor's Office
 17,Manual Therapy Center,40.612641,-74.071079,"555 Tompkins Ave, Staten Island, NY 10305",Staten Island,Rosebank,Doctor's Office
@@ -4880,7 +4879,7 @@
 18,North Central Bronx Hospital,40.880453,-73.881273,"3424 Kossuth Ave (at E 208th St), Bronx, NY 10467",Bronx,Norwood,Optometrist
 18,Pediatric Dentistry of Bronx,40.876978,-73.886049,"3201 Grand Concourse, Bronx, NY 10468",Bronx,Norwood,Optometrist
 18,"Pinzon, Robin Dr-Riverdale Family Practice",40.879976,-73.907795,"3050 Corlear Ave (at 231st St.), Bronx, NY 10463",Bronx,Kings Bridge,Optometrist
-18,Dr Biagiotti's Office,40.83859,-73.835139,"Tremont Ave (Duddley Ave), Bronx, NY 10461",Bronx,Unionport,Optometrist
+18,Yai,40.839094,-73.836557,"3060 E Tremont Ave, Bronx, NY 10461",Bronx,Schuylerville,Optometrist
 18,"Culmine, John Montefiore Medical Group Bronx East",40.835132,-73.84779,"2300 Westchester Ave, Bronx, NY 10462",Bronx,Parkchester,Optometrist
 18,UrgentWay Bronx,40.844308,-73.835432,"2826 Westchester Ave, Bronx, NY 10461",Bronx,Westchester,Optometrist
 18,Yai,40.839094,-73.836557,"3060 E Tremont Ave, Bronx, NY 10461",Bronx,Schuylerville,Optometrist
@@ -4895,7 +4894,7 @@
 18,Sutton Place Dental Associates,40.757252,-73.962076,"433 E 56th St, New York, NY 10022",New York,Midtown,Optometrist
 18,Haym Salomon Home for Nursing & Rehabilitation,40.594879,-73.996339,"2340 Cropsey Ave (Bay 34th St), Brooklyn, NY 11214",Brooklyn,Bath Beach,Optometrist
 18,Eye Appeal,40.587271,-73.953079,"1607 Sheepshead Bay Rd, Brooklyn, NY 11235",Brooklyn,Sheepshead Bay,Optometrist
-18,"Michael Yuryev, DO - Primary Care Doctor | Family Doctor | Brooklyn, NY",40.603227,-73.952473,"2409 Ocean Ave (Ave T and Ave S), Brooklyn, NY 11229",Brooklyn,Sheepshead Bay,Optometrist
+18,"Chiu, Gregorio Dr - Advantagecare Physicians Kings Highway Medical Office",40.604736,-73.942386,"3245 Nostrand Ave (at Avenue S), Brooklyn, NY 11229",Brooklyn,Sheepshead Bay,Optometrist
 18,"COVID-19 Walk-In Testing Center, Gotham Health",40.627885,-73.965561,"1223 Coney Island Ave, Brooklyn, NY 11230",Brooklyn,Fiske Terrace,Optometrist
 18,Pediatric Ophthalmic Conslnts,40.631396,-73.986493,"1552 49th St, Brooklyn, NY 11219",Brooklyn,Kensington,Optometrist
 18,One Medical,40.674642,-73.976171,"794 Union St, Brooklyn, NY 11215",Brooklyn,Park Slope,Optometrist
@@ -4935,6 +4934,7 @@
 18,Romano Richard D DC PC,40.701423,-73.888932,"6553 Myrtle Ave, Glendale, NY 11385",Glendale,Fresh Pond Junction,Optometrist
 18,Midisland Medical,40.621595,-73.934276,"3960 Flatlands Ave, Brooklyn, NY 11234",Brooklyn,Flatlands,Optometrist
 18,Bay Ridge Medical Imaging,40.608256,-73.961724,"2005 Coney Island Ave (Quentin Road), New York, NY 11223",New York,Gravesend,Optometrist
+18,NYC Health+Hospitals Covid Testing Site,40.642454,-73.991982,"4002 Fort Hamilton Pkwy, New York, NY 11218",New York,Kensington,Optometrist
 18,Serenity Laser Dental,40.609559,-73.943267,"3065 Nostrand Ave, Brooklyn, NY 11229",Brooklyn,Sheepshead Bay,Optometrist
 18,Brooklyn Hospital Labor & Delivery,40.69048,-73.977991,"Dekalb Ave, Brooklyn, NY 11201",Brooklyn,Clinton Hill,Optometrist
 18,Mount Sinai Beth Israel Hospital Emergency Department,40.733331,-73.982851,"10 Nathan D Perlman Pl (At 1st Ave), New York, NY 10003",New York,East Village,Optometrist
@@ -5182,7 +5182,7 @@
 19,Inner Fire Integrative Health Services,40.673482,-73.972619,"71 8th Ave, Brooklyn, NY 11217",Brooklyn,Park Slope,Dentist
 19,Tend,40.681639,-73.975464,"215 Flatbush Ave (at Dean St), Brooklyn, NY 11217",Brooklyn,Fort Greene,Dentist
 19,NYC Health + Hospitals/Gotham Health,40.694999,-73.976379,"100 N Portland Ave, Brooklyn, NY 11205",Brooklyn,Downtown Brooklyn,Dentist
-19,Park Slope Dental Arts,40.670249,-73.978554,"506 3rd St, New York, NY 11215",New York,Park Slope,Dentist
+19,The Brooklyn Hospital Center,40.690104,-73.977933,"121 Dekalb Ave (at Ashland Pl.), Brooklyn, NY 11201",Brooklyn,Clinton Hill,Dentist
 19,"Vassallo, Milo Dr-ENT & Allergy Associates",40.69653,-73.991534,"300 Cadman Plz W (Clark St), Brooklyn, NY 11201",Brooklyn,Brooklyn Heights,Dentist
 19,Barclays Center - Modell's Vaccination Pop-Up,40.683746,-73.97764,"140 Flatbush Ave (Atlantic Avenue), Brooklyn, NY 11217",Brooklyn,Boerum Hill,Dentist
 19,"Vassallo, Milo Dr-ENT & Allergy Associates",40.69653,-73.991534,"300 Cadman Plz W (Clark St), Brooklyn, NY 11201",Brooklyn,Brooklyn Heights,Dentist
@@ -5375,7 +5375,6 @@
 19,Knickerbocker Professional Arts Bldng,40.700297,-73.920645,"385 Knickerbocker Ave, Brooklyn, NY 11237",Brooklyn,Bushwick,Dentist
 19,Worth Street Veterinary Center,40.716911,-74.00556,"77 Worth St (btwn. Church and Broadway), New York, NY 10013",New York,City Hall Area,Dentist
 19,Rumc Dr Gessman,40.616257,-74.103548,"1161 Victory Blvd (Clove Rd.), Staten Island, NY 10301",Staten Island,Fox Hills,Dentist
-19,Aadobe Pet Hospital,40.626203,-74.132892,"1294 Forest Ave, Staten Island, NY 10302",Staten Island,Westerleigh,Dentist
 19,The Clinic At Country Estate,40.524177,-74.238673,"4838 Arthur Kill Rd, New York, NY 10309",New York,Richmond Valley,Dentist
 19,Roccaro Gregory DVM,40.591508,-74.100645,"1564 Richmond Rd, Staten Island, NY 10304",Staten Island,Dongan Hills,Dentist
 19,Lewis Mark,40.580349,-73.837799,"241 Beach 116th St, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Dentist
@@ -5456,7 +5455,7 @@
 20,Park Slope Chiropractic,40.685317,-73.977528,"1 Hanson Pl, Brooklyn, NY 11243",Brooklyn,Fort Greene,Optometrist
 20,CP Advanced Imaging,40.716571,-73.99625,"155 Canal St, New York, NY 10013",New York,Chinatown,Optometrist
 20,Tend,40.681639,-73.975464,"215 Flatbush Ave (at Dean St), Brooklyn, NY 11217",Brooklyn,Fort Greene,Optometrist
-20,The Brooklyn Hospital Center,40.690104,-73.977933,"121 Dekalb Ave (at Ashland Pl.), Brooklyn, NY 11201",Brooklyn,Clinton Hill,Optometrist
+20,Park Slope Dental Arts,40.670249,-73.978554,"506 3rd St, New York, NY 11215",New York,Park Slope,Optometrist
 20,Methodist Hospital Emergency Room,40.668216,-73.980001,"506 6th St, Brooklyn, NY 11215",Brooklyn,Park Slope,Optometrist
 20,Prospect Park Animal Clinic,40.666686,-73.975408,"105 Prospect Park W (5th Street), Brooklyn, NY 11215",Brooklyn,Park Slope,Optometrist
 20,Medrite Urgent Care,40.688993,-73.992514,"151 Court St, Brooklyn, NY 11201",Brooklyn,Boerum Hill,Optometrist
@@ -5562,7 +5561,7 @@
 20,"Bayside Physical Therapy, Chiropractic & Acupuncture",40.771244,-73.774697,"21315 33rd Rd, Bayside, NY 11361",Bayside,Bayside,Optometrist
 20,Millennium Dental Center,40.783467,-73.732604,"98 Cuttermill Rd, Great Neck, NY 11021",Great Neck,Little Neck,Optometrist
 20,Brookhaven Beach Nursing Home,40.596331,-73.751495,"250 Beach 17th St, Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Optometrist
-20,Podiatrist,40.595894,-73.753874,"224 Beach 20th St, Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Optometrist
+20,Silver Star Urgent Care,40.596055,-73.753923,"228 Beach 20th St, Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Optometrist
 20,Rockaway Dental Center,40.587374,-73.811679,"8609 Rockaway Beach Blvd, Far Rockaway, NY 11693",Far Rockaway,Hammels,Optometrist
 20,Mirkin Jean Optcn,40.580139,-73.837617,"253 Beach 116th St, New York, NY 11694",New York,Boardwalk,Optometrist
 20,Lnw Medical Office,40.762728,-73.83158,"13604 Northern Blvd, Flushing, NY 11354",Flushing,Down Town Flushing,Optometrist
@@ -5649,6 +5648,7 @@
 20,Grega Renato C,40.678344,-73.86854,"1098 Liberty Ave, Brooklyn, NY 11208",Brooklyn,City Line,Optometrist
 20,Weill Cornell Medical Associates,40.716823,-74.006823,"40 Worth St (btwn Church & W Broadway), New York, NY 10013",New York,City Hall Area,Optometrist
 20,Gateway Ob/gyn Associates Pc,40.591346,-74.098723,"78 Cromwell Ave, Staten Island, NY 10304",Staten Island,Grand City,Optometrist
+20,Aadobe Pet Hospital,40.626203,-74.132892,"1294 Forest Ave, Staten Island, NY 10302",Staten Island,Westerleigh,Optometrist
 20,Gateway Ob/gyn Associates Pc,40.591346,-74.098723,"78 Cromwell Ave, Staten Island, NY 10304",Staten Island,Grand City,Optometrist
 20,JAG-ONE Physical Therapy,40.58051,-73.837848,"231 Beach 116th St, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Optometrist
 20,Coney Island Hospital,40.585375,-73.965497,"2601 Ocean Pkwy (at Shore Pkwy), Brooklyn, NY 11235",Brooklyn,Home Crest,Optometrist
@@ -5739,7 +5739,7 @@
 21,The Brooklyn Hospital Center,40.690104,-73.977933,"121 Dekalb Ave (at Ashland Pl.), Brooklyn, NY 11201",Brooklyn,Clinton Hill,Doctor's Office
 21,Dr Wiechowski Office,40.713087,-73.873873,"7844 Metropolitan Ave, Middle Village, NY 11379",Middle Village,Glendale,Doctor's Office
 21,Associated For The Help Of Retarded Children,40.666217,-73.849873,"8420 153rd Ave, Howard Beach, NY 11414",Howard Beach,Lidenwood,Doctor's Office
-21,Linden Village Chiropractic Center,40.667114,-73.852696,"15144 82nd St, Howard Beach, NY 11414",Howard Beach,Lidenwood,Doctor's Office
+21,Institute For Community Living,40.657312,-73.914146,"469 E 98th St, Brooklyn, NY 11212",Brooklyn,Brownsville,Doctor's Office
 21,Avenue J Medical Center,40.627395,-73.936979,"4010 Avenue J, Brooklyn, NY 11210",Brooklyn,Flatlands,Doctor's Office
 21,University Hospital of Brooklyn,40.65509,-73.945009,"470 Clarkson Ave (E 37th St), Brooklyn, NY 11203",Brooklyn,Prospect,Doctor's Office
 21,Central Brooklyn Veterinary Center,40.623241,-73.937213,"1909 Flatbush Ave, Brooklyn, NY 11210",Brooklyn,Flatlands,Doctor's Office
@@ -5836,7 +5836,7 @@
 21,St Mary's Hospital For Children,40.776631,-73.768636,"2901 216th St (Turner Construction Site), Bayside, NY 11360",Bayside,Bayside,Doctor's Office
 21,Ebin Leonard N,40.783522,-73.732562,"98 Cuttermill Rd, Great Neck, NY 11021",Great Neck,Little Neck,Doctor's Office
 21,Transitional Svces for New York of The Rockaways,40.6054,-73.754853,"1308 Beach Channel Dr, Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Doctor's Office
-21,Silver Star Urgent Care,40.596055,-73.753923,"228 Beach 20th St, Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Doctor's Office
+21,Podiatrist,40.595894,-73.753874,"224 Beach 20th St, Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Doctor's Office
 21,Ocean Promenade Rehab & Nursing,40.578908,-73.833178,"140 Beach 113th St, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Doctor's Office
 21,Mirkin Vision Care,40.580615,-73.837939,"253 Beach 116th St, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Doctor's Office
 21,3 D Dental,40.74877,-73.816803,"4805 Kissena Blvd, Flushing, NY 11355",Flushing,Queensboro Hills,Doctor's Office
@@ -5850,7 +5850,7 @@
 21,Foot and Ankle Center of New York,40.723621,-73.846152,"6939 Yellowstone Blvd, Forest Hills, NY 11375",Forest Hills,Forest Hills,Doctor's Office
 21,Mirkin Jean Optcn,40.580139,-73.837617,"253 Beach 116th St, New York, NY 11694",New York,Boardwalk,Doctor's Office
 21,Bayview Urgent Care,40.58213,-73.837645,"11506 Beach Channel Dr, Queens, NY 11694",Queens,Boardwalk,Doctor's Office
-21,Mostel Harold,40.59627,-73.753931,"238 Beach 20th St, Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Doctor's Office
+21,Bloom Thomas DDS,40.59627,-73.753931,"238 Beach 20th St, Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Doctor's Office
 21,Emt Services,40.692241,-73.76581,"18025 Linden Blvd, Jamaica, NY 11434",Jamaica,St. Albans,Doctor's Office
 21,NewYork-Presbyterian Medical Group Queens Pediatric Care,40.743932,-73.777374,"19815 Horace Harding Expy (Francis Lewis Boulevard), Fresh Meadows, NY 11365",Fresh Meadows,Fresh Meadows,Doctor's Office
 21,Fishman CTR For Total Eye Care,40.732523,-73.866861,"9229 Queens Blvd, Rego Park, NY 11374",Rego Park,LeFrak City,Doctor's Office
@@ -5886,7 +5886,7 @@
 21,Vision Gallery,40.573885,-74.106876,"2351 Hylan Blvd, Staten Island, NY 10306",Staten Island,New Dorp,Doctor's Office
 21,Robert A Miele,40.572741,-74.113095,"364 Edison St, Staten Island, NY 10306",Staten Island,New Dorp,Doctor's Office
 21,Interventional Pain Management Center,40.574051,-74.121985,"2537 Amboy Rd, Staten Island, NY 10306",Staten Island,New Dorp,Doctor's Office
-21,Michael A. Schirripa,40.526933,-74.167876,"4855 Hylan Blvd, Staten Island, NY 10312",Staten Island,Huguenot,Doctor's Office
+21,North Shore Staten Island University Hospital,40.526933,-74.167876,"4855 Hylan Blvd, Staten Island, NY 10312",Staten Island,Huguenot,Doctor's Office
 21,Staten Island Spine and Joint Rehabilitation Center,40.510341,-74.242534,"7378 Amboy Rd, Staten Island, NY 10307",Staten Island,Tottenville,Doctor's Office
 21,Derm One,40.505515,-74.263878,"1 Market St, Perth Amboy, NJ 08861",Perth Amboy,Harbor Terrace,Doctor's Office
 21,Small World Dental,40.507969,-74.229867,"6795 Hylan Blvd, Staten Island, NY 10309",Staten Island,Point Breeze,Doctor's Office
@@ -5936,7 +5936,7 @@
 21,Mandarin Optical,40.740724,-73.879213,"8327 Broadway, Elmhurst, NY 11373",Elmhurst,Elmhurst,Doctor's Office
 21,Vision Gallery,40.573885,-74.106876,"2351 Hylan Blvd, Staten Island, NY 10306",Staten Island,New Dorp,Doctor's Office
 21,Staten Island-Great Kills Psychological Services,40.534789,-74.218096,"401 Bloomingdale Rd, Staten Island, NY 10309",Staten Island,Pleasant Plains,Doctor's Office
-21,Albert Jen,40.760879,-73.830073,"13620 38th Ave, Flushing, NY 11354",Flushing,Down Town Flushing,Doctor's Office
+21,Montefiore Medical Center,40.760879,-73.830073,"13620 38th Ave, Flushing, NY 11354",Flushing,Down Town Flushing,Doctor's Office
 21,Brooklyn Eye And Vision Care,40.61909,-73.933266,"2074 Flatbush Ave, Brooklyn, NY 11234",Brooklyn,Flatlands,Doctor's Office
 21,Bronx Medical & Dental Plaza,40.84648,-73.885049,"817 E 180th St, Bronx, NY 10460",Bronx,East Tremont,Doctor's Office
 21,Calvary Hospital,40.847922,-73.844009,"1740 Eastchester Rd, Bronx, NY 10461",Bronx,Westchester,Doctor's Office
@@ -6014,7 +6014,7 @@
 22,Mount Sinai Doctors Brooklyn Heights,40.695084,-73.991171,"300 Cadman Plz W (Pierrepont), Brooklyn, NY 11201",Brooklyn,Brooklyn Heights,Pediatrician
 22,Tribeca Pediatrics,40.66021,-73.99499,"5TH Ave (23rd And 24th), Brooklyn, NY 11232",Brooklyn,South Brooklyn,Pediatrician
 22,Dental Artes,40.703186,-73.90802,"681 Seneca Ave, Ridgewood, NY 11385",Ridgewood,Fresh Pond,Pediatrician
-22,Institute For Community Living,40.657312,-73.914146,"469 E 98th St, Brooklyn, NY 11212",Brooklyn,Brownsville,Pediatrician
+22,Linden Village Chiropractic Center,40.667114,-73.852696,"15144 82nd St, Howard Beach, NY 11414",Howard Beach,Lidenwood,Pediatrician
 22,Davis Visionworks,40.653903,-73.871654,"494 Gateway Dr, Brooklyn, NY 11239",Brooklyn,Spring Creek,Pediatrician
 22,"COVID-19 Walk-In Testing Center, Gotham Health",40.627885,-73.965561,"1223 Coney Island Ave, Brooklyn, NY 11230",Brooklyn,Fiske Terrace,Pediatrician
 22,Zak Oksana Flatlands Dental Care Brooklyn,40.634304,-73.914195,"7806 Flatlands Ave, Brooklyn, NY 11236",Brooklyn,Georgetown,Pediatrician
@@ -6112,7 +6112,7 @@
 22,"Kruger Stephen, DDS",40.767878,-73.777682,"20944 35th Ave, Queens, NY 11361",Queens,Bayside,Pediatrician
 22,Caliper Orthodontics,40.772199,-73.734546,"25503 Northern Blvd (Morgan St), Little Neck, NY 11362",Little Neck,Little Neck,Pediatrician
 22,Bishop Charles Waldo MacLean Nursing Home,40.598702,-73.751402,"1711 Brookhaven Ave, Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Pediatrician
-22,Mostel Harold,40.59627,-73.753931,"238 Beach 20th St, Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Pediatrician
+22,Bloom Thomas DDS,40.59627,-73.753931,"238 Beach 20th St, Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Pediatrician
 22,Ocean Promenade Nursing Center,40.579114,-73.833534,"140 Beach 113th St, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Pediatrician
 22,JAG-ONE Physical Therapy,40.58051,-73.837848,"231 Beach 116th St, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Pediatrician
 22,Lenny Ramirez Dpm,40.773005,-73.794681,"169 18 26TH Ave, Flushing, NY 11358",Flushing,Auburndale,Pediatrician
@@ -6127,7 +6127,7 @@
 22,Queens Medical Imaging,40.721777,-73.84866,"6915 Austin St (Btw 69th Rd and Yellowstone Blvd), Forest Hills, NY 11375",Forest Hills,Forest Hills,Pediatrician
 22,CityMD Rockaway Urgent Care,40.579619,-73.837358,"11601 Rockaway Beach Blvd, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Pediatrician
 22,Island Pediatric Associates,40.582246,-73.837301,"11412 Beach Channel Dr, Far Rockaway, NY 11694",Far Rockaway,Boardwalk,Pediatrician
-22,Bloom Thomas DDS,40.59627,-73.753931,"238 Beach 20th St, Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Pediatrician
+22,Mostel Harold,40.59627,-73.753931,"238 Beach 20th St, Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Pediatrician
 22,Jirina V Fishman,40.655005,-73.707353,"1 Ivy Pl, Valley Stream, NY 11581",Valley Stream,Rosedale,Pediatrician
 22,Shrock Peter MD,40.752749,-73.707155,"26901 76th Ave, New Hyde Park, NY 11040",New Hyde Park,Glen Oaks,Pediatrician
 22,Elmhurst Hospital Center,40.745082,-73.885837,"7901 Broadway (at 78th St.), Elmhurst, NY 11373",Elmhurst,Elmhurst,Pediatrician
@@ -6164,7 +6164,7 @@
 22,Sunrise of Staten Island,40.611374,-74.0952,"801 Narrows Rd N, Staten Island, NY 10304",Staten Island,Fox Hills,Pediatrician
 22,Beacon Of Hope House,40.588347,-74.096204,"90 Hancock St, Staten Island, NY 10305",Staten Island,Grand City,Pediatrician
 22,Philip E Otterbeck DDS,40.574476,-74.122177,"2517 Amboy Rd, Staten Island, NY 10306",Staten Island,New Dorp,Pediatrician
-22,North Shore Staten Island University Hospital,40.526933,-74.167876,"4855 Hylan Blvd, Staten Island, NY 10312",Staten Island,Huguenot,Pediatrician
+22,Women's Health Care Specialist,40.526933,-74.167876,"4855 Hylan Blvd, Staten Island, NY 10312",Staten Island,Huguenot,Pediatrician
 22,Visions By Victoria Rose,40.547309,-74.222519,"639 Veterans Rd W, Staten Island, NY 10309",Staten Island,Rossville,Pediatrician
 22,"Zimmerman, Jonathan Dr - Staten Island University Hospital Outpatient Mental Health Clinic",40.516506,-74.197249,"392 Seguine Ave, Staten Island, NY 10309",Staten Island,Prince's Bay,Pediatrician
 22,"Alliance Physical Therapy, PC",40.527536,-74.200745,"5765 Amboy Rd, Staten Island, NY 10309",Staten Island,Princes Bay,Pediatrician
@@ -6210,7 +6210,7 @@
 22,Queens Adult Care Center,40.74108,-73.88416,"8008 45th Ave, Elmhurst, NY 11373",Elmhurst,Elmhurst,Pediatrician
 22,Farkas Benjamin Dr,40.590235,-74.164418,"89 Stephen Loop, Staten Island, NY 10314",Staten Island,New Springville,Pediatrician
 22,Insomnia and Sleep Medicine,40.525686,-74.205433,"5947 Amboy Rd, Staten Island, NY 10309",Staten Island,Prince's Bay,Pediatrician
-22,Montefiore Medical Center,40.760879,-73.830073,"13620 38th Ave, Flushing, NY 11354",Flushing,Down Town Flushing,Pediatrician
+22,Albert Jen,40.760879,-73.830073,"13620 38th Ave, Flushing, NY 11354",Flushing,Down Town Flushing,Pediatrician
 22,Davis Visionworks,40.653903,-73.871654,"494 Gateway Dr, Brooklyn, NY 11239",Brooklyn,Spring Creek,Pediatrician
 22,Veterinary Emergency Group,40.615684,-73.929696,"2220 Flatbush Ave, Brooklyn, NY 11234",Brooklyn,Flatlands,Pediatrician
 22,Medical Office,40.862434,-73.840551,"2460 Mickle Ave (Mace), Bronx, NY 10469",Bronx,Pelham Parkway,Pediatrician
@@ -6317,7 +6317,7 @@
 23,"Mount Sinai Doctors-Inwood, Urgent Care",40.868983,-73.916883,"5030 Broadway, New York, NY 10034",New York,Inwood,Dentist
 23,CityMD Riverdale,40.884499,-73.900169,"193 W 237th St, Bronx, NY 10463",Bronx,Kings Bridge,Dentist
 23,AM/PM Walk-in Urgent Care,40.824185,-73.988335,"596 Anderson Ave, Cliffside Park, NJ 07010",Cliffside Park,Morningside Hights,Dentist
-23,Mount Sinai Faculty Practice Associates,40.789141,-73.954262,"5 E 98th St, New York, NY 10029",New York,Carnegie Hill,Dentist
+23,"Mount Sinai, Department Of Dermatology",40.789201,-73.954046,"5 E 98th St, New York, NY 10029",New York,Carnegie Hill,Dentist
 23,Mt. Sinai Emergency Room,40.790329,-73.952253,"1468 Madison Ave (at E. 101st St.), New York, NY 10029",New York,Carnegie Hill,Dentist
 23,Schweiger Dermatology Group,40.793971,-73.969443,"137 W 96th St, New York, NY 10025",New York,Manhattan Valley,Dentist
 23,Mount Sinai Faculty Practice Associates,40.789141,-73.954262,"5 E 98th St, New York, NY 10029",New York,Carnegie Hill,Dentist
@@ -6384,8 +6384,8 @@
 23,Kim Changrae,40.760361,-73.801793,"16410 Northern Blvd, Flushing, NY 11358",Flushing,Auburndale,Dentist
 23,Long Island Bird & Exotics Veterinary Clinic,40.779262,-73.732461,"333 Great Neck Rd, Great Neck, NY 11021",Great Neck,Little Neck,Dentist
 23,Animal Clinic,40.605672,-73.754731,"1316 Beach Channel Dr, Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Dentist
-23,Bloom Thomas DDS,40.59627,-73.753931,"238 Beach 20th St, Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Dentist
-23,Qcpc Downstate Healthy Families Connection Project,40.587647,-73.811558,"8614 Rockaway Beach Blvd, Rockaway Beach, NY 11693",Rockaway Beach,Hammels,Dentist
+23,Mostel Harold,40.59627,-73.753931,"238 Beach 20th St, Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Dentist
+23,Universal Physical Therapy,40.587647,-73.811558,"8624 Rockaway Beach Blvd, Rockaway Beach, NY 11693",Rockaway Beach,Hammels,Dentist
 23,Lawrence Weiss,40.5801,-73.83705,"202 Beach 116th St, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Dentist
 23,CityMD Auburndale Urgent Care - Queens,40.757579,-73.790209,"191-20 Northern Blvd, New York, NY 11358",New York,Bayside,Dentist
 23,Gaffar Iljana Cohen Childrens Northwell Health Physician Partners Pediatric Cardiology New Hyde Park,40.755691,-73.697209,"1111 Marcus Ave, New Hyde Park, NY 11042",New Hyde Park,Glen Oaks,Dentist
@@ -6434,7 +6434,7 @@
 23,Staten Island Orthopedics & Sports Medicine,40.581972,-74.110347,"2052 Richmond Rd, Staten Island, NY 10306",Staten Island,Grant City,Dentist
 23,My Fat Loss Expert,40.591328,-74.101291,"1567 Richmond Rd, Staten Island, NY 10304",Staten Island,Dongan Hills,Dentist
 23,Affordable Family Dentist,40.574505,-74.122169,"2517 Amboy Rd, Staten Island, NY 10306",Staten Island,New Dorp,Dentist
-23,Women's Health Care Specialist,40.526933,-74.167876,"4855 Hylan Blvd, Staten Island, NY 10312",Staten Island,Huguenot,Dentist
+23,Michael A. Schirripa,40.526933,-74.167876,"4855 Hylan Blvd, Staten Island, NY 10312",Staten Island,Huguenot,Dentist
 23,Independent Living Associates,40.548877,-74.216759,"89 Lucille Ave, Staten Island, NY 10309",Staten Island,Rossville,Dentist
 23,Service Behavioral,40.518858,-74.260305,"693 Harbortown Blvd, Perth Amboy, NJ 08861",Perth Amboy,Harbor Terrace,Dentist
 23,Service Behavioral,40.518858,-74.260305,"693 Harbortown Blvd, Perth Amboy, NJ 08861",Perth Amboy,Harbor Terrace,Dentist
@@ -6587,14 +6587,14 @@
 24,Park Slope Dental,40.669385,-73.976645,"300 8th Ave (3rd. St), Brooklyn, NY 11215",Brooklyn,Park Slope,Health and Medicine
 24,Amber Court Of Brooklyn,40.648957,-73.897925,"650 E 104th St, Brooklyn, NY 11236",Brooklyn,Canarsie,Health and Medicine
 24,The Dermatology Specialists - Long Island City,40.745341,-73.951483,"1041 47th Ave, Long Island City, NY 11101",Queens,Hunters Point,Health and Medicine
-24,The Jefferson,40.708967,-73.922041,"455 Jefferson St (Cypress Ave), New York, NY 11237",New York,Bushwick,Health and Medicine
+24,The Brooklyn Hospital Center,40.690104,-73.977933,"121 Dekalb Ave (at Ashland Pl.), Brooklyn, NY 11201",Brooklyn,Clinton Hill,Health and Medicine
 24,VA Medical Center,40.736876,-73.977444,"423 E 23rd St (at 1st Ave), New York, NY 10010",New York,Bellevue,Health and Medicine
 24,Bay Ridge Orthopedic Association Of Sheepshead Bay,40.607263,-73.942526,"2950 Avenue R, Brooklyn, NY 11229",Brooklyn,Sheepshead Bay,Health and Medicine
 24,Care RX Pharmacy,40.610153,-73.999074,"8011 18th Ave, Brooklyn, NY 11214",Brooklyn,New Utrecht,Health and Medicine
 24,Brooklyn Dental Studio,40.694361,-73.991972,"185 Montague St (Clinton), Brooklyn, NY 11201",Brooklyn,Brooklyn Heights,Health and Medicine
 24,Tenafly Pediatrics,40.85639,-73.969857,"301 Bridge Plz N, Fort Lee, NJ 07024",Fort Lee,Hudson Heights,Health and Medicine
 24,Callen Lorde Community Health Center,40.8221,-73.910609,"3144 3rd Ave, Bronx, NY 10451",Bronx,Melrose,Health and Medicine
-24,"Mount Sinai, Department Of Dermatology",40.789201,-73.954046,"5 E 98th St, New York, NY 10029",New York,Carnegie Hill,Health and Medicine
+24,Mount Sinai Faculty Practice Associates,40.789141,-73.954262,"5 E 98th St, New York, NY 10029",New York,Carnegie Hill,Health and Medicine
 24,Morrisania D&Tc,40.836106,-73.920149,"1225 Gerard Ave, Bronx, NY 10452",Bronx,Concourse,Health and Medicine
 24,Symphony Veterinary Center,40.793688,-73.969913,"170 W 96th St (Amsterdam), New York, NY 10025",New York,Manhattan Valley,Health and Medicine
 24,"Mount Sinai, Department Of Dermatology",40.789201,-73.954046,"5 E 98th St, New York, NY 10029",New York,Carnegie Hill,Health and Medicine
@@ -6665,7 +6665,7 @@
 24,Young H Kwon DDS,40.772361,-73.734369,"25517 Northern Blvd, Little Neck, NY 11362",Little Neck,Little Neck,Health and Medicine
 24,Nova Medical,40.602172,-73.752609,"1925 Cornaga Ave, Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Health and Medicine
 24,Redemption Outreach International,40.600797,-73.75587,"2211 New Haven Ave, Far Rockaway, NY 11691",Far Rockaway,Bayswater,Health and Medicine
-24,Universal Physical Therapy,40.587647,-73.811558,"8624 Rockaway Beach Blvd, Rockaway Beach, NY 11693",Rockaway Beach,Hammels,Health and Medicine
+24,Qcpc Downstate Healthy Families Connection Project,40.587647,-73.811558,"8614 Rockaway Beach Blvd, Rockaway Beach, NY 11693",Rockaway Beach,Hammels,Health and Medicine
 24,Rogoff Jay H,40.582004,-73.838337,"11410 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Health and Medicine
 24,NewYork-Presbyterian Medical Group Queens - Electrophysiology,40.74733,-73.824983,"5645 Main St, Flushing, NY 11355",Flushing,Queensboro Hills,Health and Medicine
 24,Creedmoor Addiction Treatment,40.741315,-73.731092,"8045 Winchester Blvd, Queens Village, NY 11427",Queens Village,Bellaire,Health and Medicine
@@ -6677,8 +6677,8 @@
 24,Jamaica Hospital EMS 51L CSL,40.685901,-73.824377,"Lefferts Blvd, Queens, NY 11420",Queens,South Richmond Hill,Health and Medicine
 24,Emt Services,40.692241,-73.76581,"18025 Linden Blvd, Jamaica, NY 11434",Jamaica,St. Albans,Health and Medicine
 24,Dr Griesner,40.723433,-73.845097,"108TH St (Jewel Avenue), Forest Hills, NY 11375",Forest Hills,Forest Hills,Health and Medicine
-24,A Heel Pain Center,40.581958,-73.838031,"11412 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Health and Medicine
-24,"Hess Michal DVM - Hess, Michal DVM",40.582304,-73.837173,"11410 Beach Channel Dr, New York, NY 11694",New York,Boardwalk,Health and Medicine
+24,Shape Watchers,40.581958,-73.838031,"11404 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Health and Medicine
+24,Horowitz Ernest,40.582304,-73.837173,"11412 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Health and Medicine
 24,Podiatrist,40.595894,-73.753874,"224 Beach 20th St, Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Health and Medicine
 24,Long Island Acupuncture Therapy,40.671038,-73.708321,"125 N Central Ave, Valley Stream, NY 11580",Valley Stream,Central Valley Stream,Health and Medicine
 24,Division of Vascular/Interventional Radiology at Long Island Jewish Medical Center,40.754765,-73.708533,"27005 76th Ave (North Shore-LIJ Health System), New Hyde Park, NY 11040",New Hyde Park,Glen Oaks,Health and Medicine
@@ -6861,7 +6861,7 @@
 25,Pediatric Ophthalmic Conslnts,40.631396,-73.986493,"1552 49th St, Brooklyn, NY 11219",Brooklyn,Kensington,Hospital
 25,Kingsbrook Jewish Medical Center,40.659536,-73.933889,"585 Schenectady Ave (btw Winthrop St & Rutland Rd), Brooklyn, NY 11203",Brooklyn,Wingate,Hospital
 25,The Veterinarian At Co,40.746625,-73.941794,"2719 44th Dr (21st street), Long Island City, NY 11101",Long Island City,Hunters Point,Hospital
-25,The Brooklyn Hospital Center,40.690104,-73.977933,"121 Dekalb Ave (at Ashland Pl.), Brooklyn, NY 11201",Brooklyn,Clinton Hill,Hospital
+25,The Jefferson,40.708967,-73.922041,"455 Jefferson St (Cypress Ave), New York, NY 11237",New York,Bushwick,Hospital
 25,Planned Parenthood,40.725435,-73.993587,"26 Bleecker St (at Mott St), New York, NY 10012",New York,Downtown,Hospital
 25,Stand-Up Mri of Bensonhurst PC,40.595465,-73.982692,"2671 86th St, Brooklyn, NY 11223",Brooklyn,Bensonhurst,Hospital
 25,NYU Lutheran Family Health Centers Park Ridge,40.638501,-74.020368,"6317 4th Ave, Brooklyn, NY 11220",Brooklyn,Bayridge,Hospital
@@ -6945,8 +6945,8 @@
 25,Manhattan Gastroenterology,40.778185,-73.958254,"983 Park Ave, New York, NY 10028",New York,Upper East Side,Hospital
 25,Woodhaven Braces,40.693317,-73.852426,"8708 Woodhaven Blvd (Jamicia Ave.), Woodhaven, NY 11421",Woodhaven,Brooklyn Manor,Hospital
 25,First Choice Dental,40.745511,-73.883888,"8114 Baxter Ave, Elmhurst, NY 11373",Elmhurst,Elmhurst,Hospital
-25,Shape Watchers,40.581958,-73.838031,"11404 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Hospital
-25,Allan B Simon DVM,40.582304,-73.837173,"11410 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Hospital
+25,A Heel Pain Center,40.581958,-73.838031,"11412 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Hospital
+25,NY Empire Medical PC,40.582304,-73.837173,"11412 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Hospital
 25,LIJ Emergency Room,40.754818,-73.708578,"27005 76th Ave, New Hyde Park, NY 11040",New Hyde Park,Glen Oaks,Hospital
 25,Zwanger-Pesiri Radiology,40.734678,-73.875235,"8812 Queens Blvd, New York, NY 11373",New York,Elmhurst,Hospital
 25,Perfect Teeth Dental,40.724559,-73.866133,"8811 63rd Dr, Rego Park, NY 11374",Rego Park,LeFrak City,Hospital
@@ -7011,7 +7011,7 @@
 25,Bond Vet - East Village,40.732918,-73.981096,"282 1st Ave, New York, NY 10009",New York,Midtown,Hospital
 25,"Robin Unger, MD",40.769741,-73.965225,"710 Park Ave, New York, NY 10021",New York,Lenox Hill,Hospital
 25,Manhattan Specialty Care,40.740528,-73.994006,"55 W 17th St, New York, NY 10011",New York,Chelsea,Hospital
-25,Ayla Yavin Acupuncture & Herbs,40.747344,-73.991348,"135 W 29th St (7th and 6th Aves), New York, NY 10001",New York,Chelsea,Hospital
+25,Gouverneur Health,40.713015,-73.988166,"227 Madison St (btw Clinton & Jefferson St), New York, NY 10002",New York,Downtown,Hospital
 25,NYU Medical Center Emergency Medicine,40.742141,-73.974243,"570 1st Ave (East 34 Street), New York, NY 10016",New York,East Side,Hospital
 25,Rockefeller Research Laboratories,40.763916,-73.957047,"430 E 67th St (Memorial Sloan-Kettering Cancer Center), New York, NY 10065",New York,Lenox Hill,Hospital
 25,Medspan Associates,40.711179,-73.9582,"231 S 3rd St, Brooklyn, NY 11211",Brooklyn,South Side,Hospital
@@ -7181,7 +7181,7 @@
 26,Saint Vincents Catholic Medical Centers of New York,40.700632,-73.806974,"14720 Archer Ave, Jamaica, NY 11435",Jamaica,Jamaica,Ophthalmologist
 26,Jamaica Hospital - 4N,40.700339,-73.816342,"8900 Van Wyck Expy (89 Ave), Richmond Hill, NY 11418",Richmond Hill,Briarwood,Ophthalmologist
 26,Northern Boulevard Footcare,40.765184,-73.815768,"14945 Northern Blvd (149th Street), Flushing, NY 11354",Flushing,Flushing,Ophthalmologist
-26,Albert Jen,40.760879,-73.830073,"13620 38th Ave, Flushing, NY 11354",Flushing,Down Town Flushing,Ophthalmologist
+26,Montefiore Medical Center,40.760879,-73.830073,"13620 38th Ave, Flushing, NY 11354",Flushing,Down Town Flushing,Ophthalmologist
 26,Leena Doshi MD,40.756025,-73.815267,"4355 147th St, Flushing, NY 11355",Flushing,Flushing,Ophthalmologist
 26,3 D Dental,40.74877,-73.816803,"4805 Kissena Blvd, Flushing, NY 11355",Flushing,Queensboro Hills,Ophthalmologist
 26,Cazazian Abram DDS PC,40.76232,-73.772155,"4203 212th St, Bayside, NY 11361",Bayside,Bayside,Ophthalmologist
@@ -7207,7 +7207,7 @@
 26,Rockaway Home Attendant Service,40.604991,-73.751835,"1603 Central Ave, Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Ophthalmologist
 26,"Prasad Rajiv Emergency Department, St John s Episcopal Hospital",40.598713,-73.7531,"327 Beach 19th St, Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Ophthalmologist
 26,Heritage Adult Care,40.587227,-73.811108,"8601 Rockaway Beach Blvd, Rockaway Beach, NY 11693",Rockaway Beach,Hammels,Ophthalmologist
-26,A Heel Pain Center,40.581958,-73.838031,"11412 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Ophthalmologist
+26,New Horizon Counseling Center,40.578202,-73.835502,"11502 Ocean Promenade, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Ophthalmologist
 26,CRT Surgery,40.747592,-73.826452,"5620 Main St, Flushing, NY 11355",Flushing,Queensboro Hills,Ophthalmologist
 26,Brighter Dental Center,40.725944,-73.718048,"24902 Jericho Tpke, Floral Park, NY 11001",Floral Park,Bellaire,Ophthalmologist
 26,NYC Health + Hospitals/Gotham Health,40.704088,-73.800421,"9037 Parsons Blvd (Jamaica Ave), Jamaica, NY 11432",Jamaica,Jamaica,Ophthalmologist
@@ -7218,7 +7218,7 @@
 26,Valley Eyes Opticians Inc.,40.664255,-73.699292,"20 W Lincoln Ave, Valley Stream, NY 11580",Valley Stream,Downtown Valley Stream,Ophthalmologist
 26,Elmhurst Hospital Center Clinics,40.745974,-73.884735,"7901 Broadway, Elmhurst, NY 11373",Elmhurst,Elmhurst,Ophthalmologist
 26,Lawrence Weiss,40.5801,-73.83705,"202 Beach 116th St, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Ophthalmologist
-26,NY Empire Medical PC,40.582304,-73.837173,"11412 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Ophthalmologist
+26,Whittred Susan,40.582304,-73.837173,"11410 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Ophthalmologist
 26,Gerard Daversa MD,40.659149,-73.703176,"65 Roosevelt Ave, Valley Stream, NY 11581",Valley Stream,Downtown Valley Stream,Ophthalmologist
 26,Mid Flushing Medical Arts,40.760783,-73.827492,"13678 39th Ave, Flushing, NY 11354",Flushing,Down Town Flushing,Ophthalmologist
 26,"Predanic Mladen, MD",40.701309,-73.816336,"8900 Van Wyck Expy, Richmond Hill, NY 11418",Richmond Hill,Briarwood,Ophthalmologist
@@ -7234,7 +7234,7 @@
 26,Holistic Mental Health,40.610174,-74.145238,"2460 Victory Blvd, Staten Island, NY 10314",Staten Island,Meiers Corners,Ophthalmologist
 26,Consultants In Urologoy,40.539041,-74.14913,"4143 Hylan Blvd, Staten Island, NY 10308",Staten Island,Great Kills,Ophthalmologist
 26,Staten Island University Hospital / Northwell Health,40.516911,-74.196267,"375 Seguine Ave, Staten Island, NY 10309",Staten Island,Prince's Bay,Ophthalmologist
-26,Oakwood Dental Arts,40.523642,-74.238562,"4864 Arthur Kill Rd, Staten Island, NY 10309",Staten Island,Richmond Valley,Ophthalmologist
+26,Regional Radiology,40.524041,-74.239623,"4849 Arthur Kill Rd, Staten Island, NY 10309",Staten Island,Harbor Terrace,Ophthalmologist
 26,Richmond University Labor And Delivery,40.637423,-74.105737,"355 Bard Ave, Staten Island, NY 10310",Staten Island,Randall Manor,Ophthalmologist
 26,Bay Street Animal Hospital,40.618465,-74.068922,"999 Bay St (at Lynhurst Ave), Staten Island, NY 10305",Staten Island,Rosebank,Ophthalmologist
 26,Methodist Hospital Emergency Room,40.668216,-73.980001,"506 6th St, Brooklyn, NY 11215",Brooklyn,Park Slope,Ophthalmologist
@@ -7279,7 +7279,7 @@
 26,Reihani Ghazal One Medical New York,40.765616,-73.96406,"171 E 65th St, New York, NY 10065",New York,Lenox Hill,Ophthalmologist
 26,Ayla Yavin Acupuncture & Herbs,40.747344,-73.991348,"135 W 29th St (7th and 6th Aves), New York, NY 10001",New York,Chelsea,Ophthalmologist
 26,"Bergeron, Richard - Medical Offices of Manhattan",40.765259,-73.963303,"201 E 65th St (3rd Ave), New York, NY 10065",New York,Lenox Hill,Ophthalmologist
-26,Gouverneur Health,40.713015,-73.988166,"227 Madison St (btw Clinton & Jefferson St), New York, NY 10002",New York,Downtown,Ophthalmologist
+26,Ayla Yavin Acupuncture & Herbs,40.747344,-73.991348,"135 W 29th St (7th and 6th Aves), New York, NY 10001",New York,Chelsea,Ophthalmologist
 26,Kimmel Pavilion,40.743043,-73.972793,"424 E 34th St (1st Avenue), New York, NY 10016",New York,East Side,Ophthalmologist
 26,Weill Cornell Medical Associates,40.760613,-73.959454,"425 E 61st St (425 E 61st St), New York, NY 10065",New York,Lenox Hill,Ophthalmologist
 26,Bellevue Hospital Center,40.739475,-73.975453,"462 1st Ave (btwn E 26th & E 28th St), New York, NY 10016",New York,Bellevue,Ophthalmologist
@@ -7293,7 +7293,7 @@
 26,Americare Therapy Service,40.608304,-73.915569,"5923 Strickland Ave, Brooklyn, NY 11234",Brooklyn,Mill Island,Ophthalmologist
 26,Mind your health,40.615294,-73.958381,"1417 E 16th St, Brooklyn, NY 11230",Brooklyn,Manhattan Terrace,Ophthalmologist
 26,Long Island Jewish Forest Hills,40.728927,-73.851626,"10201 66th Rd (North Shore-LIJ Health System), Forest Hills, NY 11375",Forest Hills,Forest Hills,Ophthalmologist
-26,Michael A. Schirripa,40.526933,-74.167876,"4855 Hylan Blvd, Staten Island, NY 10312",Staten Island,Huguenot,Ophthalmologist
+26,North Shore Staten Island University Hospital,40.526933,-74.167876,"4855 Hylan Blvd, Staten Island, NY 10312",Staten Island,Huguenot,Ophthalmologist
 26,Mandredi Family Health Center,40.576822,-74.103908,"2205 Hylan Blvd, Staten Island, NY 10306",Staten Island,Grant City,Ophthalmologist
 26,Service Behavioral,40.518858,-74.260305,"693 Harbortown Blvd, Perth Amboy, NJ 08861",Perth Amboy,Harbor Terrace,Ophthalmologist
 26,HealthNeed Medical Urgent Care,40.760604,-73.830281,"3821 Main St, Flushing, NY 11354",Flushing,Down Town Flushing,Ophthalmologist
@@ -7350,7 +7350,7 @@
 27,CityMD Pelham Parkway Urgent Care - Bronx,40.855905,-73.867452,"Parkway 2178 White Plains Rd, Bronx, NY 10462",Bronx,Bronxdale,Optometrist
 27,Pediatrics 2000 Iii,40.84546,-73.94221,"135 Haven Ave (172 St), New York, NY 10032",New York,Uptown,Optometrist
 27,Multi Specialty Pain Management,40.826726,-73.821852,"3713 E Tremont Ave, Bronx, NY 10465",Bronx,Schuvilerville,Optometrist
-27,Family Care Center,40.88083,-73.881331,"3444 Kossuth Ave (Gunhill Road & 210th Street), Bronx, NY 10467",Bronx,Norwood,Optometrist
+27,Montefiore Hospital Clinic Building,40.880993,-73.881293,"3444 Kossuth Ave (East Gun Hill Rd), Bronx, NY 10467",Bronx,Norwood,Optometrist
 27,Bay Ridge Medical Imaging,40.608256,-73.961724,"2005 Coney Island Ave (Quentin Road), New York, NY 11223",New York,Gravesend,Optometrist
 27,Suny Downstate Of Bayridge,40.617312,-74.028801,"520A 92nd St, Brooklyn, NY 11209",Brooklyn,Bayridge,Optometrist
 27,Gouverneur Health,40.713015,-73.988166,"227 Madison St (btw Clinton & Jefferson St), New York, NY 10002",New York,Downtown,Optometrist
@@ -7447,7 +7447,7 @@
 27,Main Street Radiology,40.710442,-73.865703,"8314 Cooper Ave, Glendale, NY 11385",Glendale,Glendale,Optometrist
 27,Saint Vincents Catholic Medical Centers of New York,40.700632,-73.806974,"14720 Archer Ave, Jamaica, NY 11435",Jamaica,Jamaica,Optometrist
 27,"Shiuann-Rong Chen, DDS",40.759696,-73.823609,"4107 Bowne St, Flushing, NY 11355",Flushing,Down Town Flushing,Optometrist
-27,Montefiore Medical Center,40.760879,-73.830073,"13620 38th Ave, Flushing, NY 11354",Flushing,Down Town Flushing,Optometrist
+27,Albert Jen,40.760879,-73.830073,"13620 38th Ave, Flushing, NY 11354",Flushing,Down Town Flushing,Optometrist
 27,NYU Langone Great Neck Medical Group,40.77593,-73.731912,"488 Great Neck Rd, Great Neck, NY 11021",Great Neck,Little Neck,Optometrist
 27,St Mary's Hospital For Children,40.776631,-73.768636,"2901 216th St (Turner Construction Site), Bayside, NY 11360",Bayside,Bayside,Optometrist
 27,Ronald A Csillag,40.769477,-73.774156,"3438 Bell Blvd, Bayside, NY 11361",Bayside,Bayside,Optometrist
@@ -7481,7 +7481,7 @@
 27,Woodhaven-Richmond Hill Volunteer Ambulance Corps,40.691994,-73.863937,"7815 Jamaica Ave (78 St), Woodhaven, NY 11421",Woodhaven,Woodhaven,Optometrist
 27,Elmhurst Hospital Center,40.745082,-73.885837,"7901 Broadway (at 78th St.), Elmhurst, NY 11373",Elmhurst,Elmhurst,Optometrist
 27,Pike Sheldon,40.582013,-73.837989,"11412 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Optometrist
-27,Whittred Susan,40.582304,-73.837173,"11410 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Optometrist
+27,Allan B Simon DVM,40.582304,-73.837173,"11410 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Optometrist
 27,Denran Medical Service PC,40.691362,-73.7793,"11410 Merrick Blvd, Jamaica, NY 11434",Jamaica,Locust Manor,Optometrist
 27,Parker Jewish Institute,40.755545,-73.70751,"27111 76th Ave, New Hyde Park, NY 11040",New Hyde Park,Glen Oaks,Optometrist
 27,Midopa Optics,40.760469,-73.827131,"13689 Roosevelt Ave, Flushing, NY 11354",Flushing,Down Town Flushing,Optometrist
@@ -7501,7 +7501,7 @@
 27,Winter Debra DPM,40.581887,-74.098069,"1975 Hylan Blvd, Staten Island, NY 10306",Staten Island,Dongan Hills,Optometrist
 27,I'll Be Seeing You,40.552257,-74.191196,"262 Arden Ave (at Nedra Ln), Staten Island, NY 10312",Staten Island,Aspen Knolls,Optometrist
 27,Sleep Apnea Center,40.516686,-74.196605,"375 Seguine Ave, Staten Island, NY 10309",Staten Island,Prince's Bay,Optometrist
-27,Regional Radiology,40.524041,-74.239623,"4849 Arthur Kill Rd, Staten Island, NY 10309",Staten Island,Harbor Terrace,Optometrist
+27,Oakwood Dental Arts,40.523642,-74.238562,"4864 Arthur Kill Rd, Staten Island, NY 10309",Staten Island,Richmond Valley,Optometrist
 27,Park Slope Dental,40.669385,-73.976645,"300 8th Ave (3rd. St), Brooklyn, NY 11215",Brooklyn,Park Slope,Optometrist
 27,Amber Court Of Brooklyn,40.648957,-73.897925,"650 E 104th St, Brooklyn, NY 11236",Brooklyn,Canarsie,Optometrist
 27,Tribeca Pediatrics,40.640529,-73.965542,"1322 Cortelyou Rd (Rugby Road), Brooklyn, NY 11226",Brooklyn,Beverly Square West,Optometrist
@@ -7558,7 +7558,7 @@
 27,Remedi Day Spa,40.522609,-74.238907,"4906 Arthur Kill Rd, Staten Island, NY 10309",Staten Island,Harbor Terrace,Optometrist
 27,New York Community Hospital,40.613889,-73.948528,"2525 Kings Hwy, Brooklyn, NY 11229",Brooklyn,Manhattan Terrace,Optometrist
 27,Forest Hills Hospital,40.728927,-73.851626,"10201 66th Rd, Forest Hills, NY 11375",Forest Hills,Forest Hills,Optometrist
-27,North Shore Staten Island University Hospital,40.526933,-74.167876,"4855 Hylan Blvd, Staten Island, NY 10312",Staten Island,Huguenot,Optometrist
+27,Women's Health Care Specialist,40.526933,-74.167876,"4855 Hylan Blvd, Staten Island, NY 10312",Staten Island,Huguenot,Optometrist
 27,"Zimmerman, Jonathan Dr - Staten Island University Hospital Outpatient Mental Health Clinic",40.516506,-74.197249,"392 Seguine Ave, Staten Island, NY 10309",Staten Island,Prince's Bay,Optometrist
 27,Midopa Optics,40.760469,-73.827131,"13689 Roosevelt Ave, Flushing, NY 11354",Flushing,Down Town Flushing,Optometrist
 27,Dr Wiechowski Office,40.713087,-73.873873,"7844 Metropolitan Ave, Middle Village, NY 11379",Middle Village,Glendale,Optometrist
@@ -7614,7 +7614,7 @@
 28,Jacquelyn B Afari,40.861627,-73.86972,"2409 Barker Ave, Bronx, NY 10467",Bronx,Allerton,Doctor's Office
 28,Healthway Medical Care Pc,40.850201,-73.893546,"552 E 180th St, Bronx, NY 10457",Bronx,East Tremont,Doctor's Office
 28,"William E Guerrero, OD - William E Guerrero PC",40.826393,-73.82219,"3730 E Tremont Ave, Bronx, NY 10465",Bronx,Schuvilerville,Doctor's Office
-28,Montefiore Hospital Clinic Building,40.880993,-73.881293,"3444 Kossuth Ave (East Gun Hill Rd), Bronx, NY 10467",Bronx,Norwood,Doctor's Office
+28,Family Care Center,40.88083,-73.881331,"3444 Kossuth Ave (Gunhill Road & 210th Street), Bronx, NY 10467",Bronx,Norwood,Doctor's Office
 28,8th Ave Dental Center,40.640178,-74.004355,"5115 8th Ave, New York, NY 11220",New York,Sunset Park,Doctor's Office
 28,Douglass Jamie - Allcare Physical Therapy,40.610432,-73.960937,"1213 Avenue P, New York, NY 11230",New York,Manhattan Terrace,Doctor's Office
 28,CityMD Park Slope Urgent Care - Brooklyn,40.670051,-73.985872,"420 5th Ave (8th Street), Brooklyn, NY 11215",Brooklyn,Park Slope,Doctor's Office
@@ -7632,7 +7632,7 @@
 28,Superior Ambulette,40.67881,-73.956908,"1091 Pacific St, Brooklyn, NY 11238",Brooklyn,Prospect Heights,Doctor's Office
 28,Bond Vet - East Village,40.732918,-73.981096,"282 1st Ave, New York, NY 10009",New York,Midtown,Doctor's Office
 28,"NYC Health + Hospitals/Gotham Health, East New York",40.671716,-73.895242,"2094 Pitkin Ave, Brooklyn, NY 11207",Brooklyn,Broadway Junction,Doctor's Office
-28,SPEAR Physical Therapy,40.674465,-73.976145,"794 Union St, Brooklyn, NY 11215",Brooklyn,Park Slope,Doctor's Office
+28,One Medical,40.674642,-73.976171,"794 Union St, Brooklyn, NY 11215",Brooklyn,Park Slope,Doctor's Office
 28,Garden Dental Arts,40.683078,-73.96658,"511 Clinton Ave, Brooklyn, NY 11238",Brooklyn,Adelphi,Doctor's Office
 28,Community Chiropractic,40.673482,-73.972619,"71 8th Ave (Union), Brooklyn, NY 11217",Brooklyn,Park Slope,Doctor's Office
 28,Pediatrics Associates,40.67602,-73.970374,"20 Plaza St E (Vanderbilt), Brooklyn, NY 11238",Brooklyn,Park Slope,Doctor's Office
@@ -7731,12 +7731,12 @@
 28,Queens Long Island Dental Care,40.661622,-73.709926,"260 W Sunrise Hwy, Valley Stream, NY 11581",Valley Stream,Rosedale,Doctor's Office
 28,Howard Opticians,40.665915,-73.708456,"54 S Central Ave, Valley Stream, NY 11580",Valley Stream,Rosedale,Doctor's Office
 28,Mirkin Jean Optcn,40.580139,-73.837617,"253 Beach 116th St, New York, NY 11694",New York,Boardwalk,Doctor's Office
-28,Spri,40.582019,-73.960188,"3044 Coney Island Ave, Brooklyn, NY 11235",Brooklyn,Brighton Beach,Doctor's Office
+28,21 Century Radiology & Imaging,40.582019,-73.960188,"3044 Coney Island Ave, Brooklyn, NY 11235",Brooklyn,Brighton Beach,Doctor's Office
 28,Dr Bronfman's Office,40.760696,-73.824562,"40-04 Sanford Avenue, Flushing, NY 11355",Flushing,Down Town Flushing,Doctor's Office
 28,NYU Langone Great Neck Medical Group,40.77593,-73.731912,"488 Great Neck Rd, Great Neck, NY 11021",Great Neck,Little Neck,Doctor's Office
 28,Central Assisted Living,40.605492,-73.751199,"1509 Central Ave, Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Doctor's Office
 28,Park Nursing Home,40.578481,-73.835121,"128 Beach 115th St, Queens, NY 11694",Queens,Boardwalk,Doctor's Office
-28,New Horizon Counseling Center,40.578202,-73.835502,"11502 Ocean Promenade, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Doctor's Office
+28,A Heel Pain Center,40.581958,-73.838031,"11412 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Doctor's Office
 28,Corbin Family Dental Arts,40.766654,-73.783406,"20417 35th Ave, Bayside, NY 11361",Bayside,Bayside,Doctor's Office
 28,New York Blood Center,40.759303,-73.697285,"2500 Marcus Ave, Lake Success, NY 11042",Lake Success,Glen Oaks,Doctor's Office
 28,Healing Rays,40.728486,-73.810054,"7161 159th St, Fresh Meadows, NY 11365",Fresh Meadows,Pomonok,Doctor's Office
@@ -7746,7 +7746,7 @@
 28,Eye Care Center of Woodhaven,40.693026,-73.859482,"8622 85th St, Woodhaven, NY 11421",Woodhaven,Woodhaven,Doctor's Office
 28,Forest Hills Pediatric Group,40.722641,-73.842363,"10848 70th Rd, Forest Hills, NY 11375",Forest Hills,Forest Hills,Doctor's Office
 28,Dr Rogoff's Dental Group,40.58218,-73.837778,"11508 Beach Channel Dr, Queens, NY 11694",Queens,Boardwalk,Doctor's Office
-28,Horowitz Ernest,40.582304,-73.837173,"11412 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Doctor's Office
+28,"Hess Michal DVM - Hess, Michal DVM",40.582304,-73.837173,"11410 Beach Channel Dr, New York, NY 11694",New York,Boardwalk,Doctor's Office
 28,Transitional Svces for New York of The Rockaways,40.6054,-73.754853,"1308 Beach Channel Dr, Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Doctor's Office
 28,"NewYork-Presbyterian Medical Group Queens - Bariatric Surgery, Colorectal Surgery, General Surgery",40.728911,-73.782701,"18603 Union Tpke, Fresh Meadows, NY 11366",Fresh Meadows,Hill Crest,Doctor's Office
 28,Queens Adult Care Center,40.74108,-73.88416,"8008 45th Ave, Elmhurst, NY 11373",Elmhurst,Elmhurst,Doctor's Office
@@ -7824,7 +7824,7 @@
 28,MacCia John DVM,40.522531,-74.23973,"4915 Arthur Kill Rd, Staten Island, NY 10309",Staten Island,Harbor Terrace,Doctor's Office
 28,Parkway Scanning,40.581628,-73.966702,"2797 Ocean Pkwy, Brooklyn, NY 11235",Brooklyn,Home Crest,Doctor's Office
 28,Tam Steven DMD,40.743006,-73.884756,"4225 80th St, Elmhurst, NY 11373",Elmhurst,Elmhurst,Doctor's Office
-28,Women's Health Care Specialist,40.526933,-74.167876,"4855 Hylan Blvd, Staten Island, NY 10312",Staten Island,Huguenot,Doctor's Office
+28,Michael A. Schirripa,40.526933,-74.167876,"4855 Hylan Blvd, Staten Island, NY 10312",Staten Island,Huguenot,Doctor's Office
 28,Mccarthy John D Do,40.586671,-74.104101,"1776 Richmond Rd (Seaver avenue), Staten Island, NY 10306",Staten Island,Dongan Hills,Doctor's Office
 28,Digestive Disease Associates,40.518834,-74.196786,"305 Seguine Ave, Staten Island, NY 10309",Staten Island,Prince's Bay,Doctor's Office
 28,Alpine Periodontics & Dental,40.76012,-73.83022,"3901 Main St, Flushing, NY 11354",Flushing,Down Town Flushing,Doctor's Office
@@ -7834,7 +7834,7 @@
 28,Pediatric Dentistry of Bronx,40.876978,-73.886049,"3201 Grand Concourse, Bronx, NY 10468",Bronx,Norwood,Doctor's Office
 28,Montefiore Hospital Clinic Building,40.880993,-73.881293,"3444 Kossuth Ave (East Gun Hill Rd), Bronx, NY 10467",Bronx,Norwood,Doctor's Office
 28,Good Reps Physical Therapy,40.67763,-73.956688,"1010 Dean St, New York, NY 11238",New York,Crown Heights,Doctor's Office
-28,West 11th Street Pediatrics: Ferrier Genevieve MD,40.734895,-73.996797,"46 W 11th St (btwn 5th & 6th), New York, NY 10011",New York,Downtown,Doctor's Office
+28,Abingdon Square Veterinary Clinic,40.734535,-74.000145,"130 W 10th St (Greenwich Ave), New York, NY 10014",New York,Downtown,Doctor's Office
 28,JAG-ONE Physical Therapy,40.58051,-73.837848,"231 Beach 116th St, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Doctor's Office
 28,Kimmel Pavilion,40.743043,-73.972793,"424 E 34th St (1st Avenue), New York, NY 10016",New York,East Side,Doctor's Office
 28,Brook Island Medical Associates Ny State Disability,40.634579,-74.109148,"800 Castleton Ave, Staten Island, NY 10310",Staten Island,West New Brighton,Doctor's Office
@@ -7900,7 +7900,7 @@
 29,Caton Park Rehabilitation and Nursing Center,40.646416,-73.957011,"1312 Caton Ave, Brooklyn, NY 11226",Brooklyn,Flatbush,Nutritionist
 29,Medrite Urgent Care,40.688993,-73.992514,"151 Court St, Brooklyn, NY 11201",Brooklyn,Boerum Hill,Nutritionist
 29,Grand Street Dental,40.716068,-73.964935,"57 Grand St, New York, NY 11249",New York,North Side,Nutritionist
-29,One Medical,40.674642,-73.976171,"794 Union St, Brooklyn, NY 11215",Brooklyn,Park Slope,Nutritionist
+29,SPEAR Physical Therapy,40.674465,-73.976145,"794 Union St, Brooklyn, NY 11215",Brooklyn,Park Slope,Nutritionist
 29,SPEAR Physical Therapy,40.674465,-73.976145,"794 Union St, Brooklyn, NY 11215",Brooklyn,Park Slope,Nutritionist
 29,Park Slope Veterinary Center,40.663567,-73.994424,"639 4th Ave (19th), Brooklyn, NY 11232",Brooklyn,Gowanus,Nutritionist
 29,NYC Health + Hospitals/Gotham Health,40.694999,-73.976379,"100 N Portland Ave, Brooklyn, NY 11205",Brooklyn,Downtown Brooklyn,Nutritionist
@@ -8004,7 +8004,7 @@
 29,Empire City Labs,40.719723,-73.762132,"20118 Hillside Ave, Hollis, NY 11423",Hollis,Holliswood,Nutritionist
 29,Kirtane Yashodhare S,40.613632,-73.731449,"10 Causeway, Lawrence, NY 11559",Lawrence,Far Rockaway,Nutritionist
 29,Paw Prints Animal Medical Centre Pc,40.579818,-73.837519,"207 Beach 116th St, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Nutritionist
-29,21 Century Radiology & Imaging,40.582019,-73.960188,"3044 Coney Island Ave, Brooklyn, NY 11235",Brooklyn,Brighton Beach,Nutritionist
+29,Spri,40.582019,-73.960188,"3044 Coney Island Ave, Brooklyn, NY 11235",Brooklyn,Brighton Beach,Nutritionist
 29,Ardeljansavic Sylvia HSS East River Professional Building New York,40.766581,-73.952213,"523 E 72nd St, New York, NY 10021",New York,Lenox Hill,Nutritionist
 29,Oceanview Nursing Home,40.597843,-73.744888,"315 Beach 9th St, Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Nutritionist
 29,Brookhaven Beach Nursing Home,40.596331,-73.751495,"250 Beach 17th St, Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Nutritionist
@@ -8109,7 +8109,7 @@
 29,Luis E Guerrero,40.830401,-73.865773,"1216 Beach Ave, Bronx, NY 10472",Bronx,Parkchester,Nutritionist
 29,Cohen's Fashion Optical,40.881118,-73.882743,"3416 Jerome Ave, Bronx, NY 10467",Bronx,Norwood,Nutritionist
 29,Methodist Hospital Emergency Room,40.668216,-73.980001,"506 6th St, Brooklyn, NY 11215",Brooklyn,Park Slope,Nutritionist
-29,Abingdon Square Veterinary Clinic,40.734535,-74.000145,"130 W 10th St (Greenwich Ave), New York, NY 10014",New York,Downtown,Nutritionist
+29,West 11th Street Pediatrics: Ferrier Genevieve MD,40.734895,-73.996797,"46 W 11th St (btwn 5th & 6th), New York, NY 10011",New York,Downtown,Nutritionist
 29,Paw Prints Animal Medical Centre Pc,40.579818,-73.837519,"207 Beach 116th St, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Nutritionist
 29,Kirtane Yashodhare S,40.613632,-73.731449,"10 Causeway, Lawrence, NY 11559",Lawrence,Far Rockaway,Nutritionist
 29,Columbia Primary Care Midtown,40.760203,-73.978748,"51 W 51st St (5th and 6th Avenue), New York, NY 10019",New York,Midtown,Nutritionist
@@ -8201,7 +8201,7 @@
 30,"Lew, Mark Dr - Mark B Lew, Md Pediatric Center",40.633552,-73.950502,"2704 Glenwood Rd, Brooklyn, NY 11210",Brooklyn,Flatbush,Doctor's Office
 30,University Orthopaedic Associates - Downstate Medical Center,40.656186,-73.948364,"760 Parkside Ave, Brooklyn, NY 11226",Brooklyn,Prospect,Doctor's Office
 30,Amber Court Of Brooklyn,40.648957,-73.897925,"650 E 104th St, Brooklyn, NY 11236",Brooklyn,Canarsie,Doctor's Office
-30,Peak Physical Therapy,40.617685,-73.943534,"3131 Kings Hwy, Brooklyn, NY 11234",Brooklyn,Manhattan Terrace,Doctor's Office
+30,Mount Sinai Doctors Midwood,40.617795,-73.943451,"3131 Kings Hwy, Brooklyn, NY 11234",Brooklyn,Manhattan Terrace,Doctor's Office
 30,Brooklyn Medical Group PC,40.64327,-73.979768,"446 McDonald Ave, Brooklyn, NY 11218",Brooklyn,Kensington,Doctor's Office
 30,Inner Fire Integrative Health Services,40.673482,-73.972619,"71 8th Ave, Brooklyn, NY 11217",Brooklyn,Park Slope,Doctor's Office
 30,Sheepshead Bay Veterinary Group,40.600133,-73.943564,"2806 Avenue U (at 28th St.), Brooklyn, NY 11229",Brooklyn,Sheepshead Bay,Doctor's Office
@@ -8291,7 +8291,7 @@
 30,United Healthcare Management,40.653339,-73.887018,"1110 Pennsylvania Ave, Brooklyn, NY 11207",Brooklyn,New Lots,Doctor's Office
 30,Nektalov Family Chirop,40.721948,-73.842032,"10850 71st Ave, Forest Hills, NY 11375",Forest Hills,Forest Hills,Doctor's Office
 30,"Sanjay Kirtane, MD",40.58216,-73.837416,"11412 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Doctor's Office
-30,Americare Certified Special Services,40.577471,-73.845005,"209 Beach 125th St, Rockaway Park, NY 11694",Rockaway Park,Rockaway Beach,Doctor's Office
+30,St John's Episcopal Hospital,40.58017,-73.8364,"11504 Rockaway Beach Blvd, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Doctor's Office
 30,Animal Clinic,40.605672,-73.754731,"1316 Beach Channel Dr, Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Doctor's Office
 30,Jodilyn Gingold MD,40.754439,-73.704242,"444 Lakeville Rd, New Hyde Park, NY 11042",New Hyde Park,Glen Oaks,Doctor's Office
 30,Sanford Manor Home Care Agency,40.757376,-73.82571,"14040 Sanford Ave (btw Old Ln & Union St), Flushing, NY 11355",Flushing,Flushing,Doctor's Office
@@ -8299,7 +8299,7 @@
 30,Digestive Liver Disease Center,40.611434,-74.098817,"5 Little Clove Rd, Staten Island, NY 10301",Staten Island,Stapleton,Doctor's Office
 30,Island Eye Surgery Specialists,40.61362,-74.113021,"1500 Victory Blvd (Little Clove Rd), Staten Island, NY 10301",Staten Island,Castleton Corners,Doctor's Office
 30,Verrazano Vision,40.624594,-74.0304,"8421 3rd Ave (85th st), Brooklyn, NY 11209",Brooklyn,Bayridge,Doctor's Office
-30,Gordon,40.640788,-74.076024,"56 Bay Street Lndg, Staten Island, NY 10301",Staten Island,Brighton Heights,Doctor's Office
+30,Best Care,40.640575,-74.075928,"60 Bay St, Staten Island, NY 10301",Staten Island,Brighton Heights,Doctor's Office
 30,Covid-19 Vaccine Hub Site: Empire Outlets,40.644323,-74.075874,"55 Richmond Ter, New York, NY 10301",New York,Howland Hook,Doctor's Office
 30,Staten Island Oral and Maxillofacial Surgery,40.586213,-74.085885,"256 Mason Ave, Staten Island, NY 10305",Staten Island,Midland Beach,Doctor's Office
 30,Richmond Family Chiropractic,40.581345,-74.111583,"2110 Richmond Rd, Staten Island, NY 10306",Staten Island,Grant City,Doctor's Office
@@ -8358,7 +8358,7 @@
 30,Vanderbilt Clinic Building,40.841277,-73.941087,"622 W 168th St, New York, NY 10032",New York,Uptown,Doctor's Office
 30,Mount Sinai West,40.769973,-73.987526,"1000 10th Ave (at 59th Street), New York, NY 10019",New York,San Juan Hill,Doctor's Office
 30,Spear Physical Therapy Brooklyn Williamsburg,40.719908,-73.960841,"71 N 7th St (btwn Wythe & Kent Avs), Brooklyn, NY 11249",Brooklyn,North Side,Doctor's Office
-30,Bond Vet - East Village,40.732918,-73.981096,"282 1st Ave, New York, NY 10009",New York,Midtown,Doctor's Office
+30,Mount Sinai Beth Israel,40.73283,-73.981713,"10 Nathan D Perlman Pl (btwn E 15th & E 16th St), New York, NY 10003",New York,East Village,Doctor's Office
 30,NewYork-Presbyterian Alexandra Cohen Hospital for Women and Newborns,40.764104,-73.95605,"1283 York Ave, New York, NY 10065",New York,Lenox Hill,Doctor's Office
 30,SPEAR Physical Therapy,40.741035,-74.001144,"269 W 16th St (8th ave), New York, NY 10011",New York,Chelsea,Doctor's Office
 30,Spring Ob/Gyn,40.724108,-74.000738,"135 Spring St (Between Wooster and Greene Streets), New York, NY 10012",New York,Downtown,Doctor's Office
@@ -8475,7 +8475,7 @@
 31,Tribeca Pediatrics - Park Slope,40.669518,-73.985676,"425 5th Ave (8th Street), Brooklyn, NY 11215",Brooklyn,Park Slope,Internal Medicine Doctor
 31,Proxi Medical Urgent Care,40.665939,-73.956455,"1665 Bedford Ave, Brooklyn, NY 11225",Brooklyn,Crown Heights,Internal Medicine Doctor
 31,True North Urgent Care,40.700045,-73.908513,"5505 Myrtle Ave, Ridgewood, NY 11385",Ridgewood,Bushwick,Internal Medicine Doctor
-31,Mount Sinai Doctors Midwood,40.617795,-73.943451,"3131 Kings Hwy, Brooklyn, NY 11234",Brooklyn,Manhattan Terrace,Internal Medicine Doctor
+31,Peak Physical Therapy,40.617685,-73.943534,"3131 Kings Hwy, Brooklyn, NY 11234",Brooklyn,Manhattan Terrace,Internal Medicine Doctor
 31,Sephardic Bikur Holim,40.604621,-73.97469,"425 Kings Hwy, Brooklyn, NY 11223",Brooklyn,Bensonhurst,Internal Medicine Doctor
 31,Tribeca Pediatrics,40.66021,-73.99499,"5TH Ave (23rd And 24th), Brooklyn, NY 11232",Brooklyn,South Brooklyn,Internal Medicine Doctor
 31,Centers Urgent Care,40.625747,-73.958261,"1811 Avenue J, Brooklyn, NY 11230",Brooklyn,Midwood,Internal Medicine Doctor
@@ -8570,7 +8570,7 @@
 31,"Queens Medical Office, PC",40.693256,-73.861017,"8615 Forest Pkwy, Woodhaven, NY 11421",Woodhaven,Woodhaven,Internal Medicine Doctor
 31,Dr Yu - Pediatricians,40.72225,-73.88438,"Lutheran Ave, Middle Village, NY 11379",Middle Village,Maspeth,Internal Medicine Doctor
 31,St John's Episcopal Hospital,40.58017,-73.8364,"11504 Rockaway Beach Blvd, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Internal Medicine Doctor
-31,St John's Episcopal Hospital,40.58017,-73.8364,"11504 Rockaway Beach Blvd, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Internal Medicine Doctor
+31,Americare Certified Special Services,40.577471,-73.845005,"209 Beach 125th St, Rockaway Park, NY 11694",Rockaway Park,Rockaway Beach,Internal Medicine Doctor
 31,David G Steiner MD,40.622337,-73.734399,"287 Rockaway Tpke, Lawrence, NY 11559",Lawrence,Far Rockaway,Internal Medicine Doctor
 31,NSLIJ Employee Health Services,40.75703,-73.706381,"410 Lakeville Rd, New Hyde Park, NY 11042",New Hyde Park,Glen Oaks,Internal Medicine Doctor
 31,Jin Yiping Newyork Presbyterian Queens Hospital Flushing,40.747137,-73.825257,"5645 Main St (at Booth Memorial Ave.), Flushing, NY 11355",Flushing,Queensboro Hills,Internal Medicine Doctor
@@ -8579,7 +8579,7 @@
 31,Prime Nutrition,40.659485,-74.122267,"367 Broadway, Bayonne, NJ 07002",Bayonne,Centreville,Internal Medicine Doctor
 31,The Spine & Pain Institute Of New York,40.613255,-74.114486,"1534 Victory Blvd, Staten Island, NY 10314",Staten Island,Castleton Corners,Internal Medicine Doctor
 31,Staten Island Care Center,40.640052,-74.094646,"200 Lafayette Ave, Staten Island, NY 10301",Staten Island,New Brighton,Internal Medicine Doctor
-31,Best Care,40.640575,-74.075928,"60 Bay St, Staten Island, NY 10301",Staten Island,Brighton Heights,Internal Medicine Doctor
+31,Gordon,40.640788,-74.076024,"56 Bay Street Lndg, Staten Island, NY 10301",Staten Island,Brighton Heights,Internal Medicine Doctor
 31,Island Eye Surgery Specialists,40.61362,-74.113021,"1500 Victory Blvd (Little Clove Rd), Staten Island, NY 10301",Staten Island,Castleton Corners,Internal Medicine Doctor
 31,Krietchman Raymond DDS PC,40.573192,-74.110459,"255 Clawson St, Staten Island, NY 10306",Staten Island,New Dorp,Internal Medicine Doctor
 31,Celmer Edward J,40.610861,-74.141913,"5 Crafton Ave, Staten Island, NY 10314",Staten Island,Meiers Corners,Internal Medicine Doctor
@@ -8639,7 +8639,7 @@
 31,Pediatrics 2000 Iii,40.84546,-73.94221,"135 Haven Ave (172 St), New York, NY 10032",New York,Uptown,Internal Medicine Doctor
 31,Group Health Dental,40.755725,-73.988707,"230 W 41st St, New York, NY 10036",New York,Midtown,Internal Medicine Doctor
 31,Memorial Sloan Kettering Cancer Center,40.764001,-73.956077,"1275 York Ave (btwn 67th & 68th St), New York, NY 10065",New York,Lenox Hill,Internal Medicine Doctor
-31,Mount Sinai Beth Israel,40.73283,-73.981713,"10 Nathan D Perlman Pl (btwn E 15th & E 16th St), New York, NY 10003",New York,East Village,Internal Medicine Doctor
+31,Bond Vet - East Village,40.732918,-73.981096,"282 1st Ave, New York, NY 10009",New York,Midtown,Internal Medicine Doctor
 31,Zuckerman Research Center,40.765216,-73.956835,"410 E 69th St, New York, NY 10021",New York,Lenox Hill,Internal Medicine Doctor
 31,Tend,40.754545,-73.97643,"230 Park Ave, New York, NY 10169",New York,East Side,Internal Medicine Doctor
 31,Tend,40.754545,-73.97643,"230 Park Ave, New York, NY 10169",New York,East Side,Internal Medicine Doctor
@@ -8942,7 +8942,7 @@
 32,Dr. Michele Menichella Chiropractic Office,40.63437,-74.110839,"323 Oakland Ave, Staten Island, NY 10310",Staten Island,West New Brighton,Dentist
 33,New York Cancer & Blood Specialists,40.860106,-73.84283,"2330 Eastchester Rd, Bronx, NY 10469",Bronx,Hillside,Medical Center
 33,Pacia Family Dental,40.902079,-73.811666,"580 Colonial Ave, Pelham, NY 10803",Pelham,Wakefield,Medical Center
-33,Howard Hochster Ppc,40.859072,-73.855706,"2233 Esplanade Ave, Bronx, NY 10469",Bronx,Pelham Parkway,Medical Center
+33,University Diagnostic Medical Imaging Pc,40.844259,-73.839413,"1200 Waters Pl, Bronx, NY 10461",Bronx,Westchester,Medical Center
 33,Mercy Midwives Women's Health Center,40.866688,-73.884923,"2847 Webster Ave, Bronx, NY 10458",Bronx,Belmont,Medical Center
 33,Fordham Radiology,40.862341,-73.902361,"2430 Davidson Ave, Bronx, NY 10468",Bronx,Fordham,Medical Center
 33,Isabella Geriatric Center,40.854551,-73.927369,"515 Audubon Ave, New York, NY 10040",New York,Fort George,Medical Center
@@ -8985,7 +8985,8 @@
 33,NYC Health + Hospitals/Jacobi,40.855915,-73.84618,"1400 Pelham Pkwy S (at Eastchester Rd), Bronx, NY 10461",Bronx,Pelham Parkway,Medical Center
 33,Andre J Singer DDS,40.612984,-74.000527,"7810 17th Ave, Brooklyn, NY 11214",Brooklyn,New Utrecht,Medical Center
 33,Step Into Stride Physical Therapy,40.627323,-74.023234,"7725 5th Ave, Brooklyn, NY 11209",Brooklyn,Bayridge,Medical Center
-33,Ayla Yavin Acupuncture & Herbs,40.747344,-73.991348,"135 W 29th St (7th and 6th Aves), New York, NY 10001",New York,Chelsea,Medical Center
+33,Methodist Hospital Emergency Room,40.668216,-73.980001,"506 6th St, Brooklyn, NY 11215",Brooklyn,Park Slope,Medical Center
+33,New York Doctors Urgent Care,40.73667,-73.996998,"65 W 13th St (btwn 5th & 6th Ave), New York, NY 10011",New York,Chelsea,Medical Center
 33,Leung Euston MD,40.617735,-73.969756,"1266 Ocean Pkwy, Brooklyn, NY 11230",Brooklyn,Ocean Parkway,Medical Center
 33,Sheepshead Nursing and Rehabilitation Center,40.585259,-73.931675,"2840 Knapp St, Brooklyn, NY 11235",Brooklyn,Plum Beach,Medical Center
 33,Faithful Friends Animal Hospital,40.591994,-73.973633,"2455 McDonald Ave, Brooklyn, NY 11223",Brooklyn,Gravesend,Medical Center
@@ -9107,7 +9108,7 @@
 33,"Frank Valdinoto, DDS",40.788655,-73.727972,"12 Bond St, Great Neck, NY 11021",Great Neck,East Garden City,Medical Center
 33,Bendelstein Harold,40.609711,-73.746119,"870 Central Ave, Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Medical Center
 33,Bishop Charles Waldo MacLean Nursing Home,40.598702,-73.751402,"1711 Brookhaven Ave, Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Medical Center
-33,"Hess Michal DVM - Hess, Michal DVM",40.582304,-73.837173,"11410 Beach Channel Dr, New York, NY 11694",New York,Boardwalk,Medical Center
+33,Horowitz Ernest,40.582304,-73.837173,"11412 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Medical Center
 33,Park Nursing Home,40.578481,-73.835121,"128 Beach 115th St, Queens, NY 11694",Queens,Boardwalk,Medical Center
 33,COVID-19 Vaccine Hub Site: Mass Vaccination Site - Citi Field,40.757649,-73.844605,"41 Seaver Way, New York, NY 11368",New York,North Corona,Medical Center
 33,Anna N Krol Physician PC,40.718716,-73.812501,"15028 Union Tpke, Flushing, NY 11367",Flushing,Kew Gardens Hills,Medical Center
@@ -9213,7 +9214,7 @@
 33,Gateway Ob/gyn Associates Pc,40.591346,-74.098723,"78 Cromwell Ave, Staten Island, NY 10304",Staten Island,Grand City,Medical Center
 34,Urgent Care of Eastchester Road,40.859946,-73.842781,"2304 Eastchester Rd, Bronx, NY 10469",Bronx,Hillside,Urgent Care Center
 34,Our Lady of Mercy Dnt Clinic,40.895479,-73.860363,"4234 Bronx Blvd, Bronx, NY 10466",Bronx,Williamsbridge,Urgent Care Center
-34,University Diagnostic Medical Imaging Pc,40.844259,-73.839413,"1200 Waters Pl, Bronx, NY 10461",Bronx,Westchester,Urgent Care Center
+34,Howard Hochster Ppc,40.859072,-73.855706,"2233 Esplanade Ave, Bronx, NY 10469",Bronx,Pelham Parkway,Urgent Care Center
 34,Inwood Animal Clinic,40.866352,-73.924446,"4846 Broadway (Acadamy), New York, NY 10034",New York,Fort George,Urgent Care Center
 34,American Dental Centers,40.863349,-73.896882,"2535 Grand Concourse, Bronx, NY 10468",Bronx,Fordham,Urgent Care Center
 34,The Hebrew Home For The Aged At Riverdale,40.909988,-73.909274,"5901 Palisade Ave (at Ny Orphan Aym Rd), Bronx, NY 10471",Bronx,Fildston,Urgent Care Center
@@ -9223,7 +9224,7 @@
 34,Medalliance Medical Health Services,40.858341,-73.883869,"625 E Fordham Rd (Arthur Ave), Bronx, NY 10458",Bronx,Belmont,Urgent Care Center
 34,Affinity Health,40.837864,-73.841546,"1379 Commerce Ave, Bronx, NY 10461",Bronx,Unionport,Urgent Care Center
 34,Mercy Midwives Women's Health Center,40.866688,-73.884923,"2847 Webster Ave, Bronx, NY 10458",Bronx,Belmont,Urgent Care Center
-34,American Access Care of the Bronx,40.852858,-73.836922,"1200 Waters Pl, Bronx, NY 10461",Bronx,Westchester,Urgent Care Center
+34,University Diagnostic Medical Imaging Pc,40.844259,-73.839413,"1200 Waters Pl, Bronx, NY 10461",Bronx,Westchester,Urgent Care Center
 34,Rejuve Face & Body Spa,40.866615,-73.918589,"264 Sherman Ave, New York, NY 10034",New York,Inwood,Urgent Care Center
 34,Vanderbilt Clinic Building,40.841277,-73.941087,"622 W 168th St, New York, NY 10032",New York,Uptown,Urgent Care Center
 34,Bronx Medical & Dental Plaza,40.84648,-73.885049,"817 E 180th St, Bronx, NY 10460",Bronx,East Tremont,Urgent Care Center
@@ -9257,8 +9258,7 @@
 34,Montefiore Medical Center,40.852702,-73.838755,"1250 Waters Pl, Bronx, NY 10461",Bronx,Westchester,Urgent Care Center
 34,Maimonides Pediatric Primary Care Center,40.630431,-73.996258,"1301 57th St (13th Ave), Brooklyn, NY 11219",Brooklyn,Borough Park,Urgent Care Center
 34,Anna Dunevsky,40.60875,-73.959392,"1660 E 14th St, Brooklyn, NY 11229",Brooklyn,Gravesend,Urgent Care Center
-34,Methodist Hospital Emergency Room,40.668216,-73.980001,"506 6th St, Brooklyn, NY 11215",Brooklyn,Park Slope,Urgent Care Center
-34,New York Doctors Urgent Care,40.73667,-73.996998,"65 W 13th St (btwn 5th & 6th Ave), New York, NY 10011",New York,Chelsea,Urgent Care Center
+34,Ayla Yavin Acupuncture & Herbs,40.747344,-73.991348,"135 W 29th St (7th and 6th Aves), New York, NY 10001",New York,Chelsea,Urgent Care Center
 34,Mind your health,40.615294,-73.958381,"1417 E 16th St, Brooklyn, NY 11230",Brooklyn,Manhattan Terrace,Urgent Care Center
 34,Seventh Avenue Dental,40.597532,-73.987867,"8618 25th Ave, Brooklyn, NY 11214",Brooklyn,Bath Beach,Urgent Care Center
 34,Anna Dunevsky,40.60875,-73.959392,"1660 E 14th St, Brooklyn, NY 11229",Brooklyn,Gravesend,Urgent Care Center
@@ -9280,7 +9280,6 @@
 34,Mount Sinai Doctors Brooklyn Heights,40.695084,-73.991171,"300 Cadman Plz W (Pierrepont), Brooklyn, NY 11201",Brooklyn,Brooklyn Heights,Urgent Care Center
 34,Ridgewood Dialysis Center,40.707056,-73.91458,"385 Seneca Ave, Ridgewood, NY 11385",Ridgewood,Linden Hill,Urgent Care Center
 34,Woodhaven Braces,40.693317,-73.852426,"8708 Woodhaven Blvd (Jamicia Ave.), Woodhaven, NY 11421",Woodhaven,Brooklyn Manor,Urgent Care Center
-34,Performance Edge Chiropractic,40.619845,-73.906857,"7112 Avenue U, Brooklyn, NY 11234",Brooklyn,Georgetown,Urgent Care Center
 34,Amber Court Of Brooklyn,40.648957,-73.897925,"650 E 104th St, Brooklyn, NY 11236",Brooklyn,Canarsie,Urgent Care Center
 34,Rehabilitation Associates of Brooklyn,40.611374,-73.953913,"2072 Ocean Ave, Brooklyn, NY 11230",Brooklyn,Manhattan Terrace,Urgent Care Center
 34,Faithful Friends Animal Hospital,40.591994,-73.973633,"2455 McDonald Ave, Brooklyn, NY 11223",Brooklyn,Gravesend,Urgent Care Center
@@ -9378,7 +9377,7 @@
 34,North Shore Prosthodontic Associates of Great Neck,40.789744,-73.727572,"23 Bond St (Bond st), Great Neck, NY 11021",Great Neck,East Garden City,Urgent Care Center
 34,"Irwin Samet, DDS",40.606382,-73.743611,"719 Empire Ave, Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Urgent Care Center
 34,Transitional Svces for New York of The Rockaways,40.6054,-73.754853,"1308 Beach Channel Dr, Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Urgent Care Center
-34,Allan B Simon DVM,40.582304,-73.837173,"11410 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Urgent Care Center
+34,NY Empire Medical PC,40.582304,-73.837173,"11412 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Urgent Care Center
 34,"Sanjay Kirtane, MD",40.58216,-73.837416,"11412 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Urgent Care Center
 34,Target Optical,40.783675,-73.833338,"13505 20th Ave, College Point, NY 11356",College Point,College Point,Urgent Care Center
 34,"Helen Flamenbaum, MD - Schweiger Dermatology Group",40.763188,-73.690644,"3003 New Hyde Park Rd (Suite 306), North New Hyde Park, NY 11042",North New Hyde Park,Glen Oaks,Urgent Care Center
@@ -9419,7 +9418,6 @@
 34,Roccaro Gregory DVM,40.591508,-74.100645,"1564 Richmond Rd, Staten Island, NY 10304",Staten Island,Dongan Hills,Urgent Care Center
 34,SIUH Heart Tower,40.585102,-74.085187,"242 Mason Ave, Staten Island, NY 10305",Staten Island,Midland Beach,Urgent Care Center
 34,University Hospice-Addeo Hospice Residence,40.581486,-74.131308,"78 Meisner Ave, Staten Island, NY 10306",Staten Island,Egbertville,Urgent Care Center
-34,Physical Therapy & Sports Medicine Center,40.518462,-74.264591,"600 State St, Perth Amboy, NJ 08861",Perth Amboy,Harbor Terrace,Urgent Care Center
 34,Sussman Steven,40.524905,-74.200833,"56 Seguine Ave, Staten Island, NY 10309",Staten Island,Prince's Bay,Urgent Care Center
 34,"Zimmerman, Jonathan Dr - Staten Island University Hospital Outpatient Mental Health Clinic",40.516506,-74.197249,"392 Seguine Ave, Staten Island, NY 10309",Staten Island,Prince's Bay,Urgent Care Center
 34,Carteret Dental,40.584342,-74.226593,"283 Washington Ave, Carteret, NJ 07008",Carteret,Chrome,Urgent Care Center
@@ -9491,7 +9489,7 @@
 35,Medina Emma MD,40.851057,-73.850206,"1165 Morris Park Ave, Bronx, NY 10461",Bronx,Pelham Parkway,Nursing Home
 35,Quality Control Optics,40.892631,-73.855572,"754 E 233rd St, Bronx, NY 10466",Bronx,Williamsbridge,Nursing Home
 35,Bronx Medical & Dental Plaza,40.84648,-73.885049,"817 E 180th St, Bronx, NY 10460",Bronx,East Tremont,Nursing Home
-35,University Diagnostic Medical Imaging Pc,40.844259,-73.839413,"1200 Waters Pl, Bronx, NY 10461",Bronx,Westchester,Nursing Home
+35,American Access Care of the Bronx,40.852858,-73.836922,"1200 Waters Pl, Bronx, NY 10461",Bronx,Westchester,Nursing Home
 35,Cuomo Family Chiropractic Center,40.856519,-73.856269,"2143 Williamsbridge Rd, Bronx, NY 10461",Bronx,Allerton,Nursing Home
 35,Schervier Nursing Care Center,40.881652,-73.918019,"2975 Independence Ave, Bronx, NY 10463",Bronx,Marble Hill,Nursing Home
 35,Callen Lorde Community Health Center,40.8221,-73.910609,"3144 3rd Ave, Bronx, NY 10451",Bronx,Melrose,Nursing Home
@@ -9507,7 +9505,7 @@
 35,Herbert Irving Pavilion,40.840842,-73.943215,"161 Fort Washington Ave (at W 165th Street), New York, NY 10032",New York,Uptown,Nursing Home
 35,"William E Guerrero, OD - William E Guerrero PC",40.826393,-73.82219,"3730 E Tremont Ave, Bronx, NY 10465",Bronx,Schuvilerville,Nursing Home
 35,A Dental,40.847359,-73.857467,"960 Morris Park Ave, Bronx, NY 10462",Bronx,Van Nest,Nursing Home
-35,Montefiore Medical Center Jack D. Weiler Hospital Emergency Department,40.849057,-73.846063,"Albert Einstein Hospital (1825 Eastchester Rd), Bronx, NY 10461",Bronx,Westchester,Nursing Home
+35,University Diagnostic Medical Imaging Pc,40.844259,-73.839413,"1200 Waters Pl, Bronx, NY 10461",Bronx,Westchester,Nursing Home
 35,South Bronx Mental Health Council,40.835601,-73.848463,"1401 Glover St, Bronx, NY 10462",Bronx,Parkchester,Nursing Home
 35,Urgent Care of Eastchester Road,40.859946,-73.842781,"2304 Eastchester Rd, Bronx, NY 10469",Bronx,Hillside,Nursing Home
 35,Cuomo Family Chiropractic Center,40.856519,-73.856269,"2143 Williamsbridge Rd, Bronx, NY 10461",Bronx,Allerton,Nursing Home
@@ -9548,6 +9546,7 @@
 35,PAWSitive Veterinary of New York,40.647279,-73.968985,"1103 Church Ave (Stratford Road), Brooklyn, NY 11218",Brooklyn,Prospect Park Sout,Nursing Home
 35,Knickerbocker Professional Arts Bldng,40.700297,-73.920645,"385 Knickerbocker Ave, Brooklyn, NY 11237",Brooklyn,Bushwick,Nursing Home
 35,Romano Richard D DC PC,40.701423,-73.888932,"6553 Myrtle Ave, Glendale, NY 11385",Glendale,Fresh Pond Junction,Nursing Home
+35,Performance Edge Chiropractic,40.619845,-73.906857,"7112 Avenue U, Brooklyn, NY 11234",Brooklyn,Georgetown,Nursing Home
 35,Be Well Primary Health Care Center,40.636155,-73.947857,"2019 Nostrand Ave, Brooklyn, NY 11210",Brooklyn,East Flatbush,Nursing Home
 35,Quality Laboratory Service,40.592551,-73.950495,"2818 Ocean Ave, Brooklyn, NY 11235",Brooklyn,Sheepshead Bay,Nursing Home
 35,TRi Physical Therapy of Brooklyn,40.601592,-73.961205,"2279 Coney Island Ave, Brooklyn, NY 11223",Brooklyn,Gravesend,Nursing Home
@@ -9570,7 +9569,7 @@
 35,SmileAlign Orthodontics: Dr. Ted Wohl,40.609146,-73.95466,"1680 E 19th St (Quentin Road), Brooklyn, NY 11229",Brooklyn,Gravesend,Nursing Home
 35,Vinegar Hill Vet,40.702673,-73.991688,"57 Front St, Brooklyn, NY 11201",Brooklyn,Brooklyn Heights,Nursing Home
 35,Weill Cornell Medicine,40.692482,-73.99168,"186 Joralemon St (Court Street), Brooklyn, NY 11201",Brooklyn,Boerum Hill,Nursing Home
-35,Kimmel Pavilion,40.743043,-73.972793,"424 E 34th St (1st Avenue), New York, NY 10016",New York,East Side,Nursing Home
+35,Medrite Urgent Care,40.688993,-73.992514,"151 Court St, Brooklyn, NY 11201",Brooklyn,Boerum Hill,Nursing Home
 35,Family Smile Dental,40.598948,-73.937289,"3029 Avenue V (Ford Street & Coyle Street), Brooklyn, NY 11229",Brooklyn,Gerritsen,Nursing Home
 35,JAG-ONE Physical Therapy,40.59961,-73.996613,"8718 Bay Pkwy, Brooklyn, NY 11214",Brooklyn,Bath Beach,Nursing Home
 35,Manhattan Specialty Care,40.740528,-73.994006,"55 W 17th St, New York, NY 10011",New York,Chelsea,Nursing Home
@@ -9648,7 +9647,7 @@
 35,Multi Specialty Pain Management,40.826726,-73.821852,"3713 E Tremont Ave, Bronx, NY 10465",Bronx,Schuvilerville,Nursing Home
 35,Animal Hospital of the Five Towns,40.615796,-73.752428,"157 Sheridan Blvd, Inwood, NY 11096",Inwood,Bayswater,Nursing Home
 35,Smith David N Dr,40.602172,-73.752609,"1925 Cornaga Ave, Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Nursing Home
-35,NY Empire Medical PC,40.582304,-73.837173,"11412 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Nursing Home
+35,Whittred Susan,40.582304,-73.837173,"11410 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Nursing Home
 35,Island Pediatric Associates,40.582246,-73.837301,"11412 Beach Channel Dr, Far Rockaway, NY 11694",Far Rockaway,Boardwalk,Nursing Home
 35,ProHEALTH Urgent Care of College Point,40.786623,-73.836241,"1 14TH Ave, College Point, NY 11356",College Point,College Point,Nursing Home
 35,North Shore Allergy and Asthma Institute,40.765944,-73.694884,"1 Hollow Ln, New Hyde Park, NY 11042",New Hyde Park,Glen Oaks,Nursing Home
@@ -9683,17 +9682,18 @@
 35,Mount Sinai Brooklyn,40.618675,-73.942788,"3201 Kings Hwy (at E. 32nd St.), Brooklyn, NY 11234",Brooklyn,Manhattan Terrace,Nursing Home
 35,Sciascia Chiropractor,40.615483,-74.102339,"1313 Clove Rd, Staten Island, NY 10301",Staten Island,Fox Hills,Nursing Home
 35,Person Centered Care Service,40.613205,-74.123893,"1811 Victory Blvd, Staten Island, NY 10314",Staten Island,Castleton Corners,Nursing Home
-35,Allan Hausknecht MD,40.618034,-74.029962,"9201 4th Ave, Brooklyn, NY 11209",Brooklyn,Bayridge,Nursing Home
+35,Brooklyn Counseling Services,40.617982,-74.029917,"9201 4th Ave, Brooklyn, NY 11209",Brooklyn,Bayridge,Nursing Home
 35,Vision Gallery,40.573885,-74.106876,"2351 Hylan Blvd, Staten Island, NY 10306",Staten Island,New Dorp,Nursing Home
 35,Bay Street Animal Hospital,40.618465,-74.068922,"999 Bay St (at Lynhurst Ave), Staten Island, NY 10305",Staten Island,Rosebank,Nursing Home
 35,Edward Levine,40.61378,-74.101572,"1374 Clove Rd, Staten Island, NY 10301",Staten Island,Fox Hills,Nursing Home
 35,Staten Island Orthopedics & Sports Medicine,40.591696,-74.101611,"1551 Richmond Rd, Staten Island, NY 10304",Staten Island,Dongan Hills,Nursing Home
 35,Staten Island University Hospital,40.58469,-74.086432,"475 Seaview Ave (btwn Mason Ave & Father Capodanno Blvd), Staten Island, NY 10305",Staten Island,Midland Beach,Nursing Home
 35,Richmond Medical Associates PC,40.547312,-74.166665,"7 Petrus Ave, Staten Island, NY 10312",Staten Island,Annadale,Nursing Home
+35,Physical Therapy & Sports Medicine Center,40.518462,-74.264591,"600 State St, Perth Amboy, NJ 08861",Perth Amboy,Harbor Terrace,Nursing Home
 35,Santamaria Eye Center,40.507059,-74.268077,"104 Market St, Perth Amboy, NJ 08861",Perth Amboy,Downtown,Nursing Home
 35,Sleep Apnea Center,40.516686,-74.196605,"375 Seguine Ave, Staten Island, NY 10309",Staten Island,Prince's Bay,Nursing Home
 35,ProHEALTH Circle Urgent Care of Tottenville,40.516395,-74.234283,"7001 Amboy Rd (Page Avenue), Staten Island, NY 10307",Staten Island,Harbor Terrace,Nursing Home
-35,Michael A. Schirripa,40.526933,-74.167876,"4855 Hylan Blvd, Staten Island, NY 10312",Staten Island,Huguenot,Nursing Home
+35,North Shore Staten Island University Hospital,40.526933,-74.167876,"4855 Hylan Blvd, Staten Island, NY 10312",Staten Island,Huguenot,Nursing Home
 35,Comprehensive Pediatrics PC,40.526425,-74.17242,"4982 Hylan Blvd, Staten Island, NY 10312",Staten Island,Huguenot,Nursing Home
 35,Miracle-Ear Hearing Aid Center,40.577187,-74.168732,"2795 Richmond Ave, Staten Island, NY 10314",Staten Island,New Springville,Nursing Home
 35,JAG-ONE Physical Therapy,40.625991,-74.13467,"1351 Forest Ave, Staten Island, NY 10302",Staten Island,Westerleigh,Nursing Home
@@ -9777,7 +9777,7 @@
 36,Henry J. Carter Specialty Hospital & Nursing Facility,40.803045,-73.941024,"1752 Park Ave (at 122nd St), New York, NY 10035",New York,Central Harlem,Doctor's Office
 36,Pibly Residential Program,40.812009,-73.908305,"514 Concord Ave, Bronx, NY 10455",Bronx,St. Mary's Park Houses,Doctor's Office
 36,Pibly Residential Program,40.812009,-73.908305,"514 Concord Ave, Bronx, NY 10455",Bronx,St. Mary's Park Houses,Doctor's Office
-36,University Diagnostic Medical Imaging Pc,40.844259,-73.839413,"1200 Waters Pl, Bronx, NY 10461",Bronx,Westchester,Doctor's Office
+36,Montefiore Medical Center Jack D. Weiler Hospital Emergency Department,40.849057,-73.846063,"Albert Einstein Hospital (1825 Eastchester Rd), Bronx, NY 10461",Bronx,Westchester,Doctor's Office
 36,Urgent Care of Eastchester Road,40.859946,-73.842781,"2304 Eastchester Rd, Bronx, NY 10469",Bronx,Hillside,Doctor's Office
 36,New York Cancer & Blood Specialists,40.860106,-73.84283,"2330 Eastchester Rd, Bronx, NY 10469",Bronx,Hillside,Doctor's Office
 36,Urgent Care of Eastchester Road,40.859946,-73.842781,"2304 Eastchester Rd, Bronx, NY 10469",Bronx,Hillside,Doctor's Office
@@ -9799,7 +9799,7 @@
 36,Center for Community Health at NewYork-Presbyterian Brooklyn Methodist Hospital,40.668043,-73.978424,"515 6th Ave, Brooklyn, NY 11215",Brooklyn,Park Slope,Doctor's Office
 36,Rockefeller Research Laboratories,40.763916,-73.957047,"430 E 67th St (Memorial Sloan-Kettering Cancer Center), New York, NY 10065",New York,Lenox Hill,Doctor's Office
 36,Sight N Save Optical,40.617835,-73.964054,"1634 Coney Island Ave, Brooklyn, NY 11230",Brooklyn,Ocean Parkway,Doctor's Office
-36,Health Works,40.604147,-73.974279,"10 Van Sicklen St, Brooklyn, NY 11223",Brooklyn,Bensonhurst,Doctor's Office
+36,Doueck Dental & Sleep Medicine,40.604893,-73.968604,"563 Kings Hwy, Brooklyn, NY 11223",Brooklyn,Gravesend,Doctor's Office
 36,Bay Ridge Medical Imaging,40.608256,-73.961724,"2005 Coney Island Ave (Quentin Road), New York, NY 11223",New York,Gravesend,Doctor's Office
 36,"Marina Perlova, MD & Galina Zaretsky, MD",40.601977,-73.988781,"2327 83rd St, Brooklyn, NY 11214",Brooklyn,Bath Beach,Doctor's Office
 36,Veterinary Emergency & Referral Group,40.678328,-73.982794,"196 4th Ave, New York, NY 11217",New York,Fort Greene,Doctor's Office
@@ -9842,8 +9842,8 @@
 36,Mind your health,40.615294,-73.958381,"1417 E 16th St, Brooklyn, NY 11230",Brooklyn,Manhattan Terrace,Doctor's Office
 36,Boro Dental Arts,40.749315,-73.936,"29-22 Northern Blvd, New York, NY 11101",New York,Long Island City,Doctor's Office
 36,Flatiron Pediatrics,40.740257,-73.988057,"27 E 22nd St, New York, NY 10010",New York,Chelsea,Doctor's Office
-36,Medrite Urgent Care,40.688993,-73.992514,"151 Court St, Brooklyn, NY 11201",Brooklyn,Boerum Hill,Doctor's Office
-36,Maimonides Pediatric Primary Care Center,40.630431,-73.996258,"1301 57th St (13th Ave), Brooklyn, NY 11219",Brooklyn,Borough Park,Doctor's Office
+36,Kimmel Pavilion,40.743043,-73.972793,"424 E 34th St (1st Avenue), New York, NY 10016",New York,East Side,Doctor's Office
+36,Tribeca Pediatrics,40.640529,-73.965542,"1322 Cortelyou Rd (Rugby Road), Brooklyn, NY 11226",Brooklyn,Beverly Square West,Doctor's Office
 36,Maimonides Pediatric Primary Care Center,40.630431,-73.996258,"1301 57th St (13th Ave), Brooklyn, NY 11219",Brooklyn,Borough Park,Doctor's Office
 36,Spear Physical Therapy Brooklyn Williamsburg,40.719908,-73.960841,"71 N 7th St (btwn Wythe & Kent Avs), Brooklyn, NY 11249",Brooklyn,North Side,Doctor's Office
 36,University Nursing Home,40.864838,-73.901929,"2505 Grand Ave, Bronx, NY 10468",Bronx,Fordham,Doctor's Office
@@ -9920,7 +9920,7 @@
 36,Metro Eye Md,40.744297,-73.775728,"5847 Francis Lewis Blvd, Oakland Gardens, NY 11364",Oakland Gardens,Fresh Meadows,Doctor's Office
 36,Sage Health Omega-3,40.598759,-73.740523,"604 Jarvis Ave, Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Doctor's Office
 36,Nova Medical,40.602172,-73.752609,"1925 Cornaga Ave, Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Doctor's Office
-36,Whittred Susan,40.582304,-73.837173,"11410 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Doctor's Office
+36,Allan B Simon DVM,40.582304,-73.837173,"11410 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Doctor's Office
 36,Bayview Urgent Care,40.58213,-73.837645,"11506 Beach Channel Dr, Queens, NY 11694",Queens,Boardwalk,Doctor's Office
 36,Ronald A Csillag,40.769477,-73.774156,"3438 Bell Blvd, Bayside, NY 11361",Bayside,Bayside,Doctor's Office
 36,Brighter Dental Center,40.725944,-73.718048,"24902 Jericho Tpke, Floral Park, NY 11001",Floral Park,Bellaire,Doctor's Office
@@ -9929,7 +9929,7 @@
 36,Mount Sinai Faculty Practice Associates,40.789141,-73.954262,"5 E 98th St, New York, NY 10029",New York,Carnegie Hill,Doctor's Office
 36,Oasis Family Dental,40.696155,-73.838571,"10911 Jamaica Ave, Richmond Hill, NY 11418",Richmond Hill,Richmond Hill,Doctor's Office
 36,Clinic Nueva Esperanza,40.746369,-73.890252,"7501 Broadway, Elmhurst, NY 11373",Elmhurst,Elmhurst,Doctor's Office
-36,"Hess Michal DVM - Hess, Michal DVM",40.582304,-73.837173,"11410 Beach Channel Dr, New York, NY 11694",New York,Boardwalk,Doctor's Office
+36,Horowitz Ernest,40.582304,-73.837173,"11412 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Doctor's Office
 36,Promenade Rehabilitation and Health Care Center,40.578773,-73.834218,"140 Beach 114th St, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Doctor's Office
 36,Nova Medical,40.602172,-73.752609,"1925 Cornaga Ave, Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Doctor's Office
 36,NSUH LIJ Diagnostic Imaging Center,40.756108,-73.702201,"450 Lakeville Rd, New Hyde Park, NY 11042",New Hyde Park,Glen Oaks,Doctor's Office
@@ -9954,7 +9954,7 @@
 36,Richmond University Medical Center,40.635626,-74.106403,"355 Bard Ave (Castleton Ave), Staten Island, NY 10310",Staten Island,Randall Manor,Doctor's Office
 36,Regional Radiology,40.635181,-74.106907,"360 Bard Ave (at Castleton Ave), Staten Island, NY 10310",Staten Island,Randall Manor,Doctor's Office
 36,Richmond Radiology PC,40.598331,-74.161935,"2025 Richmond Ave, Staten Island, NY 10314",Staten Island,Willowbrook,Doctor's Office
-36,Brooklyn Counseling Services,40.617982,-74.029917,"9201 4th Ave, Brooklyn, NY 11209",Brooklyn,Bayridge,Doctor's Office
+36,Allan Hausknecht MD,40.618034,-74.029962,"9201 4th Ave, Brooklyn, NY 11209",Brooklyn,Bayridge,Doctor's Office
 36,Dr Dave Flynn,40.620983,-74.1098,"960 Bard Ave, Staten Island, NY 10301",Staten Island,Silver Lake,Doctor's Office
 36,The Spine & Pain Institute Of New York,40.613255,-74.114486,"1534 Victory Blvd, Staten Island, NY 10314",Staten Island,Castleton Corners,Doctor's Office
 36,SIUH Pre-Op Holding,40.58449,-74.085901,"475 Seaview Ave, Staten Island, NY 10305",Staten Island,Midland Beach,Doctor's Office
@@ -9962,7 +9962,7 @@
 36,Sola Dental Spa,40.546217,-74.165734,"3777 Richmond Ave, Staten Island, NY 10312",Staten Island,Annadale,Doctor's Office
 36,Loving Care Agency,40.508951,-74.267771,"313 State St, Perth Amboy, NJ 08861",Perth Amboy,Downtown,Doctor's Office
 36,"Richmond Physical Therapy, PC",40.556249,-74.168484,"3377 Richmond Ave, Staten Island, NY 10312",Staten Island,Greenridge,Doctor's Office
-36,North Shore Staten Island University Hospital,40.526933,-74.167876,"4855 Hylan Blvd, Staten Island, NY 10312",Staten Island,Huguenot,Doctor's Office
+36,Women's Health Care Specialist,40.526933,-74.167876,"4855 Hylan Blvd, Staten Island, NY 10312",Staten Island,Huguenot,Doctor's Office
 36,Nick Gerald Faraci,40.526425,-74.17242,"4982 Hylan Blvd, Staten Island, NY 10312",Staten Island,Huguenot,Doctor's Office
 36,Lymphedema Management Associates of Staten Island,40.574525,-74.116977,"97 New Dorp Ln, Staten Island, NY 10306",Staten Island,New Dorp,Doctor's Office
 36,The Healthy Body,40.583442,-74.157161,"271 Kelly Blvd, Staten Island, NY 10314",Staten Island,New Springville,Doctor's Office
@@ -10070,7 +10070,7 @@
 37,Prospect Park Animal Clinic,40.666686,-73.975408,"105 Prospect Park W (5th Street), Brooklyn, NY 11215",Brooklyn,Park Slope,Internal Medicine Doctor
 37,NewYork-Presbyterian Alexandra Cohen Hospital for Women and Newborns,40.764104,-73.95605,"1283 York Ave, New York, NY 10065",New York,Lenox Hill,Internal Medicine Doctor
 37,Care RX Pharmacy,40.610153,-73.999074,"8011 18th Ave, Brooklyn, NY 11214",Brooklyn,New Utrecht,Internal Medicine Doctor
-37,Doueck Dental & Sleep Medicine,40.604893,-73.968604,"563 Kings Hwy, Brooklyn, NY 11223",Brooklyn,Gravesend,Internal Medicine Doctor
+37,Health Works,40.604147,-73.974279,"10 Van Sicklen St, Brooklyn, NY 11223",Brooklyn,Bensonhurst,Internal Medicine Doctor
 37,JAG-ONE Physical Therapy,40.608545,-73.924765,"4013 Avenue U (Coleman), Brooklyn, NY 11234",Brooklyn,Mill Island,Internal Medicine Doctor
 37,Stand-Up Mri of Bensonhurst PC,40.595465,-73.982692,"2671 86th St, Brooklyn, NY 11223",Brooklyn,Bensonhurst,Internal Medicine Doctor
 37,Digestive Diseases Diagnostic & Treatment Center,40.607866,-73.980172,"214 Avenue P, Brooklyn, NY 11204",Brooklyn,Bensonhurst,Internal Medicine Doctor
@@ -10114,7 +10114,7 @@
 37,Mount Sinai Beth Israel,40.73283,-73.981713,"10 Nathan D Perlman Pl (btwn E 15th & E 16th St), New York, NY 10003",New York,East Village,Internal Medicine Doctor
 37,CityMD Boerum Hill Urgent Care - Brooklyn,40.686162,-73.982184,"457 Atlantic Ave (Nevins Street), New York, NY 11217",New York,Boerum Hill,Internal Medicine Doctor
 37,NYU Medical Center Emergency Medicine,40.742141,-73.974243,"570 1st Ave (East 34 Street), New York, NY 10016",New York,East Side,Internal Medicine Doctor
-37,Tribeca Pediatrics,40.640529,-73.965542,"1322 Cortelyou Rd (Rugby Road), Brooklyn, NY 11226",Brooklyn,Beverly Square West,Internal Medicine Doctor
+37,Maimonides Pediatric Primary Care Center,40.630431,-73.996258,"1301 57th St (13th Ave), Brooklyn, NY 11219",Brooklyn,Borough Park,Internal Medicine Doctor
 37,Kids Dental Care,40.642426,-74.012811,"5417 5th Ave, New York, NY 10118",New York,Bayridge,Internal Medicine Doctor
 37,SPEAR Physical Therapy,40.741035,-74.001144,"269 W 16th St (8th ave), New York, NY 10011",New York,Chelsea,Internal Medicine Doctor
 37,"Suresh Vakharia MDS, DDS, FAGD - Broadway Smiles",40.824145,-73.95163,"3474 Broadway, New York, NY 10031",New York,Hamilton Grange,Internal Medicine Doctor
@@ -10189,7 +10189,7 @@
 37,NewYork-Presbyterian Medical Group Queens Pediatric Care,40.743932,-73.777374,"19815 Horace Harding Expy (Francis Lewis Boulevard), Fresh Meadows, NY 11365",Fresh Meadows,Fresh Meadows,Internal Medicine Doctor
 37,Lawrence Park Orthodontics,40.609801,-73.744685,"833 Central Ave, Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Internal Medicine Doctor
 37,Animal Clinic,40.605672,-73.754731,"1316 Beach Channel Dr, Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Internal Medicine Doctor
-37,Horowitz Ernest,40.582304,-73.837173,"11412 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Internal Medicine Doctor
+37,"Hess Michal DVM - Hess, Michal DVM",40.582304,-73.837173,"11410 Beach Channel Dr, New York, NY 11694",New York,Boardwalk,Internal Medicine Doctor
 37,Animal Hospital of the Rockaways,40.582304,-73.837173,"11410 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Internal Medicine Doctor
 37,"Bayside Physical Therapy, Chiropractic & Acupuncture",40.771244,-73.774697,"21315 33rd Rd, Bayside, NY 11361",Bayside,Bayside,Internal Medicine Doctor
 37,Northern Obstetrics & Gyn PC,40.764489,-73.690424,"3111 New Hyde Park Rd, New Hyde Park, NY 11042",New Hyde Park,Glen Oaks,Internal Medicine Doctor
@@ -10200,7 +10200,7 @@
 37,Mt. Sinai Emergency Room,40.790329,-73.952253,"1468 Madison Ave (at E. 101st St.), New York, NY 10029",New York,Carnegie Hill,Internal Medicine Doctor
 37,Amarjit Singh,40.693198,-73.827821,"9426 Lefferts Blvd, South Richmond Hill, NY 11419",South Richmond Hill,Richmond Hill,Internal Medicine Doctor
 37,City Central Dermatology,40.745864,-73.890975,"4037 74th St (74th Street), Elmhurst, NY 11373",Elmhurst,Elmhurst,Internal Medicine Doctor
-37,Allan B Simon DVM,40.582304,-73.837173,"11410 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Internal Medicine Doctor
+37,NY Empire Medical PC,40.582304,-73.837173,"11412 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Internal Medicine Doctor
 37,Ocean Promenade Nursing Center,40.579114,-73.833534,"140 Beach 113th St, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Internal Medicine Doctor
 37,Tate Medical Center,40.604916,-73.752659,"1624 Central Ave (Central Avenue), Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Internal Medicine Doctor
 37,Clinic Nueva Esperanza,40.746369,-73.890252,"7501 Broadway, Elmhurst, NY 11373",Elmhurst,Elmhurst,Internal Medicine Doctor
@@ -10236,7 +10236,7 @@
 37,Schwartz Charles,40.547259,-74.166619,"3710 Richmond Ave, Staten Island, NY 10312",Staten Island,Annadale,Internal Medicine Doctor
 37,"Tiu, Cherry P",40.509003,-74.267817,"313 State St, Perth Amboy, NJ 08861",Perth Amboy,Downtown,Internal Medicine Doctor
 37,"Berk and Klein, DDS",40.556247,-74.168571,"3377 Richmond Ave, Staten Island, NY 10312",Staten Island,Greenridge,Internal Medicine Doctor
-37,Women's Health Care Specialist,40.526933,-74.167876,"4855 Hylan Blvd, Staten Island, NY 10312",Staten Island,Huguenot,Internal Medicine Doctor
+37,Michael A. Schirripa,40.526933,-74.167876,"4855 Hylan Blvd, Staten Island, NY 10312",Staten Island,Huguenot,Internal Medicine Doctor
 37,Clearview Vision Assco,40.584977,-74.1675,"2555 Richmond Ave, Staten Island, NY 10314",Staten Island,New Springville,Internal Medicine Doctor
 37,Person Centered Care Service,40.613205,-74.123893,"1811 Victory Blvd, Staten Island, NY 10314",Staten Island,Castleton Corners,Internal Medicine Doctor
 37,Holistic Mental Health,40.610174,-74.145238,"2460 Victory Blvd, Staten Island, NY 10314",Staten Island,Meiers Corners,Internal Medicine Doctor
@@ -10332,7 +10332,7 @@
 38,Woodlawn Medical Associates PC,40.877442,-73.88484,"3224 Grand Concourse, Bronx, NY 10458",Bronx,Norwood,Hospital
 38,Weiss & Chassen DDS,40.856603,-73.86135,"918 Pelham Pkwy S, Bronx, NY 10462",Bronx,Pelham Parkway,Hospital
 38,Physicians Medical Rehabilitation Associates,40.852191,-73.829195,"3225 Westchester Ave, Bronx, NY 10461",Bronx,Hillside,Hospital
-38,American Access Care of the Bronx,40.852858,-73.836922,"1200 Waters Pl, Bronx, NY 10461",Bronx,Westchester,Hospital
+38,University Diagnostic Medical Imaging Pc,40.844259,-73.839413,"1200 Waters Pl, Bronx, NY 10461",Bronx,Westchester,Hospital
 38,Medina Emma MD,40.851057,-73.850206,"1165 Morris Park Ave, Bronx, NY 10461",Bronx,Pelham Parkway,Hospital
 38,Bay Park Nursing Rehab,40.879583,-73.829172,"801 Co Op City Blvd, Bronx, NY 10475",Bronx,Coop City,Hospital
 38,Metro UrgiCare,40.834753,-73.858276,"1990 McGraw Ave, Bronx, NY 10462",Bronx,Parkchester,Hospital
@@ -10461,7 +10461,7 @@
 38,Bregman Eric DVM - Cat Hospital,40.592372,-73.73974,"194 Daytona St, Atlantic Beach, NY 11509",Atlantic Beach,Far Rockaway,Hospital
 38,Ocean Promenade Rehab & Nursing,40.578908,-73.833178,"140 Beach 113th St, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Hospital
 38,Animal Hospital of the Rockaways,40.582304,-73.837173,"11410 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Hospital
-38,"Hess Michal DVM - Hess, Michal DVM",40.582304,-73.837173,"11410 Beach Channel Dr, New York, NY 11694",New York,Boardwalk,Hospital
+38,Horowitz Ernest,40.582304,-73.837173,"11412 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Hospital
 38,Cho Orthodontics,40.773449,-73.774992,"3206 Bell Blvd, Bayside, NY 11361",Bayside,Bayside,Hospital
 38,Brightpoint Health,40.695377,-73.803778,"10504 Sutphin Blvd (105th Ave), Queens, NY 11435",Queens,Jamaica,Hospital
 38,Dr Amin Office,40.728694,-73.744109,"8902 Springfield Blvd, Queens Village, NY 11427",Queens Village,Bellaire,Hospital
@@ -10470,7 +10470,7 @@
 38,The Mount Sinai Hospital,40.790388,-73.952037,"1468 Madison Ave (at E 101st St), New York, NY 10029",New York,Carnegie Hill,Hospital
 38,At Home Solutions,40.696847,-73.836851,"11102 Jamaica Ave, Richmond Hill, NY 11418",Richmond Hill,Richmond Hill,Hospital
 38,Interstate Vets,40.727824,-73.891876,"7108 Grand Ave, Maspeth, NY 11378",Maspeth,Maspeth,Hospital
-38,NY Empire Medical PC,40.582304,-73.837173,"11412 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Hospital
+38,Whittred Susan,40.582304,-73.837173,"11410 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Hospital
 38,Bishop Charles Waldo MacLean Nursing Home,40.598702,-73.751402,"1711 Brookhaven Ave, Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Hospital
 38,"Shiuann-Rong Chen, DDS",40.759696,-73.823609,"4107 Bowne St, Flushing, NY 11355",Flushing,Down Town Flushing,Hospital
 38,Great Dental Centers,40.686448,-73.824047,"11901 Liberty Ave, South Richmond Hill, NY 11419",South Richmond Hill,South Richmond Hill,Hospital
@@ -10552,7 +10552,7 @@
 38,Elmhurst Hospital Center,40.745082,-73.885837,"7901 Broadway (at 78th St.), Elmhurst, NY 11373",Elmhurst,Elmhurst,Hospital
 38,Perfect Body Center,40.756835,-73.829971,"13336 41st Rd, Flushing, NY 11355",Flushing,Queensboro Hills,Hospital
 38,Kingsbrook Jewish Medical Center,40.659536,-73.933889,"585 Schenectady Ave (btw Winthrop St & Rutland Rd), Brooklyn, NY 11203",Brooklyn,Wingate,Hospital
-38,"Lew, Mark Dr - Mark B Lew, Md Pediatric Center",40.633552,-73.950502,"2704 Glenwood Rd, Brooklyn, NY 11210",Brooklyn,Flatbush,Hospital
+38,Digestive Diseases Diagnostic & Treatment Center,40.607866,-73.980172,"214 Avenue P, Brooklyn, NY 11204",Brooklyn,Bensonhurst,Hospital
 38,Bronx Medical & Dental Plaza,40.84648,-73.885049,"817 E 180th St, Bronx, NY 10460",Bronx,East Tremont,Hospital
 38,Pediatrics Associates,40.67602,-73.970374,"20 Plaza St E (Vanderbilt), Brooklyn, NY 11238",Brooklyn,Park Slope,Hospital
 38,209 NYC Dental,40.759376,-73.967087,"209 E 56th St (3rd Avenue), New York, NY 10022",New York,East Side,Hospital
@@ -10578,7 +10578,7 @@
 39,New York Cancer & Blood Specialists,40.860106,-73.84283,"2330 Eastchester Rd, Bronx, NY 10469",Bronx,Hillside,Health and Medicine
 39,CityMD Mott Haven Urgent Care - Bronx,40.806869,-73.916901,"571 E 138th St, Bronx, NY 10454",Bronx,Mill Brook Houses,Health and Medicine
 39,Fort Tryon Center for Rehabilitation and Nursing,40.857009,-73.93451,"801 W 190th St, New York, NY 10040",New York,Fort George,Health and Medicine
-39,Morgan Stanley Children's Hospital,40.839697,-73.941596,"3959 Broadway (at W 165th St), New York, NY 10032",New York,Uptown,Health and Medicine
+39,Russ Berrie Medical Science Pavilion,40.840405,-73.939347,"1150 Saint Nicholas Ave (at W 168th St), New York, NY 10032",New York,Uptown,Health and Medicine
 39,Joan H. Tisch Center For Women's Health,40.777478,-73.954424,"207 E 84th St (3rd Avenue), New York, NY 10028",New York,Upper East Side,Health and Medicine
 39,Morris Heights Health Center,40.85473,-73.910348,"85 W Burnside Ave, Bronx, NY 10453",Bronx,Morris Heights,Health and Medicine
 39,Galaxy Medical PC,40.809036,-73.937011,"68 E 131st St (Bet Park Ave And Madison avenue), New York, NY 10037",New York,Central Harlem,Health and Medicine
@@ -10592,10 +10592,10 @@
 39,Kaseman Family Chiropractic,40.831207,-73.826387,"3505 E Tremont Ave, Bronx, NY 10465",Bronx,Schuvilerville,Health and Medicine
 39,Triboro Center,40.831685,-73.911669,"1160 Teller Ave, Bronx, NY 10456",Bronx,East Concourse,Health and Medicine
 39,The Hebrew Home For The Aged At Riverdale,40.909988,-73.909274,"5901 Palisade Ave (at Ny Orphan Aym Rd), Bronx, NY 10471",Bronx,Fildston,Health and Medicine
-39,Tucci Paul MD PC,40.917241,-73.859143,"955 Yonkers Ave, Yonkers, NY 10704",Yonkers,Southeast Yonkers,Health and Medicine
+39,Rao Prakashchandra M,40.917241,-73.859143,"955 Yonkers Ave, Yonkers, NY 10704",Yonkers,Southeast Yonkers,Health and Medicine
 39,Rain-Personnel,40.846265,-73.862153,"811 Morris Park Ave, Bronx, NY 10462",Bronx,Van Nest,Health and Medicine
 39,Fresenius Medical Care,40.849363,-73.842573,"1776 Eastchester Rd, Bronx, NY 10461",Bronx,Westchester,Health and Medicine
-39,University Diagnostic Medical Imaging Pc,40.844259,-73.839413,"1200 Waters Pl, Bronx, NY 10461",Bronx,Westchester,Health and Medicine
+39,American Access Care of the Bronx,40.852858,-73.836922,"1200 Waters Pl, Bronx, NY 10461",Bronx,Westchester,Health and Medicine
 39,Catholic Charities of The Archdiocese of New York,40.841682,-73.878482,"2064 Boston Rd, Bronx, NY 10460",Bronx,East Tremont,Health and Medicine
 39,University Diagnostic Medical Imaging Pc,40.844259,-73.839413,"1200 Waters Pl, Bronx, NY 10461",Bronx,Westchester,Health and Medicine
 39,Providence Rest,40.837426,-73.817334,"3304 Waterbury Ave, Bronx, NY 10465",Bronx,Schuvilerville,Health and Medicine
@@ -10694,7 +10694,7 @@
 39,Queens Medical Imaging,40.721777,-73.84866,"6915 Austin St (Btw 69th Rd and Yellowstone Blvd), Forest Hills, NY 11375",Forest Hills,Forest Hills,Health and Medicine
 39,Ozanam Hall of Queens Nursing Home,40.758751,-73.7823,"4241 201st St, Bayside, NY 11361",Bayside,Bayside,Health and Medicine
 39,Spear Physical Therapy Brooklyn Williamsburg,40.719908,-73.960841,"71 N 7th St (btwn Wythe & Kent Avs), Brooklyn, NY 11249",Brooklyn,North Side,Health and Medicine
-39,Schweiger Dermatology - Second Avenue,40.763435,-73.962883,"245 E 63rd St, New York, NY 10065",New York,Lenox Hill,Health and Medicine
+39,209 NYC Dental,40.759376,-73.967087,"209 E 56th St (3rd Avenue), New York, NY 10022",New York,East Side,Health and Medicine
 39,BJ's Optical,40.783467,-73.830927,"13705 20th Ave, College Point, NY 11356",College Point,College Point,Health and Medicine
 39,"Rita Ellent, Od - The Gardens Eye Care",40.71896,-73.844979,"12 Station Sq, Forest Hills, NY 11375",Forest Hills,Forest Hills,Health and Medicine
 39,Elmhurst Hospital Center Clinics,40.745974,-73.884735,"7901 Broadway, Elmhurst, NY 11373",Elmhurst,Elmhurst,Health and Medicine
@@ -10719,7 +10719,7 @@
 39,NYC Health + Hospitals/Gotham Health,40.704088,-73.800421,"9037 Parsons Blvd (Jamaica Ave), Jamaica, NY 11432",Jamaica,Jamaica,Health and Medicine
 39,Healthy Latino Community,40.712686,-73.79732,"8506 167th St, Jamaica, NY 11432",Jamaica,Jamaica Hills,Health and Medicine
 39,Steps To Success Occupatiinal Therapy,40.725896,-73.717828,"24902 Jericho Tpke, Floral Park, NY 11001",Floral Park,Bellaire,Health and Medicine
-39,Brecher Rubin,40.618821,-73.728532,"360 Central Ave, Lawrence, NY 11559",Lawrence,Far Rockaway,Health and Medicine
+39,Ganz Rebecca Twerski MS,40.618821,-73.728532,"360 Central Ave, Lawrence, NY 11559",Lawrence,Far Rockaway,Health and Medicine
 39,Americare Certified Special Services,40.577471,-73.845005,"209 Beach 125th St, Rockaway Park, NY 11694",Rockaway Park,Rockaway Beach,Health and Medicine
 39,Ocean Radiology,40.576587,-73.967942,"3049 Ocean Pkwy, Brooklyn, NY 11235",Brooklyn,Brighton Beach,Health and Medicine
 39,ProHEALTH Pediatrics-Park Avenue,40.782424,-73.955139,"1111 Park Ave, New York, NY 10128",New York,Carnegie Hill,Health and Medicine
@@ -10727,7 +10727,7 @@
 39,Mancuso James G DVM - Animal Hospital of the Five Towns,40.618179,-73.754201,"249 Elm Rd, Inwood, NY 11096",Inwood,Bayswater,Health and Medicine
 39,West Lawrence Care Center,40.595595,-73.748641,"1410 Seagirt Blvd, Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Health and Medicine
 39,Island Pediatric Associates,40.582246,-73.837301,"11412 Beach Channel Dr, Far Rockaway, NY 11694",Far Rockaway,Boardwalk,Health and Medicine
-39,Allan B Simon DVM,40.582304,-73.837173,"11410 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Health and Medicine
+39,NY Empire Medical PC,40.582304,-73.837173,"11412 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Health and Medicine
 39,Cross Island Chiropractic Center,40.794101,-73.818239,"708 149th St, Queens, NY 11357",Queens,Beechhurst,Health and Medicine
 39,Community Healthcare Network Queens Health Center,40.696994,-73.805885,"9704 Sutphin Blvd, Jamaica, NY 11435",Jamaica,Jamaica,Health and Medicine
 39,Apple Dental,40.718179,-73.833429,"11316 76th Rd (76th Road,), Forest Hills, NY 11375",Forest Hills,Forest Hills,Health and Medicine
@@ -10736,7 +10736,7 @@
 39,NYU Langone Neurology Consultants of NY,40.749267,-73.974084,"222 E 41st St, New York, NY 10017",New York,East Side,Health and Medicine
 39,"NY Vision Group - Dr. Harry R. Koster, MD",40.694495,-73.827693,"11915 Atlantic Ave, Richmond Hill, NY 11418",Richmond Hill,Richmond Hill,Health and Medicine
 39,Atria Forest Hills,40.722028,-73.836841,"11250 72nd Ave, Forest Hills, NY 11375",Forest Hills,Forest Hills,Health and Medicine
-39,Whittred Susan,40.582304,-73.837173,"11410 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Health and Medicine
+39,Allan B Simon DVM,40.582304,-73.837173,"11410 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Health and Medicine
 39,Ocean Promenade Rehab & Nursing,40.578908,-73.833178,"140 Beach 113th St, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Health and Medicine
 39,Horowitz Ernest,40.582304,-73.837173,"11412 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Health and Medicine
 39,"Dr Imparato, DDS",40.753016,-73.698475,"1300 Union Tpke (lakevill rd), New Hyde Park, NY 11040",New Hyde Park,Glen Oaks,Health and Medicine
@@ -10821,7 +10821,7 @@
 39,Perth Amboy Spine & Joint Care,40.507925,-74.266073,"75 Smith St, Perth Amboy, NJ 08861",Perth Amboy,Harbor Terrace,Health and Medicine
 39,Metro Optics Eyewear - Throggs Neck,40.823466,-73.83735,"815 Hutchinson River Pkwy, Bronx, NY 10465",Bronx,Castle Hill,Health and Medicine
 39,Dr Yu - Pediatricians,40.72225,-73.88438,"Lutheran Ave, Middle Village, NY 11379",Middle Village,Maspeth,Health and Medicine
-39,Digestive Diseases Diagnostic & Treatment Center,40.607866,-73.980172,"214 Avenue P, Brooklyn, NY 11204",Brooklyn,Bensonhurst,Health and Medicine
+39,"Lew, Mark Dr - Mark B Lew, Md Pediatric Center",40.633552,-73.950502,"2704 Glenwood Rd, Brooklyn, NY 11210",Brooklyn,Flatbush,Health and Medicine
 39,Island Rehabilitative Dialysis,40.848626,-73.900053,"Bronx, NY 10457",Bronx,Tremont,Health and Medicine
 39,Bronx Medical & Dental Plaza,40.84648,-73.885049,"817 E 180th St, Bronx, NY 10460",Bronx,East Tremont,Health and Medicine
 39,Bronx Rhio,40.85949,-73.868766,"2275 Olinville Ave, Bronx, NY 10467",Bronx,Bronxdale,Health and Medicine
@@ -10849,7 +10849,7 @@
 40,Planned Parenthood - The Bronx Center,40.81673,-73.919723,"349 E 149th St (at Courtland), Bronx, NY 10451",Bronx,Melrose,Chiropractor
 40,University Diagnostic Medical Imaging Pc,40.844259,-73.839413,"1200 Waters Pl, Bronx, NY 10461",Bronx,Westchester,Chiropractor
 40,Cardiac Cath Lab,40.805363,-73.961359,"1111 Amsterdam Ave, New York, NY 10025",New York,Harlem,Chiropractor
-40,Russ Berrie Medical Science Pavilion,40.840405,-73.939347,"1150 Saint Nicholas Ave (at W 168th St), New York, NY 10032",New York,Uptown,Chiropractor
+40,Morgan Stanley Children's Hospital,40.839697,-73.941596,"3959 Broadway (at W 165th St), New York, NY 10032",New York,Uptown,Chiropractor
 40,ProFitness Physical Therapy - Upper East Side,40.777886,-73.955314,"171 E 84th St (btwn Lexington & Third), New York, NY 10028",New York,Upper East Side,Chiropractor
 40,Russ Berrie Medical Science Pavilion,40.840405,-73.939347,"1150 Saint Nicholas Ave (at W 168th St), New York, NY 10032",New York,Uptown,Chiropractor
 40,Island Rehabilitative Dialysis,40.848626,-73.900053,"Bronx, NY 10457",Bronx,Tremont,Chiropractor
@@ -10864,7 +10864,7 @@
 40,Metro Optics Eyewear - Throggs Neck,40.823466,-73.83735,"815 Hutchinson River Pkwy, Bronx, NY 10465",Bronx,Castle Hill,Chiropractor
 40,NYC Health + Hospitals/Jacobi,40.855915,-73.84618,"1400 Pelham Pkwy S (at Eastchester Rd), Bronx, NY 10461",Bronx,Pelham Parkway,Chiropractor
 40,NYC Ems 19C CSL,40.850222,-73.915387,"W Tremont Ave, Bronx, NY 10453",Bronx,Morris Heights,Chiropractor
-40,Rao Prakashchandra M,40.917241,-73.859143,"955 Yonkers Ave, Yonkers, NY 10704",Yonkers,Southeast Yonkers,Chiropractor
+40,Tucci Paul MD PC,40.917241,-73.859143,"955 Yonkers Ave, Yonkers, NY 10704",Yonkers,Southeast Yonkers,Chiropractor
 40,Bronx Medical Care Assoc PC,40.832337,-73.851451,"1217 Castle Hill Ave, Bronx, NY 10462",Bronx,Parkchester,Chiropractor
 40,Montefiore Medical Center Jack D. Weiler Hospital Emergency Department,40.849057,-73.846063,"Albert Einstein Hospital (1825 Eastchester Rd), Bronx, NY 10461",Bronx,Westchester,Chiropractor
 40,Ent,40.852569,-73.837656,"1200 Waters Pl, Bronx, NY 10461",Bronx,Westchester,Chiropractor
@@ -10963,7 +10963,7 @@
 40,Professional Transportation,40.685323,-73.863432,"7616 Rockaway Blvd, Woodhaven, NY 11421",Woodhaven,Cypress Hill,Chiropractor
 40,New York Hospital Medical,40.757285,-73.782642,"20012 44th Ave, Bayside, NY 11361",Bayside,Auburndale,Chiropractor
 40,Metropolitan Hospital Center,40.784861,-73.944743,"1901 1st Ave (btwn E 97th & E 99th St), New York, NY 10029",New York,Carnegie Hills,Chiropractor
-40,209 NYC Dental,40.759376,-73.967087,"209 E 56th St (3rd Avenue), New York, NY 10022",New York,East Side,Chiropractor
+40,Schweiger Dermatology - Second Avenue,40.763435,-73.962883,"245 E 63rd St, New York, NY 10065",New York,Lenox Hill,Chiropractor
 40,Prestige Dental Care,40.753597,-73.823697,"4370 Kissena Blvd, Flushing, NY 11355",Flushing,Flushing,Chiropractor
 40,Tribeca Pediatrics,40.722633,-73.949388,"288 Driggs Ave (Leonard St), Brooklyn, NY 11222",Brooklyn,Greenpoint,Chiropractor
 40,Interfaith Medical Center,40.678147,-73.937345,"1545 Atlantic Ave (Troy Ave), Brooklyn, NY 11213",Brooklyn,Bedford,Chiropractor
@@ -10991,15 +10991,15 @@
 40,"Predanic Mladen, MD",40.701309,-73.816336,"8900 Van Wyck Expy, Richmond Hill, NY 11418",Richmond Hill,Briarwood,Chiropractor
 40,Rosedale Dental,40.657236,-73.745471,"23520 147th Ave, Rosedale, NY 11422",Rosedale,Brookville,Chiropractor
 40,Brookhaven Beach Health Relate,40.632836,-73.708489,"121 Franklin Pl, Woodmere, NY 11598",Woodmere,Old Woodmere,Chiropractor
-40,Ganz Rebecca Twerski MS,40.618821,-73.728532,"360 Central Ave, Lawrence, NY 11559",Lawrence,Far Rockaway,Chiropractor
+40,Brecher Rubin,40.618821,-73.728532,"360 Central Ave, Lawrence, NY 11559",Lawrence,Far Rockaway,Chiropractor
 40,Reliance Chiropractic PC,40.578568,-73.966365,"3001 Brighton 1st St, Brooklyn, NY 11235",Brooklyn,Brighton Beach,Chiropractor
-40,Mt. Sinai Emergency Room,40.790329,-73.952253,"1468 Madison Ave (at E. 101st St.), New York, NY 10029",New York,Carnegie Hill,Chiropractor
+40,New York Medical Imaging Associates,40.778035,-73.955801,"165 E 84th St (btwn 3rd & Lexington Ave), New York, NY 10028",New York,Upper East Side,Chiropractor
 40,CityMD Auburndale Urgent Care - Queens,40.757579,-73.790209,"191-20 Northern Blvd, New York, NY 11358",New York,Bayside,Chiropractor
 40,Community Pain Medicine,40.769032,-73.827744,"14021 32nd Ave, Flushing, NY 11354",Flushing,Down Town Flushing,Chiropractor
 40,Universal Physical Therapy,40.587647,-73.811558,"8624 Rockaway Beach Blvd, Rockaway Beach, NY 11693",Rockaway Beach,Hammels,Chiropractor
 40,Tate Medical Center,40.604916,-73.752659,"1624 Central Ave (Central Avenue), Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Chiropractor
 40,Bayview Urgent Care,40.58213,-73.837645,"11506 Beach Channel Dr, Queens, NY 11694",Queens,Boardwalk,Chiropractor
-40,NY Empire Medical PC,40.582304,-73.837173,"11412 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Chiropractor
+40,Whittred Susan,40.582304,-73.837173,"11410 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Chiropractor
 40,Fried Philip MD,40.741437,-73.786456,"5847 188th St, Fresh Meadows, NY 11365",Fresh Meadows,Fresh Meadows,Chiropractor
 40,New York Hospital Medical,40.757285,-73.782642,"20012 44th Ave, Bayside, NY 11361",Bayside,Auburndale,Chiropractor
 40,Sunrise Medical Labs,40.717414,-73.740191,"21517 Jamaica Ave, Queens Village, NY 11428",Queens Village,Cambria Heights,Chiropractor
@@ -11008,7 +11008,7 @@
 40,Tend,40.754545,-73.97643,"230 Park Ave, New York, NY 10169",New York,East Side,Chiropractor
 40,NY Lasergroup,40.694389,-73.827602,"11915 Atlantic Ave, Richmond Hill, NY 11418",Richmond Hill,Richmond Hill,Chiropractor
 40,Advantagecare Physicians,40.710904,-73.856207,"9610 Metropolitan Ave, Forest Hills, NY 11375",Forest Hills,Parkside,Chiropractor
-40,Horowitz Ernest,40.582304,-73.837173,"11412 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Chiropractor
+40,"Hess Michal DVM - Hess, Michal DVM",40.582304,-73.837173,"11410 Beach Channel Dr, New York, NY 11694",New York,Boardwalk,Chiropractor
 40,Brookhaven Beach Nursing Home,40.596331,-73.751495,"250 Beach 17th St, Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Chiropractor
 40,Monter Cancer Center,40.757031,-73.701926,"450 Lakeville Rd (Marcus Ave), New Hyde Park, NY 11042",New Hyde Park,Glen Oaks,Chiropractor
 40,Peds 4 Kids,40.727328,-73.863353,"6395 Austin St, Rego Park, NY 11374",Rego Park,Forest Hills,Chiropractor
@@ -11136,7 +11136,7 @@
 41,"Rossi, Victoria Dr - Washington Heights Imaging",40.852202,-73.934458,"4334 Broadway, New York, NY 10033",New York,Fort George,Health and Medicine
 41,NewYork-Presbyterian Allen Hospital,40.873242,-73.913147,"5141 Broadway (220th St), New York, NY 10034",New York,Inwood,Health and Medicine
 41,Multi Specialty Pain Management,40.826726,-73.821852,"3713 E Tremont Ave, Bronx, NY 10465",Bronx,Schuvilerville,Health and Medicine
-41,American Access Care of the Bronx,40.852858,-73.836922,"1200 Waters Pl, Bronx, NY 10461",Bronx,Westchester,Health and Medicine
+41,University Diagnostic Medical Imaging Pc,40.844259,-73.839413,"1200 Waters Pl, Bronx, NY 10461",Bronx,Westchester,Health and Medicine
 41,Metro UrgiCare,40.834753,-73.858276,"1990 McGraw Ave, Bronx, NY 10462",Bronx,Parkchester,Health and Medicine
 41,Pelham Parkway Dialysis Center,40.855577,-73.846693,"1400 Pelham Pkwy S, Bronx, NY 10461",Bronx,Pelham Parkway,Health and Medicine
 41,Your Bronx Dentist,40.87802,-73.879256,"3310 Bainbridge Ave, Bronx, NY 10467",Bronx,Norwood,Health and Medicine
@@ -11259,13 +11259,13 @@
 41,GBB Wellness,40.67085,-73.774096,"13742 Guy R Brewer Blvd (140th Ave), Jamaica, NY 11434",Jamaica,Locust Manor,Health and Medicine
 41,Jt Healthcare,40.620264,-73.728973,"395 Pearsall Ave, Cedarhurst, NY 11516",Cedarhurst,Far Rockaway,Health and Medicine
 41,Barton Orthodontics,40.577741,-73.967631,"3003 Ocean Pkwy, Brooklyn, NY 11235",Brooklyn,Brighton Beach,Health and Medicine
-41,New York Medical Imaging Associates,40.778035,-73.955801,"165 E 84th St (btwn 3rd & Lexington Ave), New York, NY 10028",New York,Upper East Side,Health and Medicine
+41,Mt. Sinai Emergency Room,40.790329,-73.952253,"1468 Madison Ave (at E. 101st St.), New York, NY 10029",New York,Carnegie Hill,Health and Medicine
 41,NBT Physical Therapy,40.761198,-73.830259,"13617 38th Ave, Flushing, NY 11354",Flushing,Down Town Flushing,Health and Medicine
 41,BJ's Optical,40.783467,-73.830927,"13705 20th Ave, College Point, NY 11356",College Point,College Point,Health and Medicine
 41,Jason M Lacher DPM,40.584999,-73.811943,"8800 Shore Front Pkwy, Rockaway Beach, NY 11693",Rockaway Beach,Hammels,Health and Medicine
 41,Harbor Optics,40.582692,-73.836246,"11310 Beach Channel Dr (btwn B 116th St & Rockaway Fwy), Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Health and Medicine
 41,"Sanjay Kirtane, MD",40.58216,-73.837416,"11412 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Health and Medicine
-41,Whittred Susan,40.582304,-73.837173,"11410 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Health and Medicine
+41,Allan B Simon DVM,40.582304,-73.837173,"11410 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Health and Medicine
 41,Cazazian Abram DDS PC,40.76232,-73.772155,"4203 212th St, Bayside, NY 11361",Bayside,Bayside,Health and Medicine
 41,Ozanam Hall of Queens Nursing Home,40.758751,-73.7823,"4241 201st St, Bayside, NY 11361",Bayside,Bayside,Health and Medicine
 41,Neighborhood Radiology Services,40.717305,-73.835973,"11302 Queens Blvd (76th Ave), Forest Hills, NY 11375",Forest Hills,Forest Hills,Health and Medicine
@@ -11405,7 +11405,7 @@
 42,Medalliance Medical Health Services,40.858341,-73.883869,"625 E Fordham Rd (Arthur Ave), Bronx, NY 10458",Bronx,Belmont,Psychiatrist
 42,Our Lady of Mercy Dnt Clinic,40.895479,-73.860363,"4234 Bronx Blvd, Bronx, NY 10466",Bronx,Williamsbridge,Psychiatrist
 42,Metro UrgiCare,40.834753,-73.858276,"1990 McGraw Ave, Bronx, NY 10462",Bronx,Parkchester,Psychiatrist
-42,University Diagnostic Medical Imaging Pc,40.844259,-73.839413,"1200 Waters Pl, Bronx, NY 10461",Bronx,Westchester,Psychiatrist
+42,American Access Care of the Bronx,40.852858,-73.836922,"1200 Waters Pl, Bronx, NY 10461",Bronx,Westchester,Psychiatrist
 42,Montefiore Medical Center,40.852702,-73.838755,"1250 Waters Pl, Bronx, NY 10461",Bronx,Westchester,Psychiatrist
 42,ProHEALTH Urgent Care of College Point,40.786623,-73.836241,"1 14TH Ave, College Point, NY 11356",College Point,College Point,Psychiatrist
 42,Montefiore Infusion Center,40.846379,-73.845178,"1695 Eastchester Rd, Bronx, NY 10461",Bronx,Westchester,Psychiatrist
@@ -11542,7 +11542,7 @@
 42,Rock Pharmacy & Surgical,40.587325,-73.813592,"8818 Rockaway Beach Blvd, Rockaway Beach, NY 11693",Rockaway Beach,Hammels,Psychiatrist
 42,Park Nursing Home,40.578481,-73.835121,"128 Beach 115th St, Queens, NY 11694",Queens,Boardwalk,Psychiatrist
 42,Lawrence Weiss,40.5801,-73.83705,"202 Beach 116th St, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Psychiatrist
-42,Horowitz Ernest,40.582304,-73.837173,"11412 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Psychiatrist
+42,"Hess Michal DVM - Hess, Michal DVM",40.582304,-73.837173,"11410 Beach Channel Dr, New York, NY 11694",New York,Boardwalk,Psychiatrist
 42,Bayside Pediatrics PC,40.762034,-73.771932,"4223 212th St, Bayside, NY 11361",Bayside,Bayside,Psychiatrist
 42,"Esposito Stephen, MD",40.758825,-73.783613,"4223 Francis Lewis Blvd, Bayside, NY 11361",Bayside,Bayside,Psychiatrist
 42,Guarnaccia Gary J MD PC,40.71874,-73.836766,"11203 Queens Blvd, Forest Hills, NY 11375",Forest Hills,Forest Hills,Psychiatrist
@@ -11641,7 +11641,7 @@
 42,Mobile Health,40.862049,-73.897009,"2488 Grand Concourse, Bronx, NY 10458",Bronx,Fordham,Psychiatrist
 42,St Judes Medical Center,40.642411,-73.90304,"9413 Flatlands Ave (E. 94th St), Brooklyn, NY 11236",Brooklyn,Canarsie,Psychiatrist
 42,Mount Sinai Beth Israel Hospital Emergency Department,40.733331,-73.982851,"10 Nathan D Perlman Pl (At 1st Ave), New York, NY 10003",New York,East Village,Psychiatrist
-42,Brecher Rubin,40.618821,-73.728532,"360 Central Ave, Lawrence, NY 11559",Lawrence,Far Rockaway,Psychiatrist
+42,Ganz Rebecca Twerski MS,40.618821,-73.728532,"360 Central Ave, Lawrence, NY 11559",Lawrence,Far Rockaway,Psychiatrist
 42,Central Park West Wellness,40.778006,-73.974985,"146 Central Park W (75th St.), New York, NY 10023",New York,Lincoln Square,Psychiatrist
 43,Weiss & Chassen DDS,40.856603,-73.86135,"918 Pelham Pkwy S, Bronx, NY 10462",Bronx,Pelham Parkway,Dentist
 43,Our Lady of Mercy,40.896444,-73.864867,"4217 Vireo Ave, Bronx, NY 10470",Bronx,Lincoln,Dentist
@@ -11716,7 +11716,7 @@
 43,Care RX Pharmacy,40.610153,-73.999074,"8011 18th Ave, Brooklyn, NY 11214",Brooklyn,New Utrecht,Dentist
 43,SmileAlign Orthodontics: Dr. Ted Wohl,40.609146,-73.95466,"1680 E 19th St (Quentin Road), Brooklyn, NY 11229",Brooklyn,Gravesend,Dentist
 43,Rehabilitation Associates of Brooklyn,40.611374,-73.953913,"2072 Ocean Ave, Brooklyn, NY 11230",Brooklyn,Manhattan Terrace,Dentist
-43,Leon Stepensky,40.576134,-73.964792,"3111 Brighton 2nd St, Brooklyn, NY 11235",Brooklyn,Brighton Beach,Dentist
+43,Summit Home Health Care,40.608469,-73.962369,"2000 Coney Island Ave, Brooklyn, NY 11223",Brooklyn,Gravesend,Dentist
 43,PM Pediatrics,40.626691,-73.965224,"1273 Coney Island Ave (Avenue I And Avenue J), Brooklyn, NY 11230",Brooklyn,Fiske Terrace,Dentist
 43,Veterinary Emergency Group,40.721291,-73.960515,"87 Kent St (Kent & N 9th), New York, NY 11222",New York,Greenpoint,Dentist
 43,Doueck Dental & Sleep Medicine,40.604893,-73.968604,"563 Kings Hwy, Brooklyn, NY 11223",Brooklyn,Gravesend,Dentist
@@ -11775,7 +11775,7 @@
 43,Dr Yu - Pediatricians,40.72225,-73.88438,"Lutheran Ave, Middle Village, NY 11379",Middle Village,Maspeth,Dentist
 43,Jin Yiping Newyork Presbyterian Queens Hospital Flushing,40.747137,-73.825257,"5645 Main St (at Booth Memorial Ave.), Flushing, NY 11355",Flushing,Queensboro Hills,Dentist
 43,Braces and Smiles,40.722014,-73.841554,"7106 110th St (71st Ave and 110th St), Forest Hills, NY 11375",Forest Hills,Forest Hills,Dentist
-43,Queens Medical Imaging,40.721777,-73.84866,"6915 Austin St (Btw 69th Rd and Yellowstone Blvd), Forest Hills, NY 11375",Forest Hills,Forest Hills,Dentist
+43,Bedford Stuyvesant Family Health Center,40.680273,-73.944535,"1456 Fulton St (btwn Brooklyn & Kingston), Brooklyn, NY 11216",Brooklyn,Bedford,Dentist
 43,Atria Forest Hills,40.722028,-73.836841,"11250 72nd Ave, Forest Hills, NY 11375",Forest Hills,Forest Hills,Dentist
 43,Elmhurst Hospital Center Clinics,40.745974,-73.884735,"7901 Broadway, Elmhurst, NY 11373",Elmhurst,Elmhurst,Dentist
 43,Novel MD,40.724742,-73.854965,"9830 67th Ave, Rego Park, NY 11374",Rego Park,Forest Hills,Dentist
@@ -11801,7 +11801,7 @@
 43,Park Ave Psychotherapy Group,40.573183,-73.852594,"167 Beach 135th St, Rockaway Park, NY 11694",Rockaway Park,Rockaway Beach,Dentist
 43,Irina Berlin Medical PC,40.575991,-73.970095,"3080 W 1st St, Brooklyn, NY 11224",Brooklyn,Brighton Beach,Dentist
 43,Upper East Smiles,40.77296,-73.955867,"261 E 78th St (2nd Ave), New York, NY 10075",New York,Upper East Side,Dentist
-43,Albert Jen,40.760879,-73.830073,"13620 38th Ave, Flushing, NY 11354",Flushing,Down Town Flushing,Dentist
+43,Montefiore Medical Center,40.760879,-73.830073,"13620 38th Ave, Flushing, NY 11354",Flushing,Down Town Flushing,Dentist
 43,TJH Medical Services PC,40.75506,-73.817111,"14601 45th Ave (Burling St.), Flushing, NY 11355",Flushing,Flushing,Dentist
 43,Empire Medical of Rockaway Beach,40.587323,-73.813679,"8820 Rockaway Beach Blvd (88th street), Rockaway Beach, NY 11693",Queens,Seaside,Dentist
 43,Rockaway Home Attendant Service,40.604991,-73.751835,"1603 Central Ave, Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Dentist
@@ -11839,7 +11839,7 @@
 43,I'll Be Seeing You,40.552257,-74.191196,"262 Arden Ave (at Nedra Ln), Staten Island, NY 10312",Staten Island,Aspen Knolls,Dentist
 43,Sleep Apnea Center,40.516686,-74.196605,"375 Seguine Ave, Staten Island, NY 10309",Staten Island,Prince's Bay,Dentist
 43,"Ruggeri, Mark L, DDS",40.523587,-74.238603,"4864 Arthur Kill Rd, Staten Island, NY 10309",Staten Island,Richmond Valley,Dentist
-43,Fresenius Kidney Care Perth Amboy,40.518738,-74.28069,"530 New Brunswick Ave, Perth Amboy, NJ 08861",Perth Amboy,Harbor Terrace,Dentist
+43,Raritan Bay Medical Center Medical Transport,40.518935,-74.281308,"530 New Brunswick Ave, Perth Amboy, NJ 08861",Perth Amboy,Harbor Terrace,Dentist
 43,Optically Yours,40.619091,-74.032662,"9215 3rd Ave, Brooklyn, NY 11209",Brooklyn,Bayridge,Dentist
 43,Roccaro Gregory DVM,40.591508,-74.100645,"1564 Richmond Rd, Staten Island, NY 10304",Staten Island,Dongan Hills,Dentist
 43,Rehabilitation Associates of Brooklyn,40.611374,-73.953913,"2072 Ocean Ave, Brooklyn, NY 11230",Brooklyn,Manhattan Terrace,Dentist
@@ -11874,7 +11874,7 @@
 43,Kayla C Cynamon,40.605295,-73.941998,"1894 Haring St, Brooklyn, NY 11229",Brooklyn,Sheepshead Bay,Dentist
 43,Amber Court Of Brooklyn,40.648957,-73.897925,"650 E 104th St, Brooklyn, NY 11236",Brooklyn,Canarsie,Dentist
 43,Cazazian Abram DDS PC,40.76232,-73.772155,"4203 212th St, Bayside, NY 11361",Bayside,Bayside,Dentist
-43,Mid Flushing Medical Arts,40.760783,-73.827492,"13678 39th Ave, Flushing, NY 11354",Flushing,Down Town Flushing,Dentist
+43,Nektalov Family Chirop,40.721948,-73.842032,"10850 71st Ave, Forest Hills, NY 11375",Forest Hills,Forest Hills,Dentist
 43,Gracie Square Hospital,40.769694,-73.952857,"420 E 76th St, New York, NY 10021",New York,Lenox Hill,Dentist
 43,Sleep Disorders Center-Columbia Presbyterian,40.841324,-73.943365,"161 Fort Washington Ave, New York, NY 10032",New York,Uptown,Dentist
 43,Evydent Dentistry PC,40.867551,-73.924054,"29 Cooper St (btwn W 204th St and Academy St.), New York, NY 10034",New York,Fort George,Dentist
@@ -11899,7 +11899,6 @@
 43,Mount Sinai Brooklyn,40.618675,-73.942788,"3201 Kings Hwy (at E. 32nd St.), Brooklyn, NY 11234",Brooklyn,Manhattan Terrace,Dentist
 43,Elmhurst Hospital Center Clinics,40.745974,-73.884735,"7901 Broadway, Elmhurst, NY 11373",Elmhurst,Elmhurst,Dentist
 43,Oakwood Dental Arts,40.523642,-74.238562,"4864 Arthur Kill Rd, Staten Island, NY 10309",Staten Island,Richmond Valley,Dentist
-43,Victory Behavioral Health,40.61175,-74.139817,"2291 Victory Blvd, Staten Island, NY 10314",Staten Island,Meiers Corners,Dentist
 43,"Tiu, Cherry P",40.509003,-74.267817,"313 State St, Perth Amboy, NJ 08861",Perth Amboy,Downtown,Dentist
 43,Dr. Yongzeng Ding,40.755611,-73.827219,"13630 Maple Ave, Flushing, NY 11355",Flushing,Flushing,Dentist
 43,Geb Hetep Wholistic Center,40.677326,-73.945905,"1344 Pacific St, Brooklyn, NY 11216",Brooklyn,Crown Heights,Dentist
@@ -11909,12 +11908,12 @@
 43,CityMD Pelham Parkway Urgent Care - Bronx,40.855905,-73.867452,"Parkway 2178 White Plains Rd, Bronx, NY 10462",Bronx,Bronxdale,Dentist
 43,Mount Sinai Beth Israel,40.73283,-73.981713,"10 Nathan D Perlman Pl (btwn E 15th & E 16th St), New York, NY 10003",New York,East Village,Dentist
 43,North Shore University Hospital,40.601455,-73.763989,"821 Bay 25th St, Far Rockaway, NY 11691",Far Rockaway,Bayswater,Dentist
-43,Ganz Rebecca Twerski MS,40.618821,-73.728532,"360 Central Ave, Lawrence, NY 11559",Lawrence,Far Rockaway,Dentist
+43,Brecher Rubin,40.618821,-73.728532,"360 Central Ave, Lawrence, NY 11559",Lawrence,Far Rockaway,Dentist
 43,Group Health Dental,40.755725,-73.988707,"230 W 41st St, New York, NY 10036",New York,Midtown,Dentist
 43,SIUH Heart Tower,40.585102,-74.085187,"242 Mason Ave, Staten Island, NY 10305",Staten Island,Midland Beach,Dentist
 44,Mosholu Medical Group,40.9055,-73.899026,"5750 Mosholu Ave, Bronx, NY 10471",Bronx,Fildston,Family Medicine Doctor
 44,Yai,40.839094,-73.836557,"3060 E Tremont Ave, Bronx, NY 10461",Bronx,Schuylerville,Family Medicine Doctor
-44,Tucci Paul MD PC,40.917241,-73.859143,"955 Yonkers Ave, Yonkers, NY 10704",Yonkers,Southeast Yonkers,Family Medicine Doctor
+44,Rao Prakashchandra M,40.917241,-73.859143,"955 Yonkers Ave, Yonkers, NY 10704",Yonkers,Southeast Yonkers,Family Medicine Doctor
 44,All Med Medical,40.899422,-73.858404,"4377 Bronx Blvd (Neried Ave), Bronx, NY 10466",Bronx,Wakefield,Family Medicine Doctor
 44,Living Transformation,40.915713,-73.895069,"28 Lawrence St, Yonkers, NY 10705",Yonkers,Fildston,Family Medicine Doctor
 44,Saint Joseph's Hospital,40.929131,-73.898814,"44 Vark St, Yonkers, NY 10701",Yonkers,Fildston,Family Medicine Doctor
@@ -11988,7 +11987,7 @@
 44,Edward S. Stiel,40.610212,-73.975082,"2469 65th St, Brooklyn, NY 11204",Brooklyn,Bensonhurst,Family Medicine Doctor
 44,"Himani Goyal, MD",40.627622,-74.026077,"7901 4th Ave, Brooklyn, NY 11209",Brooklyn,Bayridge,Family Medicine Doctor
 44,Prospect Park Animal Clinic,40.666686,-73.975408,"105 Prospect Park W (5th Street), Brooklyn, NY 11215",Brooklyn,Park Slope,Family Medicine Doctor
-44,Summit Home Health Care,40.608469,-73.962369,"2000 Coney Island Ave, Brooklyn, NY 11223",Brooklyn,Gravesend,Family Medicine Doctor
+44,Leon Stepensky,40.576134,-73.964792,"3111 Brighton 2nd St, Brooklyn, NY 11235",Brooklyn,Brighton Beach,Family Medicine Doctor
 44,"COVID-19 Walk-In Testing Center, Gotham Health",40.627885,-73.965561,"1223 Coney Island Ave, Brooklyn, NY 11230",Brooklyn,Fiske Terrace,Family Medicine Doctor
 44,Essex Crossing - COVID-19 Vaccine Site,40.718048,-73.989499,"244B Broome Street (Ludlow St), New York, NY 10002",New York,Chinatown,Family Medicine Doctor
 44,Smart Eye Care,40.580693,-73.953435,"37 W End Ave, Brooklyn, NY 11235",Brooklyn,Brighton Beach,Family Medicine Doctor
@@ -12047,7 +12046,7 @@
 44,NYU Langone Neurology Consultants of NY,40.749267,-73.974084,"222 E 41st St, New York, NY 10017",New York,East Side,Family Medicine Doctor
 44,Quality NP Family Health,40.776462,-73.911384,"2928 Ditmars Blvd, Astoria, NY 11105",Astoria,Astoria,Family Medicine Doctor
 44,Forest Hills Pediatric Group,40.722641,-73.842363,"10848 70th Rd, Forest Hills, NY 11375",Forest Hills,Forest Hills,Family Medicine Doctor
-44,Bedford Stuyvesant Family Health Center,40.680273,-73.944535,"1456 Fulton St (btwn Brooklyn & Kingston), Brooklyn, NY 11216",Brooklyn,Bedford,Family Medicine Doctor
+44,Queens Medical Imaging,40.721777,-73.84866,"6915 Austin St (Btw 69th Rd and Yellowstone Blvd), Forest Hills, NY 11375",Forest Hills,Forest Hills,Family Medicine Doctor
 44,Metropolitan Smiles,40.705732,-73.830975,"11956 Metropolitan Ave (Brevoort Street), Kew Gardens, NY 11415",Kew Gardens,Briarwood,Family Medicine Doctor
 44,Elmhurst Hospital Center,40.745082,-73.885837,"7901 Broadway (at 78th St.), Elmhurst, NY 11373",Elmhurst,Elmhurst,Family Medicine Doctor
 44,Forest Hills Pediatric Group,40.722641,-73.842363,"10848 70th Rd, Forest Hills, NY 11375",Forest Hills,Forest Hills,Family Medicine Doctor
@@ -12072,7 +12071,7 @@
 44,Lesser Judd DDS,40.631259,-73.70909,"949 Central Ave, Woodmere, NY 11598",Woodmere,Old Woodmere,Family Medicine Doctor
 44,Harmonie Ultime Laser,40.577585,-73.968895,"3000 Ocean Pkwy, Brooklyn, NY 11235",Brooklyn,Brighton Beach,Family Medicine Doctor
 44,New York Presbyterian Hospital Weill Cornell Medical Center,40.764536,-73.954013,"525 E 68th St (at York Ave), New York, NY 10065",New York,Lenox Hill,Family Medicine Doctor
-44,Montefiore Medical Center,40.760879,-73.830073,"13620 38th Ave, Flushing, NY 11354",Flushing,Down Town Flushing,Family Medicine Doctor
+44,Albert Jen,40.760879,-73.830073,"13620 38th Ave, Flushing, NY 11354",Flushing,Down Town Flushing,Family Medicine Doctor
 44,"Shafizadeh Farshad, MD",40.7549,-73.817061,"14601 45th Ave, Flushing, NY 11355",Flushing,Flushing,Family Medicine Doctor
 44,Sigma Related Services,40.611601,-73.739478,"69 Sutton Pl, Lawrence, NY 11559",Lawrence,Far Rockaway,Family Medicine Doctor
 44,New Horizon Counseling Center,40.578202,-73.835502,"11502 Ocean Promenade, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Family Medicine Doctor
@@ -12088,7 +12087,7 @@
 44,AdvantageCare Physicians,40.675405,-73.896382,"101 Pennsylvania Ave (Emerald St), Brooklyn, NY 11207",Brooklyn,Broadway Junction,Family Medicine Doctor
 44,Guarnaccia Gary J MD PC,40.71874,-73.836766,"11203 Queens Blvd, Forest Hills, NY 11375",Forest Hills,Forest Hills,Family Medicine Doctor
 44,Promenade Rehabilitation and Health Care Center,40.578773,-73.834218,"140 Beach 114th St, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Family Medicine Doctor
-44,Rockaway Home Attendant Service,40.604991,-73.751835,"1603 Central Ave, Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Family Medicine Doctor
+44,Brookhaven Beach Health,40.596616,-73.750852,"250 Beach 17th St, Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Family Medicine Doctor
 44,Winthrop Specialty Center South,40.65871,-73.696929,"70 E Sunrise Hwy, Valley Stream, NY 11581",Valley Stream,Rosedale,Family Medicine Doctor
 44,Northwell Health Center for Advanced Medicine,40.756438,-73.699723,"450 Lakeville Rd, New Hyde Park, NY 11042",New Hyde Park,Glen Oaks,Family Medicine Doctor
 44,Perfect Teeth Dental,40.724559,-73.866133,"8811 63rd Dr, Rego Park, NY 11374",Rego Park,LeFrak City,Family Medicine Doctor
@@ -12107,7 +12106,7 @@
 44,Quest Diagnostics,40.56807,-74.112595,"2627 Hylan Blvd (At Beach Ave.), Staten Island, NY 10306",Staten Island,New Dorp,Family Medicine Doctor
 44,"Alliance Physical Therapy, PC",40.527536,-74.200745,"5765 Amboy Rd, Staten Island, NY 10309",Staten Island,Princes Bay,Family Medicine Doctor
 44,"Berk and Klein, DDS",40.556247,-74.168571,"3377 Richmond Ave, Staten Island, NY 10312",Staten Island,Greenridge,Family Medicine Doctor
-44,Raritan Bay Medical Center Medical Transport,40.518935,-74.281308,"530 New Brunswick Ave, Perth Amboy, NJ 08861",Perth Amboy,Harbor Terrace,Family Medicine Doctor
+44,Fresenius Kidney Care Perth Amboy,40.518738,-74.28069,"530 New Brunswick Ave, Perth Amboy, NJ 08861",Perth Amboy,Harbor Terrace,Family Medicine Doctor
 44,Person Centered Care Service,40.613205,-74.123893,"1811 Victory Blvd, Staten Island, NY 10314",Staten Island,Castleton Corners,Family Medicine Doctor
 44,Aadobe Pet Hospital,40.626203,-74.132892,"1294 Forest Ave, Staten Island, NY 10302",Staten Island,Westerleigh,Family Medicine Doctor
 44,Staten Island Oral and Maxillofacial Surgery,40.586213,-74.085885,"256 Mason Ave, Staten Island, NY 10305",Staten Island,Midland Beach,Family Medicine Doctor
@@ -12145,7 +12144,7 @@
 44,Quality Laboratory Service,40.592551,-73.950495,"2818 Ocean Ave, Brooklyn, NY 11235",Brooklyn,Sheepshead Bay,Family Medicine Doctor
 44,VIP Dental Care,40.720325,-73.842235,"10862 Queens Blvd, Forest Hills, NY 11375",Forest Hills,Forest Hills,Family Medicine Doctor
 44,Dr Bronfman's Office,40.760696,-73.824562,"40-04 Sanford Avenue, Flushing, NY 11355",Flushing,Down Town Flushing,Family Medicine Doctor
-44,Nektalov Family Chirop,40.721948,-73.842032,"10850 71st Ave, Forest Hills, NY 11375",Forest Hills,Forest Hills,Family Medicine Doctor
+44,Mid Flushing Medical Arts,40.760783,-73.827492,"13678 39th Ave, Flushing, NY 11354",Flushing,Down Town Flushing,Family Medicine Doctor
 44,Hospital For Special Surgery,40.7653,-73.952646,"535 E 70th St (at York Ave), New York, NY 10021",New York,Lenox Hill,Family Medicine Doctor
 44,University Nursing Home,40.864838,-73.901929,"2505 Grand Ave, Bronx, NY 10468",Bronx,Fordham,Family Medicine Doctor
 44,JAG-ONE Physical Therapy,40.801974,-73.964944,"976 Amsterdam Ave, New York, NY 10025",New York,Manhattan Valley,Family Medicine Doctor
@@ -12169,7 +12168,8 @@
 44,"Singh, Kuldeep Vascular Surgery at Staten Island University Hospital",40.583441,-74.0849,"501 Seaview Ave, Staten Island, NY 10305",Staten Island,Midland Beach,Family Medicine Doctor
 44,Irina Berlin Medical PC,40.575991,-73.970095,"3080 W 1st St, Brooklyn, NY 11224",Brooklyn,Brighton Beach,Family Medicine Doctor
 44,Forest Hills Pediatric Group,40.722641,-73.842363,"10848 70th Rd, Forest Hills, NY 11375",Forest Hills,Forest Hills,Family Medicine Doctor
-44,"Ruggeri, Mark L, DDS",40.523587,-74.238603,"4864 Arthur Kill Rd, Staten Island, NY 10309",Staten Island,Richmond Valley,Family Medicine Doctor
+44,CVS MinuteClinic,40.5538,-74.1929,"260 Arden Ave, Staten Island, NY 10312",Staten Island,Aspen Knolls,Family Medicine Doctor
+44,Victory Behavioral Health,40.61175,-74.139817,"2291 Victory Blvd, Staten Island, NY 10314",Staten Island,Meiers Corners,Family Medicine Doctor
 44,Always Home Care,40.510322,-74.268702,"167 New Brunswick Ave, Perth Amboy, NJ 08861",Perth Amboy,Harbor Terrace,Family Medicine Doctor
 44,Kim Changrae,40.760361,-73.801793,"16410 Northern Blvd, Flushing, NY 11358",Flushing,Auburndale,Family Medicine Doctor
 44,Woodhull Medical And Mental Health Center,40.699519,-73.942567,"760 Broadway (at Flushing Ave.), Brooklyn, NY 11206",Brooklyn,Ord-Stuyvesant,Family Medicine Doctor
@@ -12183,7 +12183,7 @@
 44,Goel Anupama Mount Sinai Heart New York,40.769789,-73.985458,"425 W 59th St, New York, NY 10019",New York,Lincoln Square,Family Medicine Doctor
 45,CityMD Riverdale,40.884499,-73.900169,"193 W 237th St, Bronx, NY 10463",Bronx,Kings Bridge,Health and Medicine
 45,Dr Biagiotti's Office,40.83859,-73.835139,"Tremont Ave (Duddley Ave), Bronx, NY 10461",Bronx,Unionport,Health and Medicine
-45,Rao Prakashchandra M,40.917241,-73.859143,"955 Yonkers Ave, Yonkers, NY 10704",Yonkers,Southeast Yonkers,Health and Medicine
+45,Tucci Paul MD PC,40.917241,-73.859143,"955 Yonkers Ave, Yonkers, NY 10704",Yonkers,Southeast Yonkers,Health and Medicine
 45,New York Liberty Dental,40.930875,-73.890023,"121 Beech St, Yonkers, NY 10701",Yonkers,Fildston,Health and Medicine
 45,Morris Heights Health Center,40.85473,-73.910348,"85 W Burnside Ave, Bronx, NY 10453",Bronx,Morris Heights,Health and Medicine
 45,Our Lady of Mercy Dnt Clinic,40.895479,-73.860363,"4234 Bronx Blvd, Bronx, NY 10466",Bronx,Williamsbridge,Health and Medicine
@@ -12275,7 +12275,7 @@
 45,Upper East Veterinary Center,40.784239,-73.951887,"1435 Lexington Ave (at E. 94th), New York, NY 10128",New York,Carnegie Hill,Health and Medicine
 45,Stefan Kieserman,40.780677,-73.957913,"61 E 86th St (btwn Park & Madison), New York, NY 10028",New York,Carnegie Hill,Health and Medicine
 45,Bronx Lebanon - Fulton Division,40.831428,-73.902953,"1276 Fulton Ave (E 169th St), Bronx, NY 10456",Bronx,Morrisania,Health and Medicine
-45,"Robin Unger, MD",40.769741,-73.965225,"710 Park Ave, New York, NY 10021",New York,Lenox Hill,Health and Medicine
+45,"Cummings, Allegra Weill Cornell Medicine Obstetrics and Gynecology",40.784171,-73.979043,"232 W 80th St (Broadway), New York, NY 10024",New York,Lincoln Square,Health and Medicine
 45,Mount Sinai West,40.769973,-73.987526,"1000 10th Ave (at 59th Street), New York, NY 10019",New York,San Juan Hill,Health and Medicine
 45,Westside Veterinary Center,40.785982,-73.977438,"220 W 83rd St (btwn Amsterdam and Broadway), New York, NY 10024",New York,Upper West Side,Health and Medicine
 45,West End Chiropractic,40.787558,-73.979073,"495 W End Ave, New York, NY 10024",New York,Upper West Side,Health and Medicine
@@ -12351,7 +12351,7 @@
 45,Statcare Urgent & Walk-In Medical Care (Jackson Heights),40.755199,-73.886823,"80-10 Northern Blvd, New York, NY 11372",New York,Jackson Heights,Health and Medicine
 45,Ocean Promenade Nursing Center,40.579114,-73.833534,"140 Beach 113th St, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Health and Medicine
 45,O D,40.581079,-73.828295,"10710 Shore Front Pkwy, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Health and Medicine
-45,Brookhaven Beach Health,40.596616,-73.750852,"250 Beach 17th St, Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Health and Medicine
+45,Rockaway Home Attendant Service,40.604991,-73.751835,"1603 Central Ave, Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Health and Medicine
 45,Bayside Pediatrics PC,40.762034,-73.771932,"4223 212th St, Bayside, NY 11361",Bayside,Bayside,Health and Medicine
 45,TJH Medical Services PC,40.75506,-73.817111,"14601 45th Ave (Burling St.), Flushing, NY 11355",Flushing,Flushing,Health and Medicine
 45,Healthy Latino Community,40.712686,-73.79732,"8506 167th St, Jamaica, NY 11432",Jamaica,Jamaica Hills,Health and Medicine
@@ -12436,7 +12436,7 @@
 45,Quest Diagnostics,40.611185,-74.119104,"78 Todt Hill Rd, Staten Island, NY 10314",Staten Island,Castleton Corners,Health and Medicine
 45,Sheepshead Nursing and Rehabilitation Center,40.585259,-73.931675,"2840 Knapp St, Brooklyn, NY 11235",Brooklyn,Plum Beach,Health and Medicine
 45,City Central Dermatology,40.745864,-73.890975,"4037 74th St (74th Street), Elmhurst, NY 11373",Elmhurst,Elmhurst,Health and Medicine
-45,CVS MinuteClinic,40.5538,-74.1929,"260 Arden Ave, Staten Island, NY 10312",Staten Island,Aspen Knolls,Health and Medicine
+45,"Ruggeri, Mark L, DDS",40.523587,-74.238603,"4864 Arthur Kill Rd, Staten Island, NY 10309",Staten Island,Richmond Valley,Health and Medicine
 45,Dr Charles Patterino,40.611842,-74.139647,"2281 Victory Blvd (Harvey Ave), Staten Island, NY 10314",Staten Island,Meiers Corners,Health and Medicine
 45,Santamaria Eye Center,40.507059,-74.268077,"104 Market St, Perth Amboy, NJ 08861",Perth Amboy,Downtown,Health and Medicine
 45,COVID-19 Vaccine Hub Site: Mass Vaccination Site - Citi Field,40.757649,-73.844605,"41 Seaver Way, New York, NY 11368",New York,North Corona,Health and Medicine
@@ -12546,7 +12546,7 @@
 46,Central Park West Wellness,40.786763,-73.968464,"279 Central Park W, New York, NY 10024",New York,Upper West Side,Medical Lab
 46,"Cummings, Allegra Weill Cornell Medicine Obstetrics and Gynecology",40.784171,-73.979043,"232 W 80th St (Broadway), New York, NY 10024",New York,Lincoln Square,Medical Lab
 46,Maternal Fetal Medicine Associates,40.782986,-73.956341,"70 E 90th St, New York, NY 10128",New York,Carnegie Hill,Medical Lab
-46,"Cummings, Allegra Weill Cornell Medicine Obstetrics and Gynecology",40.784171,-73.979043,"232 W 80th St (Broadway), New York, NY 10024",New York,Lincoln Square,Medical Lab
+46,"Robin Unger, MD",40.769741,-73.965225,"710 Park Ave, New York, NY 10021",New York,Lenox Hill,Medical Lab
 46,Columbia Primary Care Midtown,40.760203,-73.978748,"51 W 51st St (5th and 6th Avenue), New York, NY 10019",New York,Midtown,Medical Lab
 46,"Cummings, Allegra Weill Cornell Medicine Obstetrics and Gynecology",40.784171,-73.979043,"232 W 80th St (Broadway), New York, NY 10024",New York,Lincoln Square,Medical Lab
 46,The Veterinarian At Co,40.746625,-73.941794,"2719 44th Dr (21st street), Long Island City, NY 11101",Long Island City,Hunters Point,Medical Lab
@@ -12589,7 +12589,7 @@
 46,Afford Dental PC,40.721435,-73.843105,"10855 Queens Blvd, Forest Hills, NY 11375",Forest Hills,Forest Hills,Medical Lab
 46,CRT Surgery,40.747592,-73.826452,"5620 Main St, Flushing, NY 11355",Flushing,Queensboro Hills,Medical Lab
 46,Community Pain Medicine,40.769032,-73.827744,"14021 32nd Ave, Flushing, NY 11354",Flushing,Down Town Flushing,Medical Lab
-46,Albert Jen,40.760879,-73.830073,"13620 38th Ave, Flushing, NY 11354",Flushing,Down Town Flushing,Medical Lab
+46,Montefiore Medical Center,40.760879,-73.830073,"13620 38th Ave, Flushing, NY 11354",Flushing,Down Town Flushing,Medical Lab
 46,Shrock Peter MD,40.752749,-73.707155,"26901 76th Ave, New Hyde Park, NY 11040",New Hyde Park,Glen Oaks,Medical Lab
 46,Jodilyn Gingold MD,40.754439,-73.704242,"444 Lakeville Rd, New Hyde Park, NY 11042",New Hyde Park,Glen Oaks,Medical Lab
 46,Peds 4 Kids,40.727328,-73.863353,"6395 Austin St, Rego Park, NY 11374",Rego Park,Forest Hills,Medical Lab
@@ -12608,7 +12608,7 @@
 46,Grace Plaza of Great Neck,40.788635,-73.722246,"15 Saint Pauls Pl, Great Neck, NY 11021",Great Neck,East Garden City,Medical Lab
 46,Surfside Manor,40.585769,-73.817584,"9502 Rockaway Beach Blvd, Rockaway Beach, NY 11693",Queens,Holland,Medical Lab
 46,Animal Hospital of the Rockaways,40.582304,-73.837173,"11410 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Medical Lab
-46,Pike Sheldon,40.582013,-73.837989,"11412 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Medical Lab
+46,Paw Prints Animal Medical Centre Pc,40.579818,-73.837519,"207 Beach 116th St, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Medical Lab
 46,Ocean Promenade Rehab & Nursing,40.578908,-73.833178,"140 Beach 113th St, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Medical Lab
 46,NewYork-Presbyterian Medical Group Queens Pediatric Care,40.743932,-73.777374,"19815 Horace Harding Expy (Francis Lewis Boulevard), Fresh Meadows, NY 11365",Fresh Meadows,Fresh Meadows,Medical Lab
 46,Dr Amin Office,40.728694,-73.744109,"8902 Springfield Blvd, Queens Village, NY 11427",Queens Village,Bellaire,Medical Lab
@@ -12788,7 +12788,7 @@
 47,Tikvah At Ohel,40.616187,-73.945176,"2925 Kings Hwy, Brooklyn, NY 11229",Brooklyn,Manhattan Terrace,Nursing Home
 47,New Generation Medical Practice,40.660319,-73.957023,"1854 Bedford Ave (Maple St.), Brooklyn, NY 11225",Brooklyn,Prospect,Nursing Home
 47,Mind your health,40.615294,-73.958381,"1417 E 16th St, Brooklyn, NY 11230",Brooklyn,Manhattan Terrace,Nursing Home
-47,Rehabilitation Associates of Brooklyn,40.611374,-73.953913,"2072 Ocean Ave, Brooklyn, NY 11230",Brooklyn,Manhattan Terrace,Nursing Home
+47,Comprehensive Dental Service,40.598454,-73.979674,"154 Avenue T (W7th st), New York, NY 11223",New York,Bensonhurst,Nursing Home
 47,Andre J Singer DDS,40.612984,-74.000527,"7810 17th Ave, Brooklyn, NY 11214",Brooklyn,New Utrecht,Nursing Home
 47,"Michael Yuryev, DO - Primary Care Doctor | Family Doctor | Brooklyn, NY",40.603227,-73.952473,"2409 Ocean Ave (Ave T and Ave S), Brooklyn, NY 11229",Brooklyn,Sheepshead Bay,Nursing Home
 47,Brooklyn VA Hospital Pulmonology,40.608275,-74.024432,"800 Poly Pl (7th ave), Brooklyn, NY 11209",Brooklyn,Fort Hamilton,Nursing Home
@@ -12859,7 +12859,7 @@
 47,Jin Yiping Newyork Presbyterian Queens Hospital Flushing,40.747137,-73.825257,"5645 Main St (at Booth Memorial Ave.), Flushing, NY 11355",Flushing,Queensboro Hills,Nursing Home
 47,Corbin Family Dental Arts,40.766654,-73.783406,"20417 35th Ave, Bayside, NY 11361",Bayside,Bayside,Nursing Home
 47,Mid Flushing Medical Arts,40.760783,-73.827492,"13678 39th Ave, Flushing, NY 11354",Flushing,Down Town Flushing,Nursing Home
-47,Montefiore Medical Center,40.760879,-73.830073,"13620 38th Ave, Flushing, NY 11354",Flushing,Down Town Flushing,Nursing Home
+47,Albert Jen,40.760879,-73.830073,"13620 38th Ave, Flushing, NY 11354",Flushing,Down Town Flushing,Nursing Home
 47,Creedmoor Addiction Treatment,40.741315,-73.731092,"8045 Winchester Blvd, Queens Village, NY 11427",Queens Village,Bellaire,Nursing Home
 47,North Shore Dental,40.774179,-73.701919,"400 Community Dr, Manhasset, NY 11030",Manhasset,Glen Oaks,Nursing Home
 47,TJH Medical Services PC,40.75506,-73.817111,"14601 45th Ave (Burling St.), Flushing, NY 11355",Flushing,Flushing,Nursing Home
@@ -13050,7 +13050,7 @@
 48,Kings County Behavioral Health Center,40.656347,-73.946365,"New York, NY 11203",New York,Prospect,Health and Medicine
 48,Oral & Maxillofacial Surgery of Ocean Parkway,40.605545,-73.966409,"1777 Ocean Pkwy (at Kings Hwy), Brooklyn, NY 11223",Brooklyn,Gravesend,Health and Medicine
 48,"Leona Kotlyar, DDS - Brooklyn Pediatric Dentistry",40.587848,-73.953667,"1512 Avenue Z, Brooklyn, NY 11235",Brooklyn,Sheepshead Bay,Health and Medicine
-48,Comprehensive Dental Service,40.598454,-73.979674,"154 Avenue T (W7th st), New York, NY 11223",New York,Bensonhurst,Health and Medicine
+48,Rehabilitation Associates of Brooklyn,40.611374,-73.953913,"2072 Ocean Ave, Brooklyn, NY 11230",Brooklyn,Manhattan Terrace,Health and Medicine
 48,Bay Ridge Medical Imaging,40.608256,-73.961724,"2005 Coney Island Ave (Quentin Road), New York, NY 11223",New York,Gravesend,Health and Medicine
 48,Maimonides Cancer Center,40.633835,-74.011686,"6300 8th Ave, Brooklyn, NY 11220",Brooklyn,Bayridge,Health and Medicine
 48,Methodist Hospital Emergency Room,40.668216,-73.980001,"506 6th St, Brooklyn, NY 11215",Brooklyn,Park Slope,Health and Medicine
@@ -13143,7 +13143,7 @@
 48,Dr Bronfman's Office,40.760696,-73.824562,"40-04 Sanford Avenue, Flushing, NY 11355",Flushing,Down Town Flushing,Health and Medicine
 48,Kirtane Yashodhare S,40.613632,-73.731449,"10 Causeway, Lawrence, NY 11559",Lawrence,Far Rockaway,Health and Medicine
 48,Central Assisted Living,40.605492,-73.751199,"1509 Central Ave, Far Rockaway, NY 11691",Far Rockaway,Far Rockaway,Health and Medicine
-48,Paw Prints Animal Medical Centre Pc,40.579818,-73.837519,"207 Beach 116th St, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Health and Medicine
+48,Pike Sheldon,40.582013,-73.837989,"11412 Beach Channel Dr, Rockaway Park, NY 11694",Rockaway Park,Boardwalk,Health and Medicine
 48,Shore Front Occupancy,40.581642,-73.827358,"10620 Shore Front Pkwy, Far Rockaway, NY 11694",Far Rockaway,Seaside,Health and Medicine
 48,Kesner Stuart,40.729391,-73.812618,"15402 71st Ave, Flushing, NY 11367",Flushing,Pomonok,Health and Medicine
 48,Bell Dental Care,40.763021,-73.769127,"21435 42nd Ave, Bayside, NY 11361",Bayside,Bayside,Health and Medicine
@@ -13228,7 +13228,7 @@
 48,Mount Sinai Beth Israel Hospital Emergency Department,40.733331,-73.982851,"10 Nathan D Perlman Pl (At 1st Ave), New York, NY 10003",New York,East Village,Health and Medicine
 48,Brooklyn Hospital Labor & Delivery,40.69048,-73.977991,"Dekalb Ave, Brooklyn, NY 11201",Brooklyn,Clinton Hill,Health and Medicine
 48,Woodhull Medical And Mental Health Center,40.699519,-73.942567,"760 Broadway (at Flushing Ave.), Brooklyn, NY 11206",Brooklyn,Ord-Stuyvesant,Health and Medicine
-48,Neighborhood Natural Medicine,40.710225,-73.949523,"30 Maujer St, Brooklyn, NY 11206",Brooklyn,South Side,Health and Medicine
+48,Mount Sinai Beth Israel,40.73283,-73.981713,"10 Nathan D Perlman Pl (btwn E 15th & E 16th St), New York, NY 10003",New York,East Village,Health and Medicine
 48,Vision Gallery,40.573885,-74.106876,"2351 Hylan Blvd, Staten Island, NY 10306",Staten Island,New Dorp,Health and Medicine
 48,Home Care,40.6314,-74.118689,"117 Caroline St, Staten Island, NY 10310",Staten Island,West New Brighton,Health and Medicine
 48,Service Behavioral,40.518858,-74.260305,"693 Harbortown Blvd, Perth Amboy, NJ 08861",Perth Amboy,Harbor Terrace,Health and Medicine
@@ -13294,7 +13294,7 @@
 49,Ocean Ave Dental,40.607744,-73.952734,"2211 Ocean Ave (Ave R), Brooklyn, NY 11229",Brooklyn,Gravesend,Physical Therapy Clinic
 49,Comprehensive Dental Service,40.598454,-73.979674,"154 Avenue T (W7th st), New York, NY 11223",New York,Bensonhurst,Physical Therapy Clinic
 49,PAWSitive Veterinary of New York,40.647279,-73.968985,"1103 Church Ave (Stratford Road), Brooklyn, NY 11218",Brooklyn,Prospect Park Sout,Physical Therapy Clinic
-49,Tribeca Pediatrics,40.66021,-73.99499,"5TH Ave (23rd And 24th), Brooklyn, NY 11232",Brooklyn,South Brooklyn,Physical Therapy Clinic
+49,Doshi Diagnostic Imaging,40.619063,-73.916061,"6309 Mill Ln (64th & 65th Streets), Brooklyn, NY 11234",Brooklyn,Georgetown,Physical Therapy Clinic
 49,Be Well Primary Health Care Center,40.636155,-73.947857,"2019 Nostrand Ave, Brooklyn, NY 11210",Brooklyn,East Flatbush,Physical Therapy Clinic
 49,Park Slope Dental,40.669385,-73.976645,"300 8th Ave (3rd. St), Brooklyn, NY 11215",Brooklyn,Park Slope,Physical Therapy Clinic
 49,Park Slope Oral & Maxillofacial Surgery,40.675303,-73.97705,"805 Union St, Brooklyn, NY 11215",Brooklyn,Park Slope,Physical Therapy Clinic
@@ -13442,7 +13442,7 @@
 49,The Spine & Pain Institute Of New York,40.613255,-74.114486,"1534 Victory Blvd, Staten Island, NY 10314",Staten Island,Castleton Corners,Physical Therapy Clinic
 49,Person Centered Care Service,40.613205,-74.123893,"1811 Victory Blvd, Staten Island, NY 10314",Staten Island,Castleton Corners,Physical Therapy Clinic
 49,Michael A. Schirripa,40.526933,-74.167876,"4855 Hylan Blvd, Staten Island, NY 10312",Staten Island,Huguenot,Physical Therapy Clinic
-49,Michael A. Schirripa,40.526933,-74.167876,"4855 Hylan Blvd, Staten Island, NY 10312",Staten Island,Huguenot,Physical Therapy Clinic
+49,North Shore Staten Island University Hospital,40.526933,-74.167876,"4855 Hylan Blvd, Staten Island, NY 10312",Staten Island,Huguenot,Physical Therapy Clinic
 49,Podiatry Center of New Jersey Perth Amboy,40.50986,-74.27147,"202 Smith St, Perth Amboy, NJ 08861",Perth Amboy,Harbor Terrace,Physical Therapy Clinic
 49,Amboy Family Dental Care,40.509558,-74.270884,"186 Smith St, Perth Amboy, NJ 08861",Perth Amboy,Downtown,Physical Therapy Clinic
 49,Victory Veterinary Practice,40.588362,-74.195771,"4316 Victory Blvd, Staten Island, NY 10314",Staten Island,Chelsea,Physical Therapy Clinic
@@ -13482,7 +13482,7 @@
 49,Community Chiropractic,40.673482,-73.972619,"71 8th Ave (Union), Brooklyn, NY 11217",Brooklyn,Park Slope,Physical Therapy Clinic
 49,Veterinary Emergency & Referral Group,40.678328,-73.982794,"196 4th Ave, New York, NY 11217",New York,Fort Greene,Physical Therapy Clinic
 49,NYC EMS Hospital 48,40.656639,-73.943499,"451 Clarkson Ave (at New York Ave), Brooklyn, NY 11203",Brooklyn,Rugby,Physical Therapy Clinic
-49,Mount Sinai Beth Israel,40.73283,-73.981713,"10 Nathan D Perlman Pl (btwn E 15th & E 16th St), New York, NY 10003",New York,East Village,Physical Therapy Clinic
+49,Neighborhood Natural Medicine,40.710225,-73.949523,"30 Maujer St, Brooklyn, NY 11206",Brooklyn,South Side,Physical Therapy Clinic
 49,Richmond OB-Gyn Associates PC At New Dorp,40.572168,-74.11429,"5 Coddington Ave, Staten Island, NY 10306",Staten Island,New Dorp,Physical Therapy Clinic
 49,Richmond Medical Associates PC,40.547312,-74.166665,"7 Petrus Ave, Staten Island, NY 10312",Staten Island,Annadale,Physical Therapy Clinic
 49,Dr Charles Patterino,40.611842,-74.139647,"2281 Victory Blvd (Harvey Ave), Staten Island, NY 10314",Staten Island,Meiers Corners,Physical Therapy Clinic
